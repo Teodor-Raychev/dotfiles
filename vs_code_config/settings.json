@@ -11,7 +11,6 @@
         "editor.defaultFormatter": "esbenp.prettier-vscode",
         "editor.tabSize": 2 
     },
-    // Python:
     "[python]": { "editor.tabSize": 4},
     "[c]": { "editor.tabSize": 4 },
     "[ruby]": {
