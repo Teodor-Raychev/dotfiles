@@ -1,0 +1,29 @@
+{
+    "workbench.colorTheme": "Palenight (Mild Contrast)",
+    "window.menuBarVisibility": "toggle",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.rulers": [
+        80,
+        100
+    ],
+    "editor.mouseWheelZoom": true,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.tabSize": 2 
+    },
+    // Python:
+    "[python]": { "editor.tabSize": 4},
+    "[c]": { "editor.tabSize": 4 },
+    "[ruby]": {
+        "editor.tabSize": 2,
+        "editor.defaultFormatter": "misogi.ruby-rubocop"
+    },
+    "[javascriptreact]": {
+        "editor.tabSize": 2
+    },
+    "[typescriptreact]": {
+        "editor.tabSize": 2,
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "gitlens.codeLens.enabled": false,
+}
