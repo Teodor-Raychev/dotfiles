@@ -11,6 +11,7 @@ fi
 # Path to your oh-my-zsh installation.
 export ZSH="$HOME/.oh-my-zsh"
 
+typeset -g POWERLEVEL9K_INSTANT_PROMPT=quiet
 ZSH_THEME="powerlevel10k/powerlevel10k"
 plugins=(git)
 
@@ -112,7 +113,7 @@ rra() {
   if [ -n "$1" ] 
   then
     echo "💎 [running rubocop autocorrect for "$1" ]"
-    bundle exec rubocop -a "$1" 
+    bundle exec rubocop -f files -A "$1" 
   else
     echo "💎 [running rubocop autocorrect...]"
     bundle exec rubocop -a 
@@ -184,16 +185,7 @@ docker-stop() {
   sudo service docker stop
 }
 
-# Nvim
-# nvim() {
-#   if [ -n "$1" ]
-#   then
-#   ~/./nvim-linux64/bin/nvim "$1"
-#   else
-#   ~/./nvim-linux64/bin/nvim
-#   fi
-#}
-
+# Memory cleanup
 ubuntu-free() {
     sudo sync && sudo sysctl -w vm.drop_caches=3
     # sudo sync; echo 1 > /proc/sys/vm/drop_caches
@@ -205,12 +197,20 @@ export PATH="$PATH:/opt/nvim-linux64/bin"
 # Anaconda3 init:
 export PATH="$PATH:/opt/anaconda3/bin"
 
+# Rbenv
+eval "$(rbenv init -)"
 
+# NVM 
 export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
 [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
 
-# eval "$(/bin/brew shellenv)"
-# eval "$(/bin/brew shellenv)"
+# LazyGit
+lg() {
+  lazygit
+}
 
-eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
+# eval "$(/bin/brew shellenv)"
+# eval "$(/bin/brew shellenv)"
+# eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
+
