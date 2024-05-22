@@ -204,11 +204,25 @@ eval "$(rbenv init -)"
 export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
 [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
+export NODE_PATH=$NODE_PATH:`npm root -g`
 
 # LazyGit
 lg() {
   lazygit
 }
+
+# Python Use system python instead of build from source or package.
+export PATH="/usr/bin:$PATH"
+# set pyenv, like rbenv
+export PATH="$HOME/.pyenv/bin:$PATH"
+eval "$(pyenv init -)"
+eval "$(pyenv virtualenv-init -)"
+
+
+# Tmux
+# tmux source ~/.config/tmux/tmux.conf
+ta() { tmux a -t $1 }
+tka() { tmux kill-server & tmux }
 
 # eval "$(/bin/brew shellenv)"
 # eval "$(/bin/brew shellenv)"
