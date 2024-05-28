@@ -26,13 +26,13 @@ source $ZSH/oh-my-zsh.sh
 #   export EDITOR='mvim'
 # fi
 
+# ================== C Compile Functions ===================
 # Compilation flags
 # export ARCHFLAGS="-arch x86_64"
 
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
 eval "$(~/.rbenv/bin/rbenv init - zsh)"
 
-# Aliases:
 cpile() {
 BLUE='\033[0;34m'
 WHITE='\033[0;37m' 
@@ -104,6 +104,7 @@ echo -e "💿 ${BLUE}[Run]\n${WHITE}"
 ./"$FILE_NAME"."$C_OBJ_FILE"
 }
 
+# ================= Aliases ==========================
 
 # rubocop
 rr() { bundle exec rubocop }
@@ -163,6 +164,16 @@ rss() {
 
  # Git status
  alias gs='git status'
+ # LazyGit
+ lg() {
+   lazygit
+ }
+
+# Tmux
+# tmux source ~/.config/tmux/tmux.conf
+ta() { tmux a -t $1 }
+tka() { tmux kill-server & tmux }
+tkt() { tmux kill-session -t "$1" }
 
  # RubyMine 
  # mine() {
@@ -173,7 +184,6 @@ rss() {
  #       /opt/RubyMine/bin/rubmine.sh "$1" & disown
  #    fi 
  # }
-
 
 # Docker: 
 
@@ -191,6 +201,14 @@ ubuntu-free() {
     # sudo sync; echo 1 > /proc/sys/vm/drop_caches
 }
 
+# ================ PATH EXPORTS ===================================
+# Python Use system python instead of build from source or package.
+export PATH="/usr/bin:$PATH"
+# set pyenv, like rbenv
+export PATH="$HOME/.pyenv/bin:$PATH"
+eval "$(pyenv init -)"
+eval "$(pyenv virtualenv-init -)"
+
 # Nvim path
 export PATH="$PATH:/opt/nvim-linux64/bin"
 
@@ -205,26 +223,18 @@ export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
 [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
 export NODE_PATH=$NODE_PATH:`npm root -g`
-
-# LazyGit
-lg() {
-  lazygit
+# set default version to be used across terminal sessions:
+# set default node.
+nvm-default() 
+{ 
+  if [ -n "$1" ]; 
+  then
+    nvm use default $1
+  else
+   nvm alias default 20.12.2 
+  fi
 }
-
-# Python Use system python instead of build from source or package.
-export PATH="/usr/bin:$PATH"
-# set pyenv, like rbenv
-export PATH="$HOME/.pyenv/bin:$PATH"
-eval "$(pyenv init -)"
-eval "$(pyenv virtualenv-init -)"
-
-
-# Tmux
-# tmux source ~/.config/tmux/tmux.conf
-ta() { tmux a -t $1 }
-tka() { tmux kill-server & tmux }
 
 # eval "$(/bin/brew shellenv)"
 # eval "$(/bin/brew shellenv)"
 # eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
-
