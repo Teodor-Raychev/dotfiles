@@ -111,8 +111,7 @@ rr() { bundle exec rubocop }
 
 # rubocop autocorrect
 rra() { 
-  if [ -n "$1" ] 
-  then
+  if [ -n "$1" ]; then
     echo "💎 [running rubocop autocorrect for "$1" ]"
     bundle exec rubocop -f files -A "$1" 
   else
@@ -123,8 +122,7 @@ rra() {
 
 # Change ruby version rbenv
 ruby-v() {
-  if [ -n "$1" ]
-  then
+  if [ -n "$1" ]; then
     echo "$1" > .ruby-version
     echo "\n"
     echo "💎 Switched to version $1 \n"
@@ -138,8 +136,7 @@ ruby-v() {
 
 # rspec
 rs() {
- if [ -n "$1" ]
- then
+ if [ -n "$1" ]; then
    echo "💎 [RSpec]"
    bundle exec rspec "$1"
  else
@@ -152,8 +149,7 @@ rs() {
 rsf() { bundle exec rspec --fail-fast }
 
 rss() {
- if [ -n "$1" ]
- then
+ if [ -n "$1" ]; then
    echo "💎 [RSpec]"
    bundle exec spring rspec "$1"
  else
@@ -168,6 +164,45 @@ rss() {
  lg() {
    lazygit
  }
+
+# Lynx
+lnx() { 
+  lynxcfg="-cfg=$HOME/.config/lynx/.lynx.cfg";
+  lynxlss="-lss=$HOME/.config/lynx/lynx.lss";
+  if [ -n "$1" ]; then
+    lynx $lynxcfg $lynxlss "$1"
+  else
+    lynx $lynxcfg $lynxlss
+  fi
+}
+
+urlencode() {
+  declare str="$*"
+  declare encoded=""
+  declare i c x
+  for (( i=0; i<${#str}; i++)); do
+    c=${str:$i:1}
+    case "$c" in
+      [-_.~a-zA-Z0-9] ) x="$c" ;;
+      * ) printf -v x '%%%02x' "'$c'" ;;
+    esac
+    encoded+="$x"
+  done
+  echo "$encoded"
+}
+
+duck() {
+  declare url=$(urlencode "$*")
+  lnx "https://duckduckgo.com/lite?q=$url"
+}
+
+ggle() {
+  declare url=$(urlencode "$*")
+  lnx "https://google.com/search?q=$url"
+}
+
+alias "?"=duck
+alias "??"=ggle
 
 # Tmux
 # tmux source ~/.config/tmux/tmux.conf
@@ -227,8 +262,7 @@ export NODE_PATH=$NODE_PATH:`npm root -g`
 # set default node.
 nvm-default() 
 { 
-  if [ -n "$1" ]; 
-  then
+  if [ -n "$1" ]; then
     nvm use default $1
   else
    nvm alias default 20.12.2 
