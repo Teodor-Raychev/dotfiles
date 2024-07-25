@@ -1,0 +1,899 @@
+<application>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry encoding="base64">MzI=</entry>
+        <entry encoding="base64">UHJvamVj</entry>
+        <entry encoding="base64">ZW1iZXI=</entry>
+        <entry encoding="base64">cmFpbA==</entry>
+        <entry encoding="base64">Z2l0</entry>
+        <entry encoding="base64">ZGV2</entry>
+        <entry encoding="base64">c29scg==</entry>
+        <entry encoding="base64">MjI=</entry>
+        <entry encoding="base64">cA==</entry>
+        <entry encoding="base64">c3M=</entry>
+        <entry encoding="base64">XDxzdWJkb21haW5cPg==</entry>
+        <entry encoding="base64">bmV3</entry>
+        <entry encoding="base64">cmVkaXM=</entry>
+        <entry encoding="base64">cHJpdmF0ZQ==</entry>
+        <entry encoding="base64">c3RhdHVz</entry>
+        <entry encoding="base64">cGFzc2VuZ2Vy</entry>
+        <entry encoding="base64">ZmF5ZQ==</entry>
+        <entry encoding="base64">Z290bw==</entry>
+        <entry encoding="base64">aGFycG9vbg==</entry>
+      </history-search>
+      <history-cmd>
+        <entry encoding="base64">Vw==</entry>
+        <entry encoding="base64">MjM=</entry>
+        <entry encoding="base64">Ng==</entry>
+        <entry encoding="base64">c2V0IHJlbGF0aXZlbnVtYmVy</entry>
+        <entry encoding="base64">c2V0IHJlbGF0aXZlbnVtYmVyIGZhbHNl</entry>
+        <entry encoding="base64">c2V0IG51</entry>
+        <entry encoding="base64">c2V0IG51bWJlcg==</entry>
+        <entry encoding="base64">c2V0IG51bWJlciByZWxhdGl2ZW51bWJlcg==</entry>
+        <entry encoding="base64">cTE=</entry>
+        <entry encoding="base64">cSE=</entry>
+        <entry encoding="base64">YWN0aW9uIEdvVG9IYXJwb29uRmlsZQ==</entry>
+        <entry encoding="base64">YWN0aW9uIEdvVG9IYXJwb29uRmlsZTE=</entry>
+        <entry encoding="base64">V2hpY2hLZXk=</entry>
+        <entry encoding="base64">aCBXaWNoa2V5</entry>
+        <entry encoding="base64">dw==</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimJumpsSettings">
+    <project id="$USER_HOME$/pro/git/dotfiles">
+      <jump line="39" column="7" filename="$USER_HOME$/pro/git/dotfiles/README.md" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="13" column="0" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="8" column="51" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="8" column="26" filename="$USER_HOME$/pro/git/dotfiles/Ruby/.rubocop.yml" protocol="file" />
+      <jump line="20" column="35" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="19" column="22" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="12" column="12" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="14" column="20" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="24" column="0" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="29" column="30" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="9" column="7" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="11" column="26" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="153" column="0" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="138" column="42" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="6" column="10" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/pro/git/dotfiles/iterm2_themes/ayu_mirage.itermcolors.xml" protocol="file" />
+      <jump line="1" column="6" filename="$USER_HOME$/pro/git/dotfiles/Ruby/.rubocop.yml" protocol="file" />
+      <jump line="7" column="0" filename="$USER_HOME$/pro/git/dotfiles/Ruby/.rubocop.yml" protocol="file" />
+      <jump line="129" column="8" filename="$USER_HOME$/pro/git/dotfiles/hyper/.hyper.js" protocol="file" />
+      <jump line="86" column="13" filename="$USER_HOME$/pro/git/dotfiles/hyper/.hyper.js" protocol="file" />
+      <jump line="81" column="35" filename="$USER_HOME$/pro/git/dotfiles/hyper/.hyper.js" protocol="file" />
+      <jump line="84" column="32" filename="$USER_HOME$/pro/git/dotfiles/hyper/.hyper.js" protocol="file" />
+      <jump line="17" column="10" filename="$USER_HOME$/pro/git/dotfiles/iterm2_themes/ayu_mirage.itermcolors.xml" protocol="file" />
+      <jump line="16" column="9" filename="$USER_HOME$/pro/git/dotfiles/iterm2_themes/ayu_mirage.itermcolors.xml" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/pro/git/dotfiles/Ruby/.rspec" protocol="file" />
+      <jump line="71" column="26" filename="$USER_HOME$/pro/git/dotfiles/hyper/.hyper.js" protocol="file" />
+      <jump line="9" column="17" filename="$USER_HOME$/pro/git/dotfiles/Ruby/.rubocop.yml" protocol="file" />
+      <jump line="70" column="12" filename="$USER_HOME$/pro/git/dotfiles/hyper/.hyper.js" protocol="file" />
+      <jump line="85" column="12" filename="$USER_HOME$/pro/git/dotfiles/hyper/.hyper.js" protocol="file" />
+      <jump line="13" column="0" filename="$USER_HOME$/pro/git/dotfiles/Ruby/.rubocop.yml" protocol="file" />
+      <jump line="6" column="0" filename="$USER_HOME$/pro/git/dotfiles/Ruby/.rubocop.yml" protocol="file" />
+      <jump line="3" column="0" filename="$USER_HOME$/pro/git/dotfiles/Ruby/.rspec" protocol="file" />
+      <jump line="65" column="16" filename="$USER_HOME$/pro/git/dotfiles/hyper/.hyper.js" protocol="file" />
+      <jump line="14" column="3" filename="$USER_HOME$/pro/git/dotfiles/Ruby/.rubocop.yml" protocol="file" />
+      <jump line="26" column="9" filename="$USER_HOME$/pro/git/dotfiles/iterm2_themes/ayu_mirage.itermcolors.xml" protocol="file" />
+      <jump line="24" column="28" filename="$USER_HOME$/pro/git/dotfiles/iterm2_themes/ayu_mirage.itermcolors.xml" protocol="file" />
+      <jump line="1" column="0" filename="$USER_HOME$/pro/git/dotfiles/Ruby/.rspec" protocol="file" />
+      <jump line="92" column="16" filename="$USER_HOME$/pro/git/dotfiles/hyper/.hyper.js" protocol="file" />
+      <jump line="18" column="9" filename="$USER_HOME$/pro/git/dotfiles/iterm2_themes/ayu_mirage.itermcolors.xml" protocol="file" />
+      <jump line="61" column="9" filename="$USER_HOME$/pro/git/dotfiles/iterm2_themes/ayu_mirage.itermcolors.xml" protocol="file" />
+      <jump line="67" column="39" filename="$USER_HOME$/pro/git/dotfiles/iterm2_themes/ayu_mirage.itermcolors.xml" protocol="file" />
+      <jump line="63" column="28" filename="$USER_HOME$/pro/git/dotfiles/iterm2_themes/ayu_mirage.itermcolors.xml" protocol="file" />
+      <jump line="62" column="29" filename="$USER_HOME$/pro/git/dotfiles/iterm2_themes/ayu_mirage.itermcolors.xml" protocol="file" />
+      <jump line="15" column="26" filename="$USER_HOME$/pro/git/dotfiles/iterm2_themes/ayu_mirage.itermcolors.xml" protocol="file" />
+      <jump line="13" column="39" filename="$USER_HOME$/pro/git/dotfiles/iterm2_themes/ayu_mirage.itermcolors.xml" protocol="file" />
+      <jump line="23" column="29" filename="$USER_HOME$/pro/git/dotfiles/iterm2_themes/ayu_mirage.itermcolors.xml" protocol="file" />
+      <jump line="0" column="7" filename="$USER_HOME$/pro/git/dotfiles/Ruby/.rubocop.yml" protocol="file" />
+      <jump line="16" column="0" filename="$USER_HOME$/pro/git/dotfiles/Ruby/.rubocop.yml" protocol="file" />
+      <jump line="191" column="7" filename="$USER_HOME$/pro/git/dotfiles/hyper/.hyper.js" protocol="file" />
+      <jump line="223" column="51" filename="$USER_HOME$/pro/git/dotfiles/hyper/.hyper.js" protocol="file" />
+      <jump line="14" column="23" filename="$USER_HOME$/pro/git/dotfiles/iterm2_themes/ayu_mirage.itermcolors.xml" protocol="file" />
+      <jump line="25" column="23" filename="$USER_HOME$/pro/git/dotfiles/iterm2_themes/ayu_mirage.itermcolors.xml" protocol="file" />
+      <jump line="30" column="27" filename="$USER_HOME$/pro/git/dotfiles/iterm2_themes/ayu_mirage.itermcolors.xml" protocol="file" />
+      <jump line="124" column="51" filename="$USER_HOME$/pro/git/dotfiles/hyper/.hyper.js" protocol="file" />
+      <jump line="57" column="9" filename="$USER_HOME$/pro/git/dotfiles/iterm2_themes/ayu_mirage.itermcolors.xml" protocol="file" />
+      <jump line="4" column="2" filename="$USER_HOME$/pro/git/dotfiles/Ruby/.rubocop.yml" protocol="file" />
+      <jump line="10" column="0" filename="$USER_HOME$/pro/git/dotfiles/Ruby/.rubocop.yml" protocol="file" />
+      <jump line="2" column="17" filename="$USER_HOME$/pro/git/dotfiles/Ruby/.rubocop.yml" protocol="file" />
+      <jump line="90" column="74" filename="$USER_HOME$/pro/git/dotfiles/hyper/.hyper.js" protocol="file" />
+      <jump line="62" column="74" filename="$USER_HOME$/pro/git/dotfiles/hyper/.hyper.js" protocol="file" />
+      <jump line="17" column="8" filename="$USER_HOME$/pro/git/dotfiles/terminator/config" protocol="file" />
+      <jump line="15" column="8" filename="$USER_HOME$/pro/git/dotfiles/terminator/config" protocol="file" />
+      <jump line="12" column="17" filename="$USER_HOME$/pro/git/dotfiles/Ruby/.rubocop.yml" protocol="file" />
+      <jump line="3" column="11" filename="$USER_HOME$/pro/git/dotfiles/Ruby/.rubocop.yml" protocol="file" />
+      <jump line="14" column="9" filename="$USER_HOME$/pro/git/dotfiles/terminator/config" protocol="file" />
+      <jump line="6" column="25" filename="$USER_HOME$/pro/git/dotfiles/terminator/config" protocol="file" />
+      <jump line="12" column="20" filename="$USER_HOME$/pro/git/dotfiles/terminator/config" protocol="file" />
+      <jump line="21" column="17" filename="$USER_HOME$/pro/git/dotfiles/terminator/config" protocol="file" />
+      <jump line="19" column="21" filename="$USER_HOME$/pro/git/dotfiles/terminator/config" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/pro/git/dotfiles/README.md" protocol="file" />
+      <jump line="17" column="35" filename="$USER_HOME$/pro/git/dotfiles/README.md" protocol="file" />
+      <jump line="30" column="11" filename="$USER_HOME$/pro/git/dotfiles/README.md" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/pro/git/dotfiles/gcalendar/taks.ics" protocol="file" />
+      <jump line="3" column="39" filename="$USER_HOME$/pro/git/dotfiles/gcalendar/taks.ics" protocol="file" />
+      <jump line="12" column="8" filename="$USER_HOME$/pro/git/dotfiles/README.md" protocol="file" />
+      <jump line="27" column="12" filename="$USER_HOME$/pro/git/dotfiles/terminator/config" protocol="file" />
+      <jump line="11" column="35" filename="$USER_HOME$/pro/git/dotfiles/Ruby/.rubocop.yml" protocol="file" />
+      <jump line="15" column="17" filename="$USER_HOME$/pro/git/dotfiles/Ruby/.rubocop.yml" protocol="file" />
+      <jump line="15" column="10" filename="$USER_HOME$/pro/git/dotfiles/fish/config.fish" protocol="file" />
+      <jump line="16" column="10" filename="$USER_HOME$/pro/git/dotfiles/fish/config.fish" protocol="file" />
+      <jump line="71" column="9" filename="$USER_HOME$/pro/git/dotfiles/iterm2_themes/ayu_mirage.itermcolors.xml" protocol="file" />
+      <jump line="5" column="14" filename="$USER_HOME$/pro/git/dotfiles/Ruby/.rubocop.yml" protocol="file" />
+      <jump line="11" column="16" filename="$USER_HOME$/pro/git/dotfiles/fish/config.fish" protocol="file" />
+      <jump line="347" column="4" filename="$USER_HOME$/.rbenv/versions/3.3.0/lib/ruby/site_ruby/3.3.0/bundler/vendor/thor/lib/thor/actions/file_manipulation.rb" protocol="file" />
+      <jump line="363" column="14" filename="$USER_HOME$/.rbenv/versions/3.3.0/lib/ruby/site_ruby/3.3.0/bundler/vendor/thor/lib/thor/actions/file_manipulation.rb" protocol="file" />
+    </project>
+    <project id="$USER_HOME$/pro/solvace-source-master">
+      <jump line="78" column="6" filename="$USER_HOME$/pro/solvace-source-master/app/helpers/ember_url_helper.rb" protocol="file" />
+      <jump line="69" column="6" filename="$USER_HOME$/pro/solvace-source-master/app/helpers/ember_url_helper.rb" protocol="file" />
+      <jump line="61" column="6" filename="$USER_HOME$/pro/solvace-source-master/app/helpers/ember_url_helper.rb" protocol="file" />
+      <jump line="52" column="6" filename="$USER_HOME$/pro/solvace-source-master/app/helpers/ember_url_helper.rb" protocol="file" />
+      <jump line="45" column="6" filename="$USER_HOME$/pro/solvace-source-master/app/helpers/ember_url_helper.rb" protocol="file" />
+      <jump line="38" column="6" filename="$USER_HOME$/pro/solvace-source-master/app/helpers/ember_url_helper.rb" protocol="file" />
+      <jump line="29" column="6" filename="$USER_HOME$/pro/solvace-source-master/app/helpers/ember_url_helper.rb" protocol="file" />
+      <jump line="22" column="6" filename="$USER_HOME$/pro/solvace-source-master/app/helpers/ember_url_helper.rb" protocol="file" />
+      <jump line="17" column="6" filename="$USER_HOME$/pro/solvace-source-master/app/helpers/ember_url_helper.rb" protocol="file" />
+      <jump line="10" column="6" filename="$USER_HOME$/pro/solvace-source-master/app/helpers/ember_url_helper.rb" protocol="file" />
+      <jump line="3" column="6" filename="$USER_HOME$/pro/solvace-source-master/app/helpers/ember_url_helper.rb" protocol="file" />
+      <jump line="83" column="2" filename="$USER_HOME$/pro/solvace-source-master/app/helpers/ember_url_helper.rb" protocol="file" />
+      <jump line="84" column="17" filename="$USER_HOME$/pro/solvace-source-master/app/helpers/ember_url_helper.rb" protocol="file" />
+      <jump line="4" column="43" filename="$USER_HOME$/pro/solvace-source-master/app/helpers/ember_url_helper.rb" protocol="file" />
+      <jump line="35" column="1" filename="$USER_HOME$/pro/solvace-source-master/config/routes.rb" protocol="file" />
+      <jump line="28" column="34" filename="$USER_HOME$/pro/solvace-source-master/config/routes.rb" protocol="file" />
+      <jump line="22" column="22" filename="$USER_HOME$/pro/solvace-source-master/config/routes.rb" protocol="file" />
+      <jump line="37" column="19" filename="$USER_HOME$/pro/solvace-source-master/config/routes.rb" protocol="file" />
+      <jump line="71" column="20" filename="$USER_HOME$/pro/solvace-source-master/config/routes.rb" protocol="file" />
+      <jump line="87" column="48" filename="$USER_HOME$/pro/solvace-source-master/config/routes.rb" protocol="file" />
+      <jump line="13" column="15" filename="$USER_HOME$/pro/solvace-source-master/app/controllers/actions/framework_nodes_controller.rb" protocol="file" />
+      <jump line="170" column="0" filename="$USER_HOME$/pro/solvace-source-master/README.md" protocol="file" />
+      <jump line="164" column="2" filename="$USER_HOME$/pro/solvace-source-master/README.md" protocol="file" />
+      <jump line="4" column="11" filename="$USER_HOME$/pro/solvace-source-master/app/helpers/organizations_url_helper.rb" protocol="file" />
+      <jump line="101" column="0" filename="$USER_HOME$/pro/solvace-source-master/docker/Dockerfile" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/pro/solvace-source-master/app/controllers/actions/bd_board_item_relationships_controller.rb" protocol="file" />
+      <jump line="167" column="0" filename="$USER_HOME$/pro/solvace-source-master/README.md" protocol="file" />
+      <jump line="111" column="13" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="112" column="13" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="81" column="0" filename="$USER_HOME$/pro/solvace-source-master/config/routes.rb" protocol="file" />
+      <jump line="7" column="0" filename="$USER_HOME$/pro/solvace-source-master/app/helpers/organizations_url_helper.rb" protocol="file" />
+      <jump line="240" column="8" filename="$USER_HOME$/pro/solvace-source-master/config/routes.rb" protocol="file" />
+      <jump line="238" column="4" filename="$USER_HOME$/pro/solvace-source-master/config/routes.rb" protocol="file" />
+      <jump line="84" column="14" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="237" column="0" filename="$USER_HOME$/pro/solvace-source-master/config/routes.rb" protocol="file" />
+      <jump line="76" column="24" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="8" column="0" filename="$USER_HOME$/pro/solvace-source-master/app/controllers/actions/bd_board_item_relationships_controller.rb" protocol="file" />
+      <jump line="43" column="12" filename="$USER_HOME$/pro/solvace-source-master/app/controllers/actions/bd_board_item_relationships_controller.rb" protocol="file" />
+      <jump line="231" column="0" filename="$USER_HOME$/pro/solvace-source-master/config/routes.rb" protocol="file" />
+      <jump line="119" column="0" filename="$USER_HOME$/pro/solvace-source-master/README.md" protocol="file" />
+      <jump line="55" column="6" filename="$USER_HOME$/pro/solvace-source-master/app/controllers/actions/bd_board_item_relationships_controller.rb" protocol="file" />
+      <jump line="3" column="0" filename="$USER_HOME$/pro/solvace-source-master/docker/Dockerfile" protocol="file" />
+      <jump line="407" column="4" filename="$USER_HOME$/pro/solvace-source-master/README.md" protocol="file" />
+      <jump line="115" column="0" filename="$USER_HOME$/pro/solvace-source-master/Gemfile" protocol="file" />
+      <jump line="7" column="10" filename="$USER_HOME$/pro/solvace-source-master/app/controllers/actions/analyses_controller.rb" protocol="file" />
+      <jump line="1" column="0" filename="$USER_HOME$/pro/solvace-source-master/app/controllers/actions/analyses_controller.rb" protocol="file" />
+      <jump line="3" column="7" filename="$USER_HOME$/pro/solvace-source-master/app/controllers/actions/bd_board_item_relationships_controller.rb" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/pro/solvace-source-master/Gemfile" protocol="file" />
+      <jump line="9" column="20" filename="$USER_HOME$/pro/solvace-source-master/Gemfile" protocol="file" />
+      <jump line="13" column="21" filename="$USER_HOME$/pro/solvace-source-master/Gemfile" protocol="file" />
+      <jump line="11" column="4" filename="$USER_HOME$/pro/solvace-source-master/app/controllers/actions/analyses_controller.rb" protocol="file" />
+      <jump line="19" column="0" filename="$USER_HOME$/pro/solvace-source-master/app/controllers/actions/analyses_controller.rb" protocol="file" />
+      <jump line="12" column="0" filename="$USER_HOME$/pro/solvace-source-master/app/controllers/actions/analyses_controller.rb" protocol="file" />
+      <jump line="28" column="0" filename="$USER_HOME$/pro/solvace-source-master/spec/requests/arbitrary_lists/hide_arbitrary_list_items_spec.rb" protocol="file" />
+      <jump line="48" column="0" filename="$USER_HOME$/pro/solvace-source-master/spec/requests/arbitrary_lists/hide_arbitrary_list_items_spec.rb" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/pro/solvace-source-master/spec/support/response_helper.rb" protocol="file" />
+      <jump line="12" column="11" filename="$USER_HOME$/pro/solvace-source-master/spec/support/response_helper.rb" protocol="file" />
+      <jump line="15" column="11" filename="$USER_HOME$/pro/solvace-source-master/app/controllers/actions/analyses_controller.rb" protocol="file" />
+      <jump line="63" column="6" filename="$USER_HOME$/pro/solvace-source-master/config/routes.rb" protocol="file" />
+      <jump line="6" column="18" filename="$USER_HOME$/pro/solvace-source-master/app/helpers/ember_path_helper.rb" protocol="file" />
+      <jump line="4" column="0" filename="$USER_HOME$/pro/solvace-source-master/docker/Dockerfile" protocol="file" />
+      <jump line="38" column="0" filename="$USER_HOME$/pro/solvace-source-master/app/views/users/signup_through_invitation.html.erb" protocol="file" />
+      <jump line="30" column="17" filename="$USER_HOME$/pro/solvace-source-master/app/views/users/signup_through_invitation.html.erb" protocol="file" />
+      <jump line="17" column="17" filename="$USER_HOME$/pro/solvace-source-master/app/views/users/signup_through_invitation.html.erb" protocol="file" />
+      <jump line="10" column="43" filename="$USER_HOME$/pro/solvace-source-master/app/views/users/signup_through_invitation.html.erb" protocol="file" />
+      <jump line="42" column="80" filename="$USER_HOME$/pro/solvace-source-master/app/views/users/signup_through_invitation.html.erb" protocol="file" />
+      <jump line="2" column="2" filename="$USER_HOME$/pro/solvace-source-master/app/views/users/signup_through_invitation.html.erb" protocol="file" />
+      <jump line="79" column="21" filename="$USER_HOME$/pro/solvace-source-master/app/views/users/signup_through_invitation.html.erb" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/pro/solvace-source-master/scripts/build_ember_local.sh" protocol="file" />
+      <jump line="17" column="0" filename="$USER_HOME$/pro/solvace-source-master/spec/support/response_helper.rb" protocol="file" />
+      <jump line="13" column="1" filename="$USER_HOME$/pro/solvace-source-master/Gemfile.lock" protocol="file" />
+      <jump line="43" column="11" filename="$USER_HOME$/pro/solvace-source-master/Gemfile" protocol="file" />
+      <jump line="10" column="31" filename="$USER_HOME$/pro/solvace-source-master/app/controllers/actions/analyses_controller.rb" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/pro/solvace-source-master/docker/env.mysql" protocol="file" />
+      <jump line="5" column="0" filename="$USER_HOME$/pro/solvace-source-master/docker/env.mysql" protocol="file" />
+      <jump line="3" column="6" filename="$USER_HOME$/pro/solvace-source-master/app/helpers/organizations_url_helper.rb" protocol="file" />
+      <jump line="2" column="59" filename="$USER_HOME$/pro/solvace-source-master/app/helpers/organizations_url_helper.rb" protocol="file" />
+      <jump line="8" column="0" filename="$USER_HOME$/pro/solvace-source-master/app/helpers/organizations_url_helper.rb" protocol="file" />
+      <jump line="6" column="4" filename="$USER_HOME$/pro/solvace-source-master/app/helpers/organizations_url_helper.rb" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/pro/solvace-source-master/localhost.key" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/pro/solvace-source-master/db/seeds.rb" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/pro/solvace-source-master/frontend/main_app/package.json" protocol="file" />
+      <jump line="30" column="38" filename="$USER_HOME$/pro/solvace-source-master/frontend/main_app/package.json" protocol="file" />
+      <jump line="24" column="32" filename="$USER_HOME$/pro/solvace-source-master/frontend/main_app/package.json" protocol="file" />
+      <jump line="43" column="25" filename="$USER_HOME$/pro/solvace-source-master/frontend/main_app/package.json" protocol="file" />
+      <jump line="32" column="8" filename="$USER_HOME$/pro/solvace-source-master/frontend/main_app/package.json" protocol="file" />
+      <jump line="28" column="0" filename="$USER_HOME$/pro/solvace-source-master/localhost.key" protocol="file" />
+      <jump line="10" column="54" filename="$USER_HOME$/pro/solvace-source-master/localhost.key" protocol="file" />
+      <jump line="1" column="18" filename="$USER_HOME$/pro/solvace-source-master/app/helpers/organizations_url_helper.rb" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/pro/solvace-source-master/nginx.conf.erb" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/pro/solvace-source-master/README.md" protocol="file" />
+      <jump line="3" column="0" filename="$USER_HOME$/pro/solvace-source-master/README.md" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/pro/solvace-source-master/db/schema.rb" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/pro/solvace-source-master/db/schema_sqlite3_back.rb" protocol="file" />
+      <jump line="7" column="0" filename="$USER_HOME$/pro/solvace-source-master/db/seeds.rb" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/pro/solvace-source-master/frontend/package.json" protocol="file" />
+      <jump line="15" column="51" filename="$USER_HOME$/pro/solvace-source-master/frontend/main_app/package.json" protocol="file" />
+      <jump line="154" column="0" filename="$USER_HOME$/pro/solvace-source-master/Gemfile" protocol="file" />
+      <jump line="167" column="12" filename="$USER_HOME$/pro/solvace-source-master/Gemfile" protocol="file" />
+      <jump line="169" column="20" filename="$USER_HOME$/pro/solvace-source-master/Gemfile" protocol="file" />
+    </project>
+    <project id="solvace-source-master">
+      <jump line="56" column="20" filename="$USER_HOME$/pro/solvace-source-master/config/application.rb" protocol="file" />
+      <jump line="54" column="6" filename="$USER_HOME$/pro/solvace-source-master/config/application.rb" protocol="file" />
+      <jump line="60" column="95" filename="$USER_HOME$/pro/solvace-source-master/config/application.rb" protocol="file" />
+      <jump line="49" column="0" filename="$USER_HOME$/pro/solvace-source-master/config/application.rb" protocol="file" />
+      <jump line="53" column="29" filename="$USER_HOME$/pro/solvace-source-master/config/application.rb" protocol="file" />
+      <jump line="21" column="14" filename="$USER_HOME$/.rbenv/versions/3.3.0/lib/ruby/site_ruby/3.3.0/rubygems/package/file_source.rb" protocol="file" />
+      <jump line="982" column="11" filename="$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs33/file.rb" protocol="file" />
+      <jump line="8" column="15" filename="$USER_HOME$/pro/solvace-source-master/app/controllers/actions/framework_nodes_controller.rb" protocol="file" />
+      <jump line="155" column="36" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="152" column="0" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="8" column="0" filename="$USER_HOME$/pro/solvace-source-master/app/controllers/actions/analyses_controller.rb" protocol="file" />
+      <jump line="29" column="9" filename="$USER_HOME$/pro/solvace-source-master/app/helpers/ember_url_helper.rb" protocol="file" />
+      <jump line="249" column="0" filename="$USER_HOME$/pro/solvace-source-master/README.md" protocol="file" />
+      <jump line="484" column="85" filename="$USER_HOME$/pro/solvace-source-master/README.md" protocol="file" />
+      <jump line="485" column="158" filename="$USER_HOME$/pro/solvace-source-master/README.md" protocol="file" />
+      <jump line="84" column="17" filename="$USER_HOME$/pro/solvace-source-master/app/helpers/ember_url_helper.rb" protocol="file" />
+      <jump line="4" column="43" filename="$USER_HOME$/pro/solvace-source-master/app/helpers/ember_url_helper.rb" protocol="file" />
+      <jump line="4" column="11" filename="$USER_HOME$/pro/solvace-source-master/app/helpers/organizations_url_helper.rb" protocol="file" />
+      <jump line="240" column="8" filename="$USER_HOME$/pro/solvace-source-master/config/routes.rb" protocol="file" />
+      <jump line="238" column="4" filename="$USER_HOME$/pro/solvace-source-master/config/routes.rb" protocol="file" />
+      <jump line="154" column="0" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="93" column="23" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="153" column="31" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="70" column="15" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="69" column="0" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="6" column="0" filename="$USER_HOME$/pro/solvace-source-master/app/views/users/signup_through_invitation.html.erb" protocol="file" />
+      <jump line="10" column="20" filename="$USER_HOME$/pro/solvace-source-master/app/controllers/actions/analyses_controller.rb" protocol="file" />
+      <jump line="19" column="0" filename="$USER_HOME$/pro/solvace-source-master/app/controllers/actions/analyses_controller.rb" protocol="file" />
+      <jump line="29" column="18" filename="$USER_HOME$/pro/solvace-source-master/Gemfile" protocol="file" />
+      <jump line="3" column="9" filename="$USER_HOME$/pro/solvace-source-master/app/helpers/organizations_url_helper.rb" protocol="file" />
+    </project>
+    <project id="ideas">
+      <jump line="1" column="7" filename="$USER_HOME$/pro/playground/ember/full-stack-ember-rails/ideas/fe/app/adapters/application.js" protocol="file" />
+      <jump line="5" column="48" filename="$USER_HOME$/pro/playground/ember/full-stack-ember-rails/ideas/fe/app/adapters/application.js" protocol="file" />
+      <jump line="0" column="4" filename="$USER_HOME$/pro/playground/ember/full-stack-ember-rails/ideas/fe/app/templates/index.hbs" protocol="file" />
+      <jump line="0" column="7" filename="$USER_HOME$/pro/playground/ember/full-stack-ember-rails/ideas/fe/app/serlializers/application.js" protocol="file" />
+      <jump line="11" column="71" filename="$USER_HOME$/pro/playground/ember/full-stack-ember-rails/ideas/api/app/controllers/application_controller.rb" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/pro/playground/ember/full-stack-ember-rails/ideas/api/app/controllers/application_controller.rb" protocol="file" />
+      <jump line="10" column="5" filename="$USER_HOME$/pro/playground/ember/full-stack-ember-rails/ideas/api/app/controllers/application_controller.rb" protocol="file" />
+      <jump line="14" column="0" filename="$USER_HOME$/pro/playground/ember/full-stack-ember-rails/ideas/api/app/controllers/application_controller.rb" protocol="file" />
+      <jump line="5" column="40" filename="$USER_HOME$/pro/playground/ember/full-stack-ember-rails/ideas/fe/app/app.js" protocol="file" />
+      <jump line="11" column="6" filename="$USER_HOME$/pro/playground/ember/full-stack-ember-rails/ideas/fe/app/app.js" protocol="file" />
+      <jump line="9" column="24" filename="$USER_HOME$/pro/playground/ember/full-stack-ember-rails/ideas/fe/node_modules/ember-load-initializers/index.d.ts" protocol="file" />
+    </project>
+    <project id="$USER_HOME$/pro/playground/ember/full-stack-ember-rails/ideas">
+      <jump line="0" column="0" filename="$USER_HOME$/pro/playground/ember/full-stack-ember-rails/ideas/api/app/resources/application_resource.rb" protocol="file" />
+      <jump line="5" column="48" filename="$USER_HOME$/pro/playground/ember/full-stack-ember-rails/ideas/fe/app/adapters/application.js" protocol="file" />
+      <jump line="1" column="7" filename="$USER_HOME$/pro/playground/ember/full-stack-ember-rails/ideas/fe/app/adapters/application.js" protocol="file" />
+      <jump line="0" column="19" filename="$USER_HOME$/pro/playground/ember/full-stack-ember-rails/ideas/fe/app/templates/index.hbs" protocol="file" />
+      <jump line="18" column="0" filename="$USER_HOME$/pro/playground/ember/full-stack-ember-rails/ideas/api/app/resources/application_resource.rb" protocol="file" />
+      <jump line="5" column="0" filename="$USER_HOME$/pro/playground/ember/full-stack-ember-rails/ideas/api/app/controllers/pages_controller.rb" protocol="file" />
+      <jump line="8" column="0" filename="$USER_HOME$/pro/playground/ember/full-stack-ember-rails/ideas/api/app/controllers/application_controller.rb" protocol="file" />
+      <jump line="11" column="71" filename="$USER_HOME$/pro/playground/ember/full-stack-ember-rails/ideas/api/app/controllers/application_controller.rb" protocol="file" />
+      <jump line="10" column="5" filename="$USER_HOME$/pro/playground/ember/full-stack-ember-rails/ideas/api/app/controllers/application_controller.rb" protocol="file" />
+      <jump line="7" column="0" filename="$USER_HOME$/pro/playground/ember/full-stack-ember-rails/ideas/fe/app/models/ideas.js" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/pro/playground/ember/full-stack-ember-rails/ideas/fe/app/app.js" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/pro/playground/ember/full-stack-ember-rails/ideas/fe/app/controllers/user/new.js" protocol="file" />
+      <jump line="5" column="40" filename="$USER_HOME$/pro/playground/ember/full-stack-ember-rails/ideas/fe/app/app.js" protocol="file" />
+      <jump line="2" column="23" filename="$USER_HOME$/pro/playground/ember/full-stack-ember-rails/ideas/fe/app/serlializers/application.js" protocol="file" />
+      <jump line="11" column="6" filename="$USER_HOME$/pro/playground/ember/full-stack-ember-rails/ideas/fe/app/app.js" protocol="file" />
+      <jump line="23" column="0" filename="$USER_HOME$/pro/playground/ember/full-stack-ember-rails/ideas/fe/node_modules/ember-source/types/stable/@ember/application/index.d.ts" protocol="file" />
+      <jump line="175" column="1" filename="$USER_HOME$/pro/playground/ember/full-stack-ember-rails/ideas/fe/node_modules/ember-source/types/stable/@ember/application/index.d.ts" protocol="file" />
+      <jump line="9" column="24" filename="$USER_HOME$/pro/playground/ember/full-stack-ember-rails/ideas/fe/node_modules/ember-load-initializers/index.d.ts" protocol="file" />
+      <jump line="7" column="21" filename="$USER_HOME$/pro/playground/ember/full-stack-ember-rails/ideas/fe/app/app.js" protocol="file" />
+      <jump line="6" column="0" filename="$USER_HOME$/pro/playground/ember/full-stack-ember-rails/ideas/fe/app/models/ideas.js" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/pro/playground/ember/full-stack-ember-rails/ideas/fe/app/models/.gitkeep" protocol="file" />
+      <jump line="14" column="9" filename="$USER_HOME$/pro/playground/ember/full-stack-ember-rails/ideas/fe/app/adapters/application.js" protocol="file" />
+      <jump line="15" column="32" filename="$USER_HOME$/pro/playground/ember/full-stack-ember-rails/ideas/fe/app/controllers/user/new.js" protocol="file" />
+      <jump line="4" column="6" filename="$USER_HOME$/pro/playground/ember/full-stack-ember-rails/ideas/fe/app/templates/index.hbs" protocol="file" />
+      <jump line="0" column="9" filename="$USER_HOME$/pro/playground/ember/full-stack-ember-rails/ideas/fe/app/templates/application.hbs" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/pro/playground/ember/full-stack-ember-rails/ideas/fe/.prettierrc.js" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/pro/playground/ember/full-stack-ember-rails/ideas/fe/.watchmanconfig" protocol="file" />
+      <jump line="14" column="0" filename="$USER_HOME$/pro/playground/ember/full-stack-ember-rails/ideas/api/app/controllers/application_controller.rb" protocol="file" />
+      <jump line="9" column="0" filename="$USER_HOME$/pro/playground/ember/full-stack-ember-rails/ideas/api/app/controllers/application_controller.rb" protocol="file" />
+      <jump line="6" column="13" filename="$USER_HOME$/pro/playground/ember/full-stack-ember-rails/ideas/api/app/controllers/application_controller.rb" protocol="file" />
+      <jump line="2" column="31" filename="$USER_HOME$/pro/playground/ember/full-stack-ember-rails/ideas/api/app/controllers/application_controller.rb" protocol="file" />
+      <jump line="12" column="0" filename="$USER_HOME$/pro/playground/ember/full-stack-ember-rails/ideas/fe/.prettierrc.js" protocol="file" />
+      <jump line="1" column="9" filename="$USER_HOME$/pro/playground/ember/full-stack-ember-rails/ideas/fe/app/templates/application.hbs" protocol="file" />
+      <jump line="0" column="15" filename="$USER_HOME$/pro/playground/ember/full-stack-ember-rails/ideas/fe/node_modules/ember-load-initializers/index.d.ts" protocol="file" />
+      <jump line="1" column="0" filename="$USER_HOME$/pro/playground/ember/full-stack-ember-rails/ideas/fe/app/authenticators/oauth.js" protocol="file" />
+      <jump line="3" column="0" filename="$USER_HOME$/pro/playground/ember/full-stack-ember-rails/ideas/fe/.watchmanconfig" protocol="file" />
+      <jump line="3" column="0" filename="$USER_HOME$/pro/playground/ember/full-stack-ember-rails/ideas/fe/app/serlializers/application.js" protocol="file" />
+      <jump line="0" column="22" filename="$USER_HOME$/pro/playground/ember/full-stack-ember-rails/ideas/api/app/controllers/application_controller.rb" protocol="file" />
+    </project>
+    <project id="$USER_HOME$/pro/solvace-source-master-audit">
+      <jump line="34" column="4" filename="$USER_HOME$/pro/solvace-source-master-audit/spec/abilities/token_ability_spec.rb" protocol="file" />
+      <jump line="284" column="6" filename="$USER_HOME$/.rbenv/versions/3.3.0/lib/ruby/gems/3.3.0/gems/rspec-core-3.12.2/lib/rspec/core/example_group.rb" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/pro/solvace-source-master-audit/frontend/assessment/app/templates/application.hbs" protocol="file" />
+      <jump line="15" column="4" filename="$USER_HOME$/pro/solvace-source-master-audit/frontend/toolkit/app/routes/application.js" protocol="file" />
+      <jump line="11" column="40" filename="$USER_HOME$/pro/solvace-source-master-audit/frontend/toolkit/app/routes/application.js" protocol="file" />
+      <jump line="9" column="11" filename="$USER_HOME$/pro/solvace-source-master-audit/frontend/toolkit/app/routes/application.js" protocol="file" />
+      <jump line="16" column="2" filename="$USER_HOME$/pro/solvace-source-master-audit/frontend/toolkit/app/routes/application.js" protocol="file" />
+      <jump line="6" column="61" filename="$USER_HOME$/pro/solvace-source-master-audit/spec/models/action_bd_meeting_group_relationship_spec.rb" protocol="file" />
+      <jump line="10" column="48" filename="$USER_HOME$/pro/solvace-source-master-audit/spec/models/action_bd_meeting_group_relationship_spec.rb" protocol="file" />
+      <jump line="14" column="0" filename="$USER_HOME$/pro/solvace-source-master-audit/spec/models/action_bd_meeting_group_relationship_spec.rb" protocol="file" />
+      <jump line="58" column="0" filename="$USER_HOME$/pro/solvace-source-master-audit/spec/abilities/token_ability_spec.rb" protocol="file" />
+      <jump line="20" column="0" filename="$USER_HOME$/pro/solvace-source-master-audit/frontend/toolkit/app/routes/application.js" protocol="file" />
+      <jump line="42" column="6" filename="$USER_HOME$/pro/solvace-source-master-audit/spec/fixtures/vcr_cassettes/webhook/delivery_worker/when_using_perform_async/sends_the_event_to_the_endpoint.yml" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/pro/solvace-source-master-audit/app/models/ability.rb" protocol="file" />
+      <jump line="36" column="39" filename="$USER_HOME$/pro/solvace-source-master-audit/app/models/ability.rb" protocol="file" />
+      <jump line="32" column="37" filename="$USER_HOME$/pro/solvace-source-master-audit/app/models/ability.rb" protocol="file" />
+      <jump line="122" column="8" filename="$USER_HOME$/pro/solvace-source-master-audit/app/models/ability.rb" protocol="file" />
+      <jump line="130" column="6" filename="$USER_HOME$/pro/solvace-source-master-audit/app/models/ability.rb" protocol="file" />
+      <jump line="242" column="6" filename="$USER_HOME$/pro/solvace-source-master-audit/app/models/ability.rb" protocol="file" />
+      <jump line="248" column="69" filename="$USER_HOME$/pro/solvace-source-master-audit/app/models/ability.rb" protocol="file" />
+      <jump line="263" column="44" filename="$USER_HOME$/pro/solvace-source-master-audit/app/models/ability.rb" protocol="file" />
+      <jump line="278" column="62" filename="$USER_HOME$/pro/solvace-source-master-audit/app/models/ability.rb" protocol="file" />
+      <jump line="549" column="33" filename="$USER_HOME$/pro/solvace-source-master-audit/app/models/ability.rb" protocol="file" />
+      <jump line="542" column="25" filename="$USER_HOME$/pro/solvace-source-master-audit/app/models/ability.rb" protocol="file" />
+      <jump line="6" column="8" filename="$USER_HOME$/pro/solvace-source-master-audit/db/migrate/20200218110102_add_bd_meetings_count_to_groups_table.rb" protocol="file" />
+      <jump line="441" column="90" filename="$USER_HOME$/pro/solvace-source-master-audit/app/models/ability.rb" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/pro/solvace-source-master-audit/app/controllers/actions/framework_nodes_controller.rb" protocol="file" />
+      <jump line="52" column="15" filename="$USER_HOME$/pro/solvace-source-master-audit/app/models/issue.rb" protocol="file" />
+      <jump line="19" column="9" filename="$USER_HOME$/pro/solvace-source-master-audit/db/migrate/20200218110102_add_bd_meetings_count_to_groups_table.rb" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/pro/solvace-source-master-audit/app/controllers/actions/activities_controller.rb" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/pro/solvace-source-master-audit/app/helpers/action_sync_helper.rb" protocol="file" />
+      <jump line="6" column="30" filename="$USER_HOME$/pro/solvace-source-master-audit/app/helpers/action_sync_helper.rb" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/pro/solvace-source-master-audit/app/controllers/actions/analyses_controller.rb" protocol="file" />
+      <jump line="54" column="0" filename="$USER_HOME$/pro/solvace-source-master-audit/app/helpers/action_sync_helper.rb" protocol="file" />
+      <jump line="4" column="0" filename="$USER_HOME$/pro/solvace-source-master-audit/app/controllers/actions/analyses_controller.rb" protocol="file" />
+      <jump line="40" column="2" filename="$USER_HOME$/pro/solvace-source-master-audit/app/helpers/action_sync_helper.rb" protocol="file" />
+      <jump line="2" column="16" filename="$USER_HOME$/pro/solvace-source-master-audit/app/controllers/actions/analyses_controller.rb" protocol="file" />
+      <jump line="5" column="34" filename="$USER_HOME$/pro/solvace-source-master-audit/app/controllers/actions/analyses_controller.rb" protocol="file" />
+      <jump line="8" column="27" filename="$USER_HOME$/pro/solvace-source-master-audit/app/controllers/actions/analyses_controller.rb" protocol="file" />
+      <jump line="19" column="0" filename="$USER_HOME$/pro/solvace-source-master-audit/app/controllers/actions/analyses_controller.rb" protocol="file" />
+      <jump line="87" column="4" filename="$USER_HOME$/pro/solvace-source-master-audit/spec/abilities/token_ability_spec.rb" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/pro/solvace-source-master-audit/app/helpers/bd_board_item_download_helper.rb" protocol="file" />
+      <jump line="422" column="20" filename="$USER_HOME$/pro/solvace-source-master-audit/app/models/ability.rb" protocol="file" />
+      <jump line="474" column="42" filename="$USER_HOME$/pro/solvace-source-master-audit/app/models/ability.rb" protocol="file" />
+      <jump line="472" column="62" filename="$USER_HOME$/pro/solvace-source-master-audit/app/models/ability.rb" protocol="file" />
+      <jump line="770" column="35" filename="$USER_HOME$/pro/solvace-source-master-audit/app/models/ability.rb" protocol="file" />
+      <jump line="9" column="4" filename="$USER_HOME$/pro/solvace-source-master-audit/app/controllers/folders/bd_meeting_groups_controller.rb" protocol="file" />
+      <jump line="54" column="7" filename="$USER_HOME$/pro/solvace-source-master-audit/app/controllers/folders/bd_meeting_groups_controller.rb" protocol="file" />
+      <jump line="51" column="0" filename="$USER_HOME$/pro/solvace-source-master-audit/app/controllers/folders/bd_meeting_groups_controller.rb" protocol="file" />
+      <jump line="50" column="4" filename="$USER_HOME$/pro/solvace-source-master-audit/app/controllers/folders/bd_meeting_groups_controller.rb" protocol="file" />
+      <jump line="14" column="8" filename="$USER_HOME$/pro/solvace-source-master-audit/app/models/bd_board.rb" protocol="file" />
+      <jump line="19" column="0" filename="$USER_HOME$/pro/solvace-source-master-audit/app/models/bd_board.rb" protocol="file" />
+      <jump line="0" column="11" filename="$USER_HOME$/.rbenv/versions/3.3.0/lib/ruby/gems/3.3.0/gems/activemodel-7.1.3/lib/active_model/validations/validates.rb" protocol="file" />
+      <jump line="6" column="22" filename="$USER_HOME$/.rbenv/versions/3.3.0/lib/ruby/gems/3.3.0/gems/activemodel-7.1.3/lib/active_model/validations/validates.rb" protocol="file" />
+      <jump line="24" column="4" filename="$USER_HOME$/pro/solvace-source-master-audit/app/models/bd_board.rb" protocol="file" />
+      <jump line="67" column="13" filename="$USER_HOME$/pro/solvace-source-master-audit/spec/requests/folders/bd_meeting_groups_spec.rb" protocol="file" />
+      <jump line="19" column="6" filename="$USER_HOME$/pro/solvace-source-master-audit/app/models/bd_board_category.rb" protocol="file" />
+      <jump line="12" column="17" filename="$USER_HOME$/pro/solvace-source-master-audit/private_pub.ru" protocol="file" />
+      <jump line="8" column="0" filename="$USER_HOME$/pro/solvace-source-master-audit/private_pub.ru" protocol="file" />
+      <jump line="7" column="0" filename="$USER_HOME$/pro/solvace-source-master-audit/private_pub.ru" protocol="file" />
+      <jump line="3" column="13" filename="$USER_HOME$/pro/solvace-source-master-audit/private_pub.ru" protocol="file" />
+      <jump line="64" column="0" filename="$USER_HOME$/pro/solvace-source-master-audit/app/controllers/folders/bd_meeting_groups_controller.rb" protocol="file" />
+      <jump line="15" column="57" filename="$USER_HOME$/pro/solvace-source-master-audit/spec/models/action_bd_meeting_group_relationship_spec.rb" protocol="file" />
+      <jump line="62" column="0" filename="$USER_HOME$/pro/solvace-source-master-audit/app/controllers/folders/bd_meeting_groups_controller.rb" protocol="file" />
+      <jump line="6" column="16" filename="$USER_HOME$/pro/solvace-source-master-audit/private_pub.ru" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/pro/solvace-source-master-audit/private_pub.ru" protocol="file" />
+      <jump line="9" column="1" filename="$USER_HOME$/pro/solvace-source-master-audit/private_pub.ru" protocol="file" />
+      <jump line="5" column="12" filename="$USER_HOME$/pro/solvace-source-master-audit/private_pub.ru" protocol="file" />
+      <jump line="23" column="31" filename="$USER_HOME$/pro/solvace-source-master-audit/app/controllers/actions/activities_controller.rb" protocol="file" />
+      <jump line="0" column="25" filename="$USER_HOME$/pro/solvace-source-master-audit/app/helpers/arbitrary_list_text_helper.rb" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/pro/solvace-source-master-audit/app/models/backup.rb" protocol="file" />
+      <jump line="42" column="0" filename="$USER_HOME$/.rbenv/versions/3.3.0/lib/ruby/gems/3.3.0/gems/factory_bot-6.4.5/lib/factory_bot/syntax/methods.rb" protocol="file" />
+      <jump line="22" column="24" filename="$USER_HOME$/pro/solvace-source-master-audit/spec/services/bd_board/clone_service_spec.rb" protocol="file" />
+      <jump line="248" column="0" filename="$USER_HOME$/pro/solvace-source-master-audit/Gemfile" protocol="file" />
+      <jump line="23" column="24" filename="$USER_HOME$/pro/solvace-source-master-audit/spec/services/bd_board/clone_service_spec.rb" protocol="file" />
+      <jump line="27" column="41" filename="$USER_HOME$/pro/solvace-source-master-audit/spec/services/bd_board/clone_service_spec.rb" protocol="file" />
+      <jump line="25" column="33" filename="$USER_HOME$/pro/solvace-source-master-audit/spec/services/bd_board/clone_service_spec.rb" protocol="file" />
+      <jump line="6" column="14" filename="$USER_HOME$/pro/solvace-source-master-audit/app/models/bas_equivalent.rb" protocol="file" />
+      <jump line="7" column="20" filename="$USER_HOME$/pro/solvace-source-master-audit/app/models/bas_equivalent.rb" protocol="file" />
+      <jump line="11" column="0" filename="$USER_HOME$/pro/solvace-source-master-audit/app/models/bas_equivalent.rb" protocol="file" />
+      <jump line="38" column="17" filename="$USER_HOME$/.rbenv/versions/3.3.0/lib/ruby/gems/3.3.0/gems/factory_bot-6.4.5/lib/factory_bot/syntax/methods.rb" protocol="file" />
+      <jump line="17" column="4" filename="$USER_HOME$/pro/solvace-source-master-audit/app/controllers/actions/analyses_controller.rb" protocol="file" />
+      <jump line="239" column="4" filename="$USER_HOME$/pro/solvace-source-master-audit/config/routes.rb" protocol="file" />
+      <jump line="283" column="9" filename="$USER_HOME$/pro/solvace-source-master-audit/config/routes.rb" protocol="file" />
+      <jump line="7" column="8" filename="$USER_HOME$/pro/solvace-source-master-audit/app/controllers/actions/framework_nodes_controller.rb" protocol="file" />
+      <jump line="29" column="6" filename="$USER_HOME$/pro/solvace-source-master-audit/spec/services/bd_board/clone_service_spec.rb" protocol="file" />
+      <jump line="4" column="31" filename="$USER_HOME$/pro/solvace-source-master-audit/spec/services/bd_board/clone_service_spec.rb" protocol="file" />
+      <jump line="39" column="0" filename="$USER_HOME$/pro/solvace-source-master-audit/spec/services/arbitrary_list/clone_service_spec.rb" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/pro/solvace-source-master-audit/app/controllers/as_assessments/as_audits_controller.rb" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/pro/solvace-source-master-audit/app/controllers/as_assessments/averages_controller.rb" protocol="file" />
+      <jump line="69" column="6" filename="$USER_HOME$/pro/solvace-source-master-audit/app/helpers/sessions_helper.rb" protocol="file" />
+      <jump line="65" column="36" filename="$USER_HOME$/pro/solvace-source-master-audit/app/helpers/sessions_helper.rb" protocol="file" />
+      <jump line="14" column="3" filename="$USER_HOME$/pro/solvace-source-master-audit/app/models/bas_equivalent.rb" protocol="file" />
+      <jump line="12" column="38" filename="$USER_HOME$/pro/solvace-source-master-audit/app/models/bas_equivalent.rb" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/pro/solvace-source-master-audit/app/controllers/as_assessments/analyses_controller.rb" protocol="file" />
+      <jump line="1" column="21" filename="$USER_HOME$/pro/solvace-source-master-audit/app/controllers/as_assessments/averages_controller.rb" protocol="file" />
+      <jump line="5" column="58" filename="$USER_HOME$/pro/solvace-source-master-audit/app/controllers/as_assessments/averages_controller.rb" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/pro/solvace-source-master-audit/app/controllers/analyses/bd_board_item_relationships_controller.rb" protocol="file" />
+      <jump line="8" column="23" filename="$USER_HOME$/pro/solvace-source-master-audit/app/controllers/as_assessments/averages_controller.rb" protocol="file" />
+      <jump line="19" column="38" filename="$USER_HOME$/pro/solvace-source-master-audit/app/controllers/as_assessments/averages_controller.rb" protocol="file" />
+    </project>
+    <project id="solvace-source-master-audit">
+      <jump line="14" column="8" filename="$USER_HOME$/pro/solvace-source-master-audit/spec/models/action_bd_meeting_group_relationship_spec.rb" protocol="file" />
+      <jump line="11" column="40" filename="$USER_HOME$/pro/solvace-source-master-audit/frontend/toolkit/app/routes/application.js" protocol="file" />
+      <jump line="15" column="4" filename="$USER_HOME$/pro/solvace-source-master-audit/frontend/toolkit/app/routes/application.js" protocol="file" />
+      <jump line="9" column="11" filename="$USER_HOME$/pro/solvace-source-master-audit/frontend/toolkit/app/routes/application.js" protocol="file" />
+      <jump line="16" column="2" filename="$USER_HOME$/pro/solvace-source-master-audit/frontend/toolkit/app/routes/application.js" protocol="file" />
+      <jump line="441" column="90" filename="$USER_HOME$/pro/solvace-source-master-audit/app/models/ability.rb" protocol="file" />
+      <jump line="6" column="8" filename="$USER_HOME$/pro/solvace-source-master-audit/db/migrate/20200218110102_add_bd_meetings_count_to_groups_table.rb" protocol="file" />
+      <jump line="52" column="15" filename="$USER_HOME$/pro/solvace-source-master-audit/app/models/issue.rb" protocol="file" />
+      <jump line="7" column="8" filename="$USER_HOME$/pro/solvace-source-master-audit/app/controllers/actions/framework_nodes_controller.rb" protocol="file" />
+      <jump line="6" column="41" filename="$USER_HOME$/pro/solvace-source-master-audit/app/controllers/folders/bd_meeting_groups_controller.rb" protocol="file" />
+      <jump line="24" column="4" filename="$USER_HOME$/pro/solvace-source-master-audit/app/models/bd_board.rb" protocol="file" />
+      <jump line="50" column="2" filename="$USER_HOME$/pro/solvace-source-master-audit/app/controllers/folders/bd_meeting_groups_controller.rb" protocol="file" />
+      <jump line="11" column="1" filename="$USER_HOME$/pro/solvace-source-master-audit/private_pub.ru" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/pro/solvace-source-master-audit/private_pub.ru" protocol="file" />
+      <jump line="22" column="24" filename="$USER_HOME$/pro/solvace-source-master-audit/spec/services/bd_board/clone_service_spec.rb" protocol="file" />
+      <jump line="38" column="17" filename="$USER_HOME$/.rbenv/versions/3.3.0/lib/ruby/gems/3.3.0/gems/factory_bot-6.4.5/lib/factory_bot/syntax/methods.rb" protocol="file" />
+      <jump line="1" column="21" filename="$USER_HOME$/pro/solvace-source-master-audit/app/controllers/as_assessments/averages_controller.rb" protocol="file" />
+    </project>
+    <project id="$USER_HOME$/pro/playground/ruby_exercise/projects/turbo-stream-example">
+      <jump line="0" column="0" filename="$USER_HOME$/pro/playground/ruby_exercise/projects/turbo-stream-example/README.md" protocol="file" />
+      <jump line="9" column="14" filename="$USER_HOME$/pro/playground/ruby_exercise/projects/turbo-stream-example/README.md" protocol="file" />
+      <jump line="5" column="35" filename="$USER_HOME$/pro/playground/ruby_exercise/projects/turbo-stream-example/app/views/messages/create.turbo_streams.erb" protocol="file" />
+      <jump line="738" column="14" filename="$USER_HOME$/.rbenv/versions/3.3.0/lib/ruby/3.3.0/rdoc/markdown.rb" protocol="file" />
+      <jump line="4" column="17" filename="$USER_HOME$/pro/playground/ruby_exercise/projects/turbo-stream-example/app/controllers/messages_controller.rb" protocol="file" />
+      <jump line="10" column="9" filename="$USER_HOME$/pro/playground/ruby_exercise/projects/turbo-stream-example/app/views/messages/new.html.erb" protocol="file" />
+      <jump line="12" column="0" filename="$USER_HOME$/pro/playground/ruby_exercise/projects/turbo-stream-example/README.md" protocol="file" />
+      <jump line="10" column="0" filename="$USER_HOME$/pro/playground/ruby_exercise/projects/turbo-stream-example/README.md" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/pro/playground/ruby_exercise/projects/turbo-stream-example/bin/rails" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/pro/playground/ruby_exercise/projects/turbo-stream-example/app/channels/application_cable/channel.rb" protocol="file" />
+      <jump line="1" column="0" filename="$USER_HOME$/pro/playground/ruby_exercise/projects/turbo-stream-example/README.md" protocol="file" />
+      <jump line="6" column="0" filename="$USER_HOME$/pro/playground/ruby_exercise/projects/turbo-stream-example/db/migrate/20240708123058_create_rooms.rb" protocol="file" />
+      <jump line="9" column="0" filename="$USER_HOME$/pro/playground/ruby_exercise/projects/turbo-stream-example/db/migrate/20240708123058_create_rooms.rb" protocol="file" />
+      <jump line="40" column="0" filename="$USER_HOME$/pro/playground/ruby_exercise/projects/turbo-stream-example/Gemfile" protocol="file" />
+      <jump line="9" column="0" filename="$USER_HOME$/pro/playground/ruby_exercise/projects/turbo-stream-example/Dockerfile" protocol="file" />
+      <jump line="8" column="0" filename="$USER_HOME$/pro/playground/ruby_exercise/projects/turbo-stream-example/db/migrate/20240708123058_create_rooms.rb" protocol="file" />
+      <jump line="741" column="14" filename="$USER_HOME$/.rbenv/versions/3.3.0/lib/ruby/3.3.0/rdoc/markdown.rb" protocol="file" />
+      <jump line="9" column="9" filename="$USER_HOME$/pro/playground/ruby_exercise/projects/turbo-stream-example/app/views/messages/new.html.erb" protocol="file" />
+      <jump line="4" column="0" filename="$USER_HOME$/pro/playground/ruby_exercise/projects/turbo-stream-example/app/views/messages/create.turbo_streams.erb" protocol="file" />
+      <jump line="15" column="0" filename="$USER_HOME$/pro/playground/ruby_exercise/projects/turbo-stream-example/app/controllers/messages_controller.rb" protocol="file" />
+      <jump line="8" column="0" filename="$USER_HOME$/pro/playground/ruby_exercise/projects/turbo-stream-example/README.md" protocol="file" />
+      <jump line="4" column="0" filename="$USER_HOME$/pro/playground/ruby_exercise/projects/turbo-stream-example/bin/rails" protocol="file" />
+      <jump line="4" column="0" filename="$USER_HOME$/pro/playground/ruby_exercise/projects/turbo-stream-example/app/channels/application_cable/channel.rb" protocol="file" />
+    </project>
+    <project id="turbo-stream-example">
+      <jump line="4" column="36" filename="$USER_HOME$/pro/playground/ruby_exercise/projects/turbo-stream-example/app/views/messages/create.turbo_streams.erb" protocol="file" />
+      <jump line="10" column="9" filename="$USER_HOME$/pro/playground/ruby_exercise/projects/turbo-stream-example/app/views/messages/new.html.erb" protocol="file" />
+      <jump line="738" column="16" filename="$USER_HOME$/.rbenv/versions/3.3.0/lib/ruby/3.3.0/rdoc/markdown.rb" protocol="file" />
+      <jump line="4" column="17" filename="$USER_HOME$/pro/playground/ruby_exercise/projects/turbo-stream-example/app/controllers/messages_controller.rb" protocol="file" />
+      <jump line="1" column="8" filename="$USER_HOME$/pro/playground/ruby_exercise/projects/turbo-stream-example/db/migrate/20240708123058_create_rooms.rb" protocol="file" />
+    </project>
+    <project id="$USER_HOME$/pro/playground/ruby_exercise/projects/wire-stimulus-chat">
+      <jump line="0" column="0" filename="$USER_HOME$/pro/playground/ruby_exercise/projects/wire-stimulus-chat/README.md" protocol="file" />
+      <jump line="17" column="27" filename="$USER_HOME$/pro/playground/ruby_exercise/projects/wire-stimulus-chat/README.md" protocol="file" />
+      <jump line="20" column="25" filename="$USER_HOME$/pro/playground/ruby_exercise/projects/wire-stimulus-chat/app/controllers/messages_controller.rb" protocol="file" />
+      <jump line="16" column="32" filename="$USER_HOME$/pro/playground/ruby_exercise/projects/wire-stimulus-chat/app/controllers/messages_controller.rb" protocol="file" />
+      <jump line="5" column="15" filename="$USER_HOME$/pro/playground/ruby_exercise/projects/wire-stimulus-chat/app/controllers/messages_controller.rb" protocol="file" />
+      <jump line="9" column="12" filename="$USER_HOME$/pro/playground/ruby_exercise/projects/wire-stimulus-chat/app/controllers/messages_controller.rb" protocol="file" />
+      <jump line="11" column="4" filename="$USER_HOME$/pro/playground/ruby_exercise/projects/wire-stimulus-chat/app/controllers/messages_controller.rb" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/pro/playground/ruby_exercise/projects/wire-stimulus-chat/app/views/messages/_from.html.erb" protocol="file" />
+      <jump line="9" column="0" filename="$USER_HOME$/pro/playground/ruby_exercise/projects/wire-stimulus-chat/app/views/messages/_message.html.erb" protocol="file" />
+      <jump line="13" column="24" filename="$USER_HOME$/pro/playground/ruby_exercise/projects/wire-stimulus-chat/app/views/messages/_message.html.erb" protocol="file" />
+      <jump line="11" column="28" filename="$USER_HOME$/pro/playground/ruby_exercise/projects/wire-stimulus-chat/app/views/messages/_message.html.erb" protocol="file" />
+      <jump line="1" column="56" filename="$USER_HOME$/pro/playground/ruby_exercise/projects/wire-stimulus-chat/app/views/messages/_message.html.erb" protocol="file" />
+      <jump line="14" column="68" filename="$USER_HOME$/pro/playground/ruby_exercise/projects/wire-stimulus-chat/app/views/messages/_message.html.erb" protocol="file" />
+      <jump line="4" column="19" filename="$USER_HOME$/pro/playground/ruby_exercise/projects/wire-stimulus-chat/app/views/messages/_message.html.erb" protocol="file" />
+      <jump line="0" column="38" filename="$USER_HOME$/pro/playground/ruby_exercise/projects/wire-stimulus-chat/app/views/messages/_message.html.erb" protocol="file" />
+      <jump line="16" column="14" filename="$USER_HOME$/pro/playground/ruby_exercise/projects/wire-stimulus-chat/app/views/messages/_message.html.erb" protocol="file" />
+      <jump line="12" column="18" filename="$USER_HOME$/pro/playground/ruby_exercise/projects/wire-stimulus-chat/app/views/messages/_message.html.erb" protocol="file" />
+      <jump line="23" column="0" filename="$USER_HOME$/pro/playground/ruby_exercise/projects/wire-stimulus-chat/app/views/messages/_message.html.erb" protocol="file" />
+      <jump line="20" column="8" filename="$USER_HOME$/pro/playground/ruby_exercise/projects/wire-stimulus-chat/app/views/messages/_message.html.erb" protocol="file" />
+      <jump line="15" column="1" filename="$USER_HOME$/pro/playground/ruby_exercise/projects/wire-stimulus-chat/app/views/messages/_from.html.erb" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/pro/playground/ruby_exercise/projects/wire-stimulus-chat/app/views/messages/_controls.html.erb" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/pro/playground/ruby_exercise/projects/wire-stimulus-chat/app/views/pages/home.html.erb" protocol="file" />
+      <jump line="9" column="28" filename="$USER_HOME$/pro/playground/ruby_exercise/projects/wire-stimulus-chat/app/views/messages/_from.html.erb" protocol="file" />
+      <jump line="4" column="0" filename="$USER_HOME$/pro/playground/ruby_exercise/projects/wire-stimulus-chat/app/views/messages/_controls.html.erb" protocol="file" />
+      <jump line="16" column="0" filename="$USER_HOME$/pro/playground/ruby_exercise/projects/wire-stimulus-chat/app/views/pages/home.html.erb" protocol="file" />
+      <jump line="19" column="12" filename="$USER_HOME$/pro/playground/ruby_exercise/projects/wire-stimulus-chat/app/views/messages/_from.html.erb" protocol="file" />
+      <jump line="22" column="8" filename="$USER_HOME$/pro/playground/ruby_exercise/projects/wire-stimulus-chat/app/views/messages/_message.html.erb" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/pro/playground/ruby_exercise/projects/wire-stimulus-chat/app/views/messages/_chatbox.html.erb" protocol="file" />
+      <jump line="12" column="28" filename="$USER_HOME$/pro/playground/ruby_exercise/projects/wire-stimulus-chat/README.md" protocol="file" />
+      <jump line="16" column="51" filename="$USER_HOME$/pro/playground/ruby_exercise/projects/wire-stimulus-chat/README.md" protocol="file" />
+      <jump line="6" column="15" filename="$USER_HOME$/pro/playground/ruby_exercise/projects/wire-stimulus-chat/app/controllers/messages_controller.rb" protocol="file" />
+      <jump line="15" column="19" filename="$USER_HOME$/pro/playground/ruby_exercise/projects/wire-stimulus-chat/app/controllers/messages_controller.rb" protocol="file" />
+      <jump line="12" column="19" filename="$USER_HOME$/pro/playground/ruby_exercise/projects/wire-stimulus-chat/app/models/message.rb" protocol="file" />
+    </project>
+    <project id="wire-stimulus-chat">
+      <jump line="12" column="12" filename="$USER_HOME$/pro/playground/ruby_exercise/projects/wire-stimulus-chat/app/models/message.rb" protocol="file" />
+    </project>
+    <project id="solvace-source-master-audit-ace45efe">
+      <jump line="13" column="0" filename="$USER_HOME$/pro/solvace-source-master-audit/docker/Dockerfile" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/pro/solvace-source-master-audit/docker/Dockerfile" protocol="file" />
+      <jump line="25" column="11" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="24" column="11" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="54" column="0" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="32" column="19" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="39" column="0" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="43" column="0" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="44" column="16" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="59" column="25" filename="$USER_HOME$/pro/solvace-source-master-audit/Gemfile" protocol="file" />
+      <jump line="60" column="1" filename="$USER_HOME$/pro/solvace-source-master-audit/Gemfile" protocol="file" />
+      <jump line="33" column="27" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="34" column="38" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="36" column="47" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="37" column="0" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="30" column="14" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="58" column="0" filename="$USER_HOME$/pro/solvace-source-master-audit/Gemfile" protocol="file" />
+      <jump line="86" column="13" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="66" column="22" filename="$USER_HOME$/pro/solvace-source-master-audit/Gemfile" protocol="file" />
+      <jump line="54" column="38" filename="$USER_HOME$/pro/solvace-source-master-audit/Gemfile" protocol="file" />
+      <jump line="48" column="24" filename="$USER_HOME$/pro/solvace-source-master-audit/Gemfile" protocol="file" />
+      <jump line="44" column="41" filename="$USER_HOME$/pro/solvace-source-master-audit/Gemfile" protocol="file" />
+      <jump line="28" column="20" filename="$USER_HOME$/pro/solvace-source-master-audit/Gemfile" protocol="file" />
+      <jump line="49" column="45" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="27" column="24" filename="$USER_HOME$/pro/solvace-source-master-audit/Gemfile" protocol="file" />
+      <jump line="35" column="26" filename="$USER_HOME$/pro/solvace-source-master-audit/Gemfile" protocol="file" />
+      <jump line="33" column="11" filename="$USER_HOME$/pro/solvace-source-master-audit/Gemfile" protocol="file" />
+      <jump line="41" column="31" filename="$USER_HOME$/pro/solvace-source-master-audit/Gemfile" protocol="file" />
+      <jump line="81" column="5" filename="$USER_HOME$/pro/solvace-source-master-audit/Gemfile" protocol="file" />
+      <jump line="135" column="20" filename="$USER_HOME$/pro/solvace-source-master-audit/Gemfile" protocol="file" />
+      <jump line="209" column="5" filename="$USER_HOME$/pro/solvace-source-master-audit/Gemfile" protocol="file" />
+      <jump line="137" column="5" filename="$USER_HOME$/pro/solvace-source-master-audit/Gemfile" protocol="file" />
+      <jump line="146" column="28" filename="$USER_HOME$/pro/solvace-source-master-audit/Gemfile" protocol="file" />
+      <jump line="57" column="17" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="52" column="12" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="77" column="0" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="84" column="0" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="181" column="36" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="147" column="25" filename="$USER_HOME$/pro/solvace-source-master-audit/Gemfile" protocol="file" />
+      <jump line="131" column="7" filename="$USER_HOME$/pro/solvace-source-master-audit/Gemfile" protocol="file" />
+      <jump line="150" column="17" filename="$USER_HOME$/pro/solvace-source-master-audit/Gemfile" protocol="file" />
+      <jump line="116" column="15" filename="$USER_HOME$/pro/solvace-source-master-audit/Gemfile" protocol="file" />
+      <jump line="45" column="0" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="47" column="0" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="119" column="18" filename="$USER_HOME$/pro/solvace-source-master-audit/Gemfile" protocol="file" />
+      <jump line="112" column="29" filename="$USER_HOME$/pro/solvace-source-master-audit/Gemfile" protocol="file" />
+      <jump line="118" column="15" filename="$USER_HOME$/pro/solvace-source-master-audit/Gemfile" protocol="file" />
+      <jump line="115" column="11" filename="$USER_HOME$/pro/solvace-source-master-audit/Gemfile" protocol="file" />
+      <jump line="117" column="16" filename="$USER_HOME$/pro/solvace-source-master-audit/Gemfile" protocol="file" />
+      <jump line="61" column="17" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="72" column="16" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="70" column="20" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="12" column="0" filename="$USER_HOME$/pro/solvace-source-master-audit/private_pub.ru" protocol="file" />
+      <jump line="11" column="24" filename="$USER_HOME$/pro/solvace-source-master-audit/private_pub.ru" protocol="file" />
+      <jump line="41" column="0" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="58" column="17" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="109" column="35" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="88" column="13" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="73" column="22" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="68" column="15" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="56" column="17" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="53" column="12" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="50" column="26" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="85" column="0" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="13" column="28" filename="$USER_HOME$/pro/solvace-source-master-audit/private_pub.ru" protocol="file" />
+      <jump line="130" column="0" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="5" column="12" filename="$USER_HOME$/pro/solvace-source-master-audit/private_pub.ru" protocol="file" />
+      <jump line="7" column="124" filename="$USER_HOME$/pro/solvace-source-master-audit/private_pub.ru" protocol="file" />
+      <jump line="126" column="0" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="120" column="0" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="123" column="0" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="128" column="32" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="141" column="0" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="146" column="0" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="114" column="15" filename="$USER_HOME$/pro/solvace-source-master-audit/Gemfile" protocol="file" />
+      <jump line="102" column="10" filename="$USER_HOME$/pro/solvace-source-master-audit/Gemfile" protocol="file" />
+      <jump line="308" column="17" filename="$USER_HOME$/pro/solvace-source-master-audit/Gemfile" protocol="file" />
+      <jump line="125" column="17" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="79" column="25" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="165" column="0" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="170" column="35" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="299" column="19" filename="$USER_HOME$/pro/solvace-source-master-audit/Gemfile" protocol="file" />
+      <jump line="302" column="0" filename="$USER_HOME$/pro/solvace-source-master-audit/Gemfile" protocol="file" />
+      <jump line="23" column="31" filename="$USER_HOME$/pro/solvace-source-master-audit/docker/Dockerfile" protocol="file" />
+      <jump line="60" column="0" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="2824" column="6" filename="$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs33/kernel.rb" protocol="file" />
+      <jump line="88" column="0" filename="$USER_HOME$/pro/solvace-source-master-audit/Gemfile" protocol="file" />
+      <jump line="59" column="2" filename="$USER_HOME$/pro/solvace-source-master-audit/app/views/layouts/_settings.html.erb" protocol="file" />
+      <jump line="15" column="0" filename="$USER_HOME$/pro/solvace-source-master-audit/private_pub.ru" protocol="file" />
+      <jump line="52" column="36" filename="$USER_HOME$/pro/solvace-source-master-audit/app/views/layouts/_settings.html.erb" protocol="file" />
+      <jump line="47" column="15" filename="$USER_HOME$/pro/solvace-source-master-audit/app/views/layouts/_settings.html.erb" protocol="file" />
+      <jump line="49" column="7" filename="$USER_HOME$/pro/solvace-source-master-audit/app/views/layouts/_settings.html.erb" protocol="file" />
+      <jump line="46" column="4" filename="$USER_HOME$/pro/solvace-source-master-audit/app/views/layouts/_settings.html.erb" protocol="file" />
+      <jump line="45" column="46" filename="$USER_HOME$/pro/solvace-source-master-audit/app/views/layouts/_settings.html.erb" protocol="file" />
+      <jump line="12" column="38" filename="$USER_HOME$/pro/solvace-source-master-audit/app/views/layouts/_settings.html.erb" protocol="file" />
+      <jump line="136" column="0" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="9" column="15" filename="$USER_HOME$/pro/solvace-source-master-audit/app/controllers/analyses/bd_board_item_relationships_controller.rb" protocol="file" />
+      <jump line="7" column="2" filename="$USER_HOME$/pro/solvace-source-master-audit/app/controllers/analyses/bd_board_item_relationships_controller.rb" protocol="file" />
+      <jump line="4" column="0" filename="$USER_HOME$/pro/solvace-source-master-audit/docker/Dockerfile" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+    </project>
+    <project id="solvace-source-master-9fab846f">
+      <jump line="33" column="7" filename="$USER_HOME$/pro/solvace-source-master-audit-natural/solvace-source-master/lib/tasks/generate_settings.rake" protocol="file" />
+      <jump line="9" column="57" filename="$USER_HOME$/pro/solvace-source-master-audit-natural/solvace-source-master/app/views/layouts/_settings.html.erb" protocol="file" />
+      <jump line="18" column="0" filename="$USER_HOME$/pro/solvace-source-master-audit-natural/solvace-source-master/lib/tasks/generate_settings.rake" protocol="file" />
+      <jump line="25" column="58" filename="$USER_HOME$/pro/solvace-source-master-audit-natural/solvace-source-master/lib/tasks/generate_settings.rake" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/pro/solvace-source-master-audit-natural/solvace-source-master/config/database.yml" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/pro/solvace-source-master-audit-natural/solvace-source-master/db/schema.rb" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/pro/solvace-source-master-audit-natural/solvace-source-master/docker/.env.production" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/pro/solvace-source-master-audit-natural/solvace-source-master/docker-compose.yml" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/pro/solvace-source-master-audit-natural/solvace-source-master/docker/env.mysql" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/pro/solvace-source-master-audit-natural/solvace-source-master/frontend/common-addon/app/helpers/app-setting.js" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/pro/solvace-source-master-audit-natural/solvace-source-master/lib/tasks/generate_org.rake" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/pro/solvace-source-master-audit-natural/solvace-source-master/lib/tasks/generate_parents.rake" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/pro/solvace-source-master-audit-natural/solvace-source-master/lib/tasks/generate_settings.rake" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/pro/solvace-source-master-audit-natural/solvace-source-master/lib/tasks/parallel_tests_patch.rb" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/pro/solvace-source-master-audit-natural/solvace-source-master/lib/utils/rake.rb" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/pro/solvace-source-master-audit-natural/solvace-source-master/scripts/run_rspec.sh" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/pro/solvace-source-master-audit-natural/solvace-source-master/spec/factories.rb" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/pro/solvace-source-master-audit-natural/solvace-source-master/spec/support/response_helper.rb" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/pro/solvace-source-master-audit-natural/solvace-source-master/spec/spec_helper.rb" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/pro/solvace-source-master-audit-natural/solvace-source-master/spec/rails_helper.rb" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/pro/solvace-source-master-audit-natural/solvace-source-master/lib/tasks/generate_rdoc.rake" protocol="file" />
+    </project>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <localmarks>
+      <file name="$USER_HOME$/pro/solvace-source-master-audit/config/locales/nl.yml" timestamp="1721839719247">
+        <mark key="&quot;" line="178" column="4" />
+      </file>
+      <file name="$USER_HOME$/pro/solvace-source-master-audit/app/controllers/application_controller.rb" timestamp="1721904113736">
+        <mark key="&quot;" line="77" column="53" />
+      </file>
+      <file name="$USER_HOME$/pro/solvace-source-master-audit/lib/tasks/generate_settings.rake" timestamp="1721839648088">
+        <mark key="&quot;" line="46" column="31" />
+      </file>
+      <file name="$USER_HOME$/pro/solvace-source-master-audit/app/views/activities/_user_activity.html.erb" timestamp="1721895634632">
+        <mark key="&quot;" line="1" column="47" />
+      </file>
+      <file name="$USER_HOME$/pro/solvace-source-master-audit-natural/solvace-source-master/app/controllers/application_controller.rb" timestamp="1721839545216">
+        <mark key="&quot;" line="77" column="53" />
+      </file>
+      <file name="$USER_HOME$/pro/solvace-source-master-audit-natural/solvace-source-master/Gemfile" timestamp="1721839545226">
+        <mark key="&quot;" line="250" column="24" />
+      </file>
+      <file name="$USER_HOME$/pro/solvace-source-master-audit-natural/solvace-source-master/spec/rails_helper.rb" timestamp="1721839545204">
+        <mark key="&quot;" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/pro/solvace-source-master-audit-natural/solvace-source-master/spec/support/response_helper.rb" timestamp="1721839545209">
+        <mark key="&quot;" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/pro/solvace-source-master-audit/lib/tasks/generate_parents.rake" timestamp="1721840924751">
+        <mark key="&quot;" line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/pro/solvace-source-master-audit-natural/solvace-source-master/lib/tasks/generate_parents.rake" timestamp="1721839545213">
+        <mark key="&quot;" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/pro/solvace-source-master-audit/app/views/layouts/_settings.html.erb" timestamp="1721910758808">
+        <mark key="&quot;" line="49" column="0" />
+        <mark key="'" line="11" column="7" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="21" column="42" />
+        <mark key="^" line="21" column="42" />
+        <mark key="." line="21" column="41" />
+      </file>
+      <file name="$USER_HOME$/pro/solvace-source-master-audit-natural/solvace-source-master/lib/tasks/generate_rdoc.rake" timestamp="1721839545207">
+        <mark key="&quot;" line="10" column="2" />
+      </file>
+      <file name="$USER_HOME$/pro/solvace-source-master-audit-natural/solvace-source-master/app/views/layouts/_settings.html.erb" timestamp="1721839545221">
+        <mark key="&quot;" line="9" column="57" />
+      </file>
+      <file name="$USER_HOME$/pro/solvace-source-master-audit-natural/solvace-source-master/private_pub.ru" timestamp="1721839545218">
+        <mark key="&quot;" line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/.ideavimrc" timestamp="1721910672968">
+        <mark key="&quot;" line="135" column="52" />
+        <mark key="'" line="85" column="0" />
+        <mark key="i" line="49" column="0" />
+        <mark key="[" line="124" column="12" />
+        <mark key="]" line="124" column="12" />
+        <mark key="." line="124" column="12" />
+        <mark key="^" line="125" column="15" />
+      </file>
+      <file name="$USER_HOME$/pro/solvace-source-master-audit/config/i18n-tasks.yml" timestamp="1721839725651">
+        <mark key="&quot;" line="23" column="47" />
+      </file>
+      <file name="$USER_HOME$/pro/solvace-source-master-audit/app/controllers/organizations_controller.rb" timestamp="1721841058765">
+        <mark key="[" line="14" column="23" />
+        <mark key="]" line="14" column="24" />
+        <mark key="^" line="14" column="24" />
+        <mark key="." line="14" column="23" />
+      </file>
+      <file name="$USER_HOME$/pro/solvace-source-master-audit/private_pub.ru" timestamp="1721910289082">
+        <mark key="&quot;" line="12" column="0" />
+        <mark key="'" line="7" column="124" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/pro/solvace-source-master-audit/Gemfile" timestamp="1721910643636">
+        <mark key="&quot;" line="224" column="0" />
+        <mark key="[" line="300" column="27" />
+        <mark key="]" line="300" column="28" />
+        <mark key="^" line="300" column="28" />
+        <mark key="." line="300" column="27" />
+      </file>
+      <file name="$USER_HOME$/pro/solvace-source-master-audit/app/controllers/analyses/bd_board_item_relationships_controller.rb" timestamp="1721910917692">
+        <mark key="'" line="9" column="15" />
+      </file>
+    </localmarks>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="LINE_WISE">
+        <text encoding="base64">IiIgfi8uaWRlYXZpbXJjCgoiIFNldCByZWxhdGl2ZSBudW1iZXJzOgpzZXQgcmVsYXRpdmVudW1iZXIgbnVtYmVyCgoiIiBHZW5lcmFsOgoiID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CnNldCBzY3JvbGxvZmY9MTAKc2V0IGxpbmVudW1iZXIKc2V0IHNob3dtb2RlCnNldCBzaG93Y21kCnNldCBzbWFydGNhc2UKc2V0IGluY3NlYXJjaApzZXQgaGxzZWFyY2gKc2V0IHZpc3VhbGJlbGwKCiIgVXNlIHN5c3RlbSBjbGlwYm9hcmQKc2V0IGNsaXBib2FyZCs9dW5uYW1lZAoKbGV0IG1hcGxlYWRlciA9ICIgIgoKIiIgUGx1Z2luIFNldHRpbmdzCiIiID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CnNldCBzdXJyb3VuZApzZXQgaGlnaGxpZ2h0ZWR5YW5rCnNldCBjb21tZW50YXJ5CnNldCBORVJEVHJlZQpzZXQgd2hpY2gta2V5CiIgV2hpY2gtS2V5IHRpbWVvdXQKc2V0IG5vdGltZW91dAoiIHNldCBlYXN5bW90aW9uCiIgRWFzeW1vdGlvbiBzZXR0aW5ncwoiIHNldCBub3RpbWVvdXQKCiIgV2hpY2gta2V5IHNldHRpbmdzCmxldCBnOldoaWNoS2V5X0ZvbnRTaXplID0gMTYKbGV0IGc6V2hpY2hLZXlfQ29tbWFuZENvbG9yID0gIiM0MWVhZDQiCmxldCBnOldoaWNoS2V5X1ByZWZpeENvbG9yID0gIiNmMzM1YjIiCmxldCBnOldoaWNoS2V5X1NvcnRPcmRlciA9ICJieV9rZXlfcHJlZml4X2ZpcnN0IgoKbGV0IGc6V2hpY2hLZXlEZXNjX2xlYWRlciA9ICI8bGVhZGVyPiBMZWFkZXIga2V5IgoKCiIiIEtleSBtYXBwaW5ncwoiIiA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQoKaW5vcmVtYXAgamsgPEVzYz4KCiIgU2hvdyBkZXNjcmlwdGlvbiBmb3IgRGlhZ25vc3RpY3MKbm1hcCA8bGVhZGVyPnNkIDxBY3Rpb24+KFNob3dFcnJvckRlc2NyaXB0aW9uKQoiIG5tYXAgPGxlYWRlcj48Uy1kPiA8QWN0aW9uPgoKIiBkZWxldGUgd29yZCBiYWNrd29yZHMiCm5tYXAgZHcgdmIiX2QKIiBzeXN0ZW0geWFuawp2bWFwIDxsZWFkZXI+eSAiK3kKdm1hcCA8bGVhZGVyPmQgIitkCnZtYXAgPGxlYWRlcj5QICIrUAp2bWFwIDxsZWFkZXI+cCAiK3AKCm5tYXAgPGxlYWRlcj5QICIrUApubWFwIDxsZWFkZXI+cCAiK3AKbm1hcCA8bGVhZGVyPnkgIit5eQoKIiBtb3ZlIHVwIGFuZCBkb3duCm5tYXAgPEMtZD4gPEMtZD56egpubWFwIDxDLXU+IDxDLXU+enoKCiIgVGFiIG5hdmlnYXRpb24Kbm5vcmVtYXAgPENTLWw+IDp0YWJuZXh0PENSPgpubm9yZW1hcCA8Q1MtaD4gOnRhYnByZXY8Q1I+CgoiIFBhbmUgbmF2aWdhdGlvbgoiIG5ub3JlbWFwIDxBLWg+IDxDLXc+aAoiIG5ub3JlbWFwIDxBLWw+IDxDLXc+bAoiIG5ub3JlbWFwIDxBLWs+IDxDLXc+awoiIG5ub3JlbWFwIDxBLWo+IDxDLXc+agoKIiBKdW1wIGJldHdlZW4gbWV0aG9kcwpubWFwIFtbIDxBY3Rpb24+KE1ldGhvZFVwKQpubWFwIF1dIDxBY3Rpb24+KE1ldGhvZERvd24pCgoiIGp1bW5wIHRvIGVuZC9zdGFydCBvZiBmdW5jdGlvbnMKIiBubm9yZW1hcCAlIDo8Q1MtTT4KCiIgRWFzeSB2aXN1YWwgaW5kZW50YXRpb24KIiBTaGZpdCArID4gb3IgPCB3aGVuIGluIHZpc3VhbCBtb2RlLgp2bm9yZW1hcCA8IDxndgp2bm9yZW1hcCA+ID5ndgoKdm5vcmVtYXAgPGxlYWRlcj5yIDxBY3Rpb24+KFJlcGxhY2UuLi4pCgoiIEV4ZWN1dGUgbWFjcm8gc2F2ZWQgaW4gJ3EnIHJlZ2lzdGVyCm5ub3JlbWFwIHFqIEBxCgoiIFBvcHVwIG5hdmlnYXRpb24KaW5vcmVtYXAgPEMtaj4gPEFjdGlvbj4oUG9wdXBNZW51LXNlbGVjdE5leHQpCmlub3JlbWFwIDxDLWs+IDxBY3Rpb24+KFBvcHVwTWVudS1zZWxlY3RQcmV2KQoKCiIiIExlYWRlciBjb21tYW5kcwoiIiA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQptYXAgPGxlYWRlcj5lIDxBY3Rpb24+KFByb2plY3REaXJlY3RvcnkpCgoiIEhhcnBvb24KIiA9PT09PT09PT09PT09PT09PT09PQptYXAgPGxlYWRlcj53IDxBY3Rpb24+KFNob3dIYXJwb29uKQptYXAgPGxlYWRlcj4xIDxBY3Rpb24+KEdvdG9IYXJwb29uMSkKbWFwIDxsZWFkZXI+MiA8QWN0aW9uPihHb3RvSGFycG9vbjIpCm1hcCA8bGVhZGVyPjMgPEFjdGlvbj4oR290b0hhcnBvb24zKQptYXAgPGxlYWRlcj40IDxBY3Rpb24+KEdvdG9IYXJwb29uNCkKbWFwIDxsZWFkZXI+NSA8QWN0aW9uPihHb3RvSGFycG9vbjUpCm1hcCA8VGFiPjEgPEFjdGlvbj4oU2V0SGFycG9vbjEpCm1hcCA8VGFiPjIgPEFjdGlvbj4oU2V0SGFycG9vbjIpCm1hcCA8VGFiPjMgPEFjdGlvbj4oU2V0SGFycG9vbjMpCm1hcCA8VGFiPjQgPEFjdGlvbj4oU2V0SGFycG9vbjQpCm1hcCA8VGFiPjUgPEFjdGlvbj4oU2V0SGFycG9vbjUpCgoiIENvbW1lbnQgbGluZXMKbWFwIDxsZWFkZXI+YyA8QWN0aW9uPihDb21tZW50QnlMaW5lQ29tbWVudCkKCiIgSnVtcCBhcm91bmQgd2l0aCBlYXN5bW90aW9uCiIgbWFwIDxsZWFkZXI+aiA8UGx1Zz4oZWFzeW1vdGlvbi1zKQoKIiBIaWdobGlnaHQKbWFwIDxsZWFkZXI+aCAidml3CgoiIEZvbGRpbmcKbWFwIDxsZWFkZXI+emMgOmFjdGlvbiBDb2xsYXBzZUFsbFJlZ2lvbnM8Q1I+Cm1hcCA8bGVhZGVyPnpvIDphY3Rpb24gRXhwYW5kQWxsUmVnaW9uczxDUj4KCiIgV2luZG93IHNwbGl0cwptYXAgPGxlYWRlcj48Uy1cPiA8QWN0aW9uPihTcGxpdFZlcnRpY2FsbHkpCm1hcCA8bGVhZGVyPi0gPEFjdGlvbj4oU3BsaXRIb3Jpem9udGFsbHkpCm1hcCA8bGVhZGVyPnd1IDxBY3Rpb24+KFVuc3BsaXQpCm1hcCA8bGVhZGVyPndtIDxBY3Rpb24+KE1vdmVFZGl0b3JUb09wcG9zaXRlVGFiR3JvdXApCgoiIERpc3BsYXkgb3B0aW9ucwptYXAgPGxlYWRlcj5kZCA8YWN0aW9uPihUb2dnbGVEaXN0cmFjdGlvbkZyZWVNb2RlKQptYXAgPGxlYWRlcj5keiA8YWN0aW9uPihUb2dnbGVaZW5Nb2RlKQptYXAgPGxlYWRlcj5kZiA8YWN0aW9uPihUb2dnbGVGdWxsU2NyZWVuKQoKIiBBY3Rpb25zCiIgSW50ZW50aW9uIGFjdGlvbiBsaWtlIGNvbnZlcnQgdG8gc3RyaW5nIGFuZCBzdWNoLgptYXAgPGxlYWRlcj5hbSA8YWN0aW9uPihTaG93SW50ZW50aW9uQWN0aW9ucykKbWFwIDxsZWFkZXI+c2cgPGFjdGlvbj4oU2VhcmNoRXZlcnl3aGVyZSkKCiIgRmlsZSBuYXZpZ2F0aW9uCm1hcCA8bGVhZGVyPnNmIDxhY3Rpb24+KEdvdG9GaWxlKQptYXAgPGxlYWRlcj5mciA8YWN0aW9uPihSZWNlbnRGaWxlcykKbWFwIDxsZWFkZXI+ZmMgPGFjdGlvbj4oRmluZEluUGF0aCkKbWFwIDxsZWFkZXI+PGxlYWRlcj4gPEFjdGlvbj4oU3dpdGNoZXIpCm1hcCA8bGVhZGVyPmZsIDxhY3Rpb24+KFJlY2VudExvY2F0aW9ucykKbWFwIDxsZWFkZXI+ZnMgPGFjdGlvbj4oTmV3U2NyYXRjaEZpbGUpCgoiIENsb3NlIGFjdGl2ZSB0YWIKbWFwIDxsZWFkZXI+cSA8YWN0aW9uPihDbG9zZUNvbnRlbnQpCgoiIFJlZmFjdG9yaW5nCm1hcCA8bGVhZGVyPnJuIDxBY3Rpb24+KFJlbmFtZUVsZW1lbnQpCm1hcCA8bGVhZGVyPnJtIDxBY3Rpb24+KEV4dHJhY3RNZXRob2QpCm1hcCA8bGVhZGVyPnJ2IDxBY3Rpb24+KEludHJvZHVjZVZhcmlhYmxlKQptYXAgPGxlYWRlcj5yZiA8QWN0aW9uPihJbnRyb2R1Y2VGaWVsZCkKbWFwIDxsZWFkZXI+cnMgPEFjdGlvbj4oQ2hhbmdlU2lnbmF0dXJlKQptYXAgPGxlYWRlcj5yciA8QWN0aW9uPihSZWZhY3RvcmluZ3MuUXVpY2tMaXN0UG9wdXBBY3Rpb24pCgoiIEdvIHRvIGNvZGUKbm1hcCA8bGVhZGVyPmdkIDxBY3Rpb24+KEdvdG9EZWNsYXJhdGlvbikKbm1hcCA8bGVhZGVyPmd5IDxBY3Rpb24+KEdvdG9UeXBlRGVjbGFyYXRpb24pCm5tYXAgPGxlYWRlcj5naSA8QWN0aW9uPihHb3RvSW1wbGVtZW50YXRpb24pCm5tYXAgPGxlYWRlcj5ndSA8QWN0aW9uPihTaG93VXNhZ2VzKQpubWFwIDxsZWFkZXI+Z3QgPEFjdGlvbj4oR290b1Rlc3QpCm5tYXAgPGxlYWRlcj5nZiA8QWN0aW9uPihCYWNrKQpubWFwIDxsZWFkZXI+Z2IgPEFjdGlvbj4oRm9yd2FyZCkKCiIgR28gdG8gbmV4dCBjaGFuZ2UgR2l0Cm5tYXAgPGxlYWRlcj5daCA8QWN0aW9uPihOZXh0Q2hhbmdlKQoKIiBHaXQgd2luZG93cwptYXAgPGxlYWRlcj5nYyA8QWN0aW9uPihDaGVja2luUHJvamVjdCkKbWFwIDxsZWFkZXI+Z3MgPEFjdGlvbj4oQWN0aXZhdGVWZXJzaW9uQ29udHJvbFRvb2xXaW5kb3cpCm1hcCA8bGVhZGVyPmdiIDxBY3Rpb24+KEdpdC5CcmFuY2hlcykK</text>
+      </register>
+      <register name="*" type="CHARACTER_WISE">
+        <text encoding="base64">Y29weTo=</text>
+      </register>
+      <register name="j" type="CHARACTER_WISE">
+        <keys>
+          <key char="61" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="43" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="43" code="0" mods="0" />
+          <key char="43" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="113" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="67" mods="130" />
+          <key char="106" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="65535" code="67" mods="130" />
+          <key char="65535" code="67" mods="130" />
+          <key char="65535" code="67" mods="130" />
+          <key char="113" code="0" mods="0" />
+        </keys>
+      </register>
+      <register name="+" type="LINE_WISE">
+        <text encoding="base64">IiIgfi8uaWRlYXZpbXJjCgoiIFNldCByZWxhdGl2ZSBudW1iZXJzOgpzZXQgcmVsYXRpdmVudW1iZXIgbnVtYmVyCgoiIiBHZW5lcmFsOgoiID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CnNldCBzY3JvbGxvZmY9MTAKc2V0IGxpbmVudW1iZXIKc2V0IHNob3dtb2RlCnNldCBzaG93Y21kCnNldCBzbWFydGNhc2UKc2V0IGluY3NlYXJjaApzZXQgaGxzZWFyY2gKc2V0IHZpc3VhbGJlbGwKCiIgVXNlIHN5c3RlbSBjbGlwYm9hcmQKc2V0IGNsaXBib2FyZCs9dW5uYW1lZAoKbGV0IG1hcGxlYWRlciA9ICIgIgoKIiIgUGx1Z2luIFNldHRpbmdzCiIiID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CnNldCBzdXJyb3VuZApzZXQgaGlnaGxpZ2h0ZWR5YW5rCnNldCBjb21tZW50YXJ5CnNldCBORVJEVHJlZQpzZXQgd2hpY2gta2V5CiIgV2hpY2gtS2V5IHRpbWVvdXQKc2V0IG5vdGltZW91dAoiIHNldCBlYXN5bW90aW9uCiIgRWFzeW1vdGlvbiBzZXR0aW5ncwoiIHNldCBub3RpbWVvdXQKCiIgV2hpY2gta2V5IHNldHRpbmdzCmxldCBnOldoaWNoS2V5X0ZvbnRTaXplID0gMTYKbGV0IGc6V2hpY2hLZXlfQ29tbWFuZENvbG9yID0gIiM0MWVhZDQiCmxldCBnOldoaWNoS2V5X1ByZWZpeENvbG9yID0gIiNmMzM1YjIiCmxldCBnOldoaWNoS2V5X1NvcnRPcmRlciA9ICJieV9rZXlfcHJlZml4X2ZpcnN0IgoKbGV0IGc6V2hpY2hLZXlEZXNjX2xlYWRlciA9ICI8bGVhZGVyPiBMZWFkZXIga2V5IgoKCiIiIEtleSBtYXBwaW5ncwoiIiA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQoKaW5vcmVtYXAgamsgPEVzYz4KCiIgU2hvdyBkZXNjcmlwdGlvbiBmb3IgRGlhZ25vc3RpY3MKbm1hcCA8bGVhZGVyPnNkIDxBY3Rpb24+KFNob3dFcnJvckRlc2NyaXB0aW9uKQoiIG5tYXAgPGxlYWRlcj48Uy1kPiA8QWN0aW9uPgoKIiBkZWxldGUgd29yZCBiYWNrd29yZHMiCm5tYXAgZHcgdmIiX2QKIiBzeXN0ZW0geWFuawp2bWFwIDxsZWFkZXI+eSAiK3kKdm1hcCA8bGVhZGVyPmQgIitkCnZtYXAgPGxlYWRlcj5QICIrUAp2bWFwIDxsZWFkZXI+cCAiK3AKCm5tYXAgPGxlYWRlcj5QICIrUApubWFwIDxsZWFkZXI+cCAiK3AKbm1hcCA8bGVhZGVyPnkgIit5eQoKIiBtb3ZlIHVwIGFuZCBkb3duCm5tYXAgPEMtZD4gPEMtZD56egpubWFwIDxDLXU+IDxDLXU+enoKCiIgVGFiIG5hdmlnYXRpb24Kbm5vcmVtYXAgPENTLWw+IDp0YWJuZXh0PENSPgpubm9yZW1hcCA8Q1MtaD4gOnRhYnByZXY8Q1I+CgoiIFBhbmUgbmF2aWdhdGlvbgoiIG5ub3JlbWFwIDxBLWg+IDxDLXc+aAoiIG5ub3JlbWFwIDxBLWw+IDxDLXc+bAoiIG5ub3JlbWFwIDxBLWs+IDxDLXc+awoiIG5ub3JlbWFwIDxBLWo+IDxDLXc+agoKIiBKdW1wIGJldHdlZW4gbWV0aG9kcwpubWFwIFtbIDxBY3Rpb24+KE1ldGhvZFVwKQpubWFwIF1dIDxBY3Rpb24+KE1ldGhvZERvd24pCgoiIGp1bW5wIHRvIGVuZC9zdGFydCBvZiBmdW5jdGlvbnMKIiBubm9yZW1hcCAlIDo8Q1MtTT4KCiIgRWFzeSB2aXN1YWwgaW5kZW50YXRpb24KIiBTaGZpdCArID4gb3IgPCB3aGVuIGluIHZpc3VhbCBtb2RlLgp2bm9yZW1hcCA8IDxndgp2bm9yZW1hcCA+ID5ndgoKdm5vcmVtYXAgPGxlYWRlcj5yIDxBY3Rpb24+KFJlcGxhY2UuLi4pCgoiIEV4ZWN1dGUgbWFjcm8gc2F2ZWQgaW4gJ3EnIHJlZ2lzdGVyCm5ub3JlbWFwIHFqIEBxCgoiIFBvcHVwIG5hdmlnYXRpb24KaW5vcmVtYXAgPEMtaj4gPEFjdGlvbj4oUG9wdXBNZW51LXNlbGVjdE5leHQpCmlub3JlbWFwIDxDLWs+IDxBY3Rpb24+KFBvcHVwTWVudS1zZWxlY3RQcmV2KQoKCiIiIExlYWRlciBjb21tYW5kcwoiIiA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQptYXAgPGxlYWRlcj5lIDxBY3Rpb24+KFByb2plY3REaXJlY3RvcnkpCgoiIEhhcnBvb24KIiA9PT09PT09PT09PT09PT09PT09PQptYXAgPGxlYWRlcj53IDxBY3Rpb24+KFNob3dIYXJwb29uKQptYXAgPGxlYWRlcj4xIDxBY3Rpb24+KEdvdG9IYXJwb29uMSkKbWFwIDxsZWFkZXI+MiA8QWN0aW9uPihHb3RvSGFycG9vbjIpCm1hcCA8bGVhZGVyPjMgPEFjdGlvbj4oR290b0hhcnBvb24zKQptYXAgPGxlYWRlcj40IDxBY3Rpb24+KEdvdG9IYXJwb29uNCkKbWFwIDxsZWFkZXI+NSA8QWN0aW9uPihHb3RvSGFycG9vbjUpCm1hcCA8VGFiPjEgPEFjdGlvbj4oU2V0SGFycG9vbjEpCm1hcCA8VGFiPjIgPEFjdGlvbj4oU2V0SGFycG9vbjIpCm1hcCA8VGFiPjMgPEFjdGlvbj4oU2V0SGFycG9vbjMpCm1hcCA8VGFiPjQgPEFjdGlvbj4oU2V0SGFycG9vbjQpCm1hcCA8VGFiPjUgPEFjdGlvbj4oU2V0SGFycG9vbjUpCgoiIENvbW1lbnQgbGluZXMKbWFwIDxsZWFkZXI+YyA8QWN0aW9uPihDb21tZW50QnlMaW5lQ29tbWVudCkKCiIgSnVtcCBhcm91bmQgd2l0aCBlYXN5bW90aW9uCiIgbWFwIDxsZWFkZXI+aiA8UGx1Zz4oZWFzeW1vdGlvbi1zKQoKIiBIaWdobGlnaHQKbWFwIDxsZWFkZXI+aCAidml3CgoiIEZvbGRpbmcKbWFwIDxsZWFkZXI+emMgOmFjdGlvbiBDb2xsYXBzZUFsbFJlZ2lvbnM8Q1I+Cm1hcCA8bGVhZGVyPnpvIDphY3Rpb24gRXhwYW5kQWxsUmVnaW9uczxDUj4KCiIgV2luZG93IHNwbGl0cwptYXAgPGxlYWRlcj48Uy1cPiA8QWN0aW9uPihTcGxpdFZlcnRpY2FsbHkpCm1hcCA8bGVhZGVyPi0gPEFjdGlvbj4oU3BsaXRIb3Jpem9udGFsbHkpCm1hcCA8bGVhZGVyPnd1IDxBY3Rpb24+KFVuc3BsaXQpCm1hcCA8bGVhZGVyPndtIDxBY3Rpb24+KE1vdmVFZGl0b3JUb09wcG9zaXRlVGFiR3JvdXApCgoiIERpc3BsYXkgb3B0aW9ucwptYXAgPGxlYWRlcj5kZCA8YWN0aW9uPihUb2dnbGVEaXN0cmFjdGlvbkZyZWVNb2RlKQptYXAgPGxlYWRlcj5keiA8YWN0aW9uPihUb2dnbGVaZW5Nb2RlKQptYXAgPGxlYWRlcj5kZiA8YWN0aW9uPihUb2dnbGVGdWxsU2NyZWVuKQoKIiBBY3Rpb25zCiIgSW50ZW50aW9uIGFjdGlvbiBsaWtlIGNvbnZlcnQgdG8gc3RyaW5nIGFuZCBzdWNoLgptYXAgPGxlYWRlcj5hbSA8YWN0aW9uPihTaG93SW50ZW50aW9uQWN0aW9ucykKbWFwIDxsZWFkZXI+c2cgPGFjdGlvbj4oU2VhcmNoRXZlcnl3aGVyZSkKCiIgRmlsZSBuYXZpZ2F0aW9uCm1hcCA8bGVhZGVyPnNmIDxhY3Rpb24+KEdvdG9GaWxlKQptYXAgPGxlYWRlcj5mciA8YWN0aW9uPihSZWNlbnRGaWxlcykKbWFwIDxsZWFkZXI+ZmMgPGFjdGlvbj4oRmluZEluUGF0aCkKbWFwIDxsZWFkZXI+PGxlYWRlcj4gPEFjdGlvbj4oU3dpdGNoZXIpCm1hcCA8bGVhZGVyPmZsIDxhY3Rpb24+KFJlY2VudExvY2F0aW9ucykKbWFwIDxsZWFkZXI+ZnMgPGFjdGlvbj4oTmV3U2NyYXRjaEZpbGUpCgoiIENsb3NlIGFjdGl2ZSB0YWIKbWFwIDxsZWFkZXI+cSA8YWN0aW9uPihDbG9zZUNvbnRlbnQpCgoiIFJlZmFjdG9yaW5nCm1hcCA8bGVhZGVyPnJuIDxBY3Rpb24+KFJlbmFtZUVsZW1lbnQpCm1hcCA8bGVhZGVyPnJtIDxBY3Rpb24+KEV4dHJhY3RNZXRob2QpCm1hcCA8bGVhZGVyPnJ2IDxBY3Rpb24+KEludHJvZHVjZVZhcmlhYmxlKQptYXAgPGxlYWRlcj5yZiA8QWN0aW9uPihJbnRyb2R1Y2VGaWVsZCkKbWFwIDxsZWFkZXI+cnMgPEFjdGlvbj4oQ2hhbmdlU2lnbmF0dXJlKQptYXAgPGxlYWRlcj5yciA8QWN0aW9uPihSZWZhY3RvcmluZ3MuUXVpY2tMaXN0UG9wdXBBY3Rpb24pCgoiIEdvIHRvIGNvZGUKbm1hcCA8bGVhZGVyPmdkIDxBY3Rpb24+KEdvdG9EZWNsYXJhdGlvbikKbm1hcCA8bGVhZGVyPmd5IDxBY3Rpb24+KEdvdG9UeXBlRGVjbGFyYXRpb24pCm5tYXAgPGxlYWRlcj5naSA8QWN0aW9uPihHb3RvSW1wbGVtZW50YXRpb24pCm5tYXAgPGxlYWRlcj5ndSA8QWN0aW9uPihTaG93VXNhZ2VzKQpubWFwIDxsZWFkZXI+Z3QgPEFjdGlvbj4oR290b1Rlc3QpCm5tYXAgPGxlYWRlcj5nZiA8QWN0aW9uPihCYWNrKQpubWFwIDxsZWFkZXI+Z2IgPEFjdGlvbj4oRm9yd2FyZCkKCiIgR28gdG8gbmV4dCBjaGFuZ2UgR2l0Cm5tYXAgPGxlYWRlcj5daCA8QWN0aW9uPihOZXh0Q2hhbmdlKQoKIiBHaXQgd2luZG93cwptYXAgPGxlYWRlcj5nYyA8QWN0aW9uPihDaGVja2luUHJvamVjdCkKbWFwIDxsZWFkZXI+Z3MgPEFjdGlvbj4oQWN0aXZhdGVWZXJzaW9uQ29udHJvbFRvb2xXaW5kb3cpCm1hcCA8bGVhZGVyPmdiIDxBY3Rpb24+KEdpdC5CcmFuY2hlcykK</text>
+      </register>
+      <register name="-" type="CHARACTER_WISE">
+        <text encoding="base64">Y29weTo=</text>
+      </register>
+      <register name="." type="CHARACTER_WISE">
+        <text encoding="base64">dQ==</text>
+      </register>
+      <register name="/" type="CHARACTER_WISE">
+        <text encoding="base64">aGFycG9vbg==</text>
+      </register>
+      <register name="0" type="LINE_WISE">
+        <text encoding="base64">bWFwIDxsZWFkZXI+MSA8QWN0aW9uPihHb3RvSGFycG9vbjEpCm1hcCA8bGVhZGVyPjIgPEFjdGlvbj4oR290b0hhcnBvb24yKQptYXAgPGxlYWRlcj4zIDxBY3Rpb24+KEdvdG9IYXJwb29uMykKbWFwIDxsZWFkZXI+NCA8QWN0aW9uPihHb3RvSGFycG9vbjQpCm1hcCA8bGVhZGVyPjUgPEFjdGlvbj4oR290b0hhcnBvb241KQo=</text>
+      </register>
+      <register name="1" type="LINE_WISE">
+        <text encoding="base64">c2V0IHdoaWNoLWtleQo=</text>
+      </register>
+      <register name="2" type="BLOCK_WISE">
+        <text encoding="base64">PGxlYWRlcj4KPGxlYWRlcj4KPGxlYWRlcj4KPGxlYWRlcj4KPGxlYWRlcj4=</text>
+      </register>
+      <register name="3" type="BLOCK_WISE">
+        <text encoding="base64">Ogo6CjoKOgo6</text>
+      </register>
+      <register name="4" type="LINE_WISE">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="LINE_WISE">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="6" type="LINE_WISE">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="LINE_WISE">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="w" type="CHARACTER_WISE">
+        <keys>
+          <key char="65535" code="9" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="65535" code="67" mods="130" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="65535" code="67" mods="130" />
+          <key char="112" code="0" mods="0" />
+          <key char="36" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="65535" code="67" mods="130" />
+          <key char="108" code="0" mods="0" />
+          <key char="113" code="0" mods="0" />
+        </keys>
+      </register>
+      <register name="8" type="LINE_WISE">
+        <text encoding="base64">RmF5ZS5sb2dnZXIgPSBMb2dnZXIubmV3KFNURE9VVCkK</text>
+      </register>
+      <register name="9" type="LINE_WISE">
+        <text encoding="base64">ICAgIHJldHVybgo=</text>
+      </register>
+      <register name=":" type="CHARACTER_WISE">
+        <text encoding="base64">dw==</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search encoding="base64">aGFycG9vbg==</last-search>
+      <last-offset encoding="base64" />
+      <last-pattern encoding="base64">aGFycG9vbg==</last-pattern>
+      <last-dir encoding="base64">MQ==</last-dir>
+      <show-last encoding="base64">dHJ1ZQ==</show-last>
+    </search>
+  </component>
+  <component name="VimVariables">
+    <vim-variables>
+      <variable key="widget_mode_theme_dark" value="Term" type="string" />
+    </vim-variables>
+  </component>
+</application>

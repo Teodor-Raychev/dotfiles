@@ -1,0 +1,361 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="dotfiles" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="1744i85jw5bfg" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Ruby/.rubocop.yml">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="130">
+              <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fish/config.fish">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="260">
+              <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$USER_HOME$/.rbenv/versions/3.3.0/lib/ruby/site_ruby/3.3.0/bundler/vendor/thor/lib/thor/actions/file_manipulation.rb">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="407">
+              <caret line="363" column="14" selection-start-line="363" selection-start-column="14" selection-end-line="363" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$USER_HOME$/.rbenv/versions/3.3.0/lib/ruby/3.3.0/bundler/vendor/thor/lib/thor/actions/file_manipulation.rb">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="66">
+              <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/iterm2_themes/ayu_mirage.itermcolors.xml">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="349">
+              <caret line="71" column="9" selection-start-line="71" selection-start-column="9" selection-end-line="71" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "Markdown": {
+      "usageCount": 5,
+      "lastUsed": 1714494773776
+    },
+    "WebPreview": {
+      "usageCount": 1,
+      "lastUsed": 1714131532812
+    },
+    "YAML": {
+      "usageCount": 8,
+      "lastUsed": 1714494740482
+    },
+    "textmate": {
+      "usageCount": 3,
+      "lastUsed": 1714494828303
+    },
+    "XML": {
+      "usageCount": 6,
+      "lastUsed": 1714494742372
+    },
+    "JavaScript": {
+      "usageCount": 4,
+      "lastUsed": 1714483077805
+    },
+    "PLAIN_TEXT": {
+      "usageCount": 4,
+      "lastUsed": 1714494786512
+    },
+    "Ruby": {
+      "usageCount": 2,
+      "lastUsed": 1714494935969
+    }
+  }
+}]]></component>
+  <component name="GitSEFilterConfiguration">{}</component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$USER_HOME$/.ideavimrc" />
+      <option value="$PROJECT_DIR$/Ruby/.rubocop.yml" />
+      <option value="$PROJECT_DIR$/fish/config.fish" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="JavaScript">
+      <summary usageCount="4" lastUsage="1714483077805" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="5" lastUsage="1714494773776" />
+    </language>
+    <language id="TEXT">
+      <summary usageCount="4" lastUsage="1714494786512" />
+    </language>
+    <language id="XML">
+      <summary usageCount="6" lastUsage="1714494742372" />
+    </language>
+    <language id="ruby">
+      <summary usageCount="2" lastUsage="1714494935969" />
+    </language>
+    <language id="textmate">
+      <summary usageCount="3" lastUsage="1714494828303" />
+    </language>
+    <language id="yaml">
+      <summary usageCount="8" lastUsage="1714494740485" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="dotfiles" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/teodor-raychev/pro/git/dotfiles}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dotfiles" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/teodor-raychev/pro/git/dotfiles}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/teodor-raychev/pro/git/dotfiles/fish}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dotfiles" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/teodor-raychev/pro/git/dotfiles}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/teodor-raychev/pro/git/dotfiles/gcalendar}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dotfiles" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/teodor-raychev/pro/git/dotfiles}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/teodor-raychev/pro/git/dotfiles/Ruby}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dotfiles" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/teodor-raychev/pro/git/dotfiles}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/teodor-raychev/pro/git/dotfiles/rubymine}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dotfiles" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/teodor-raychev/pro/git/dotfiles}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/teodor-raychev/pro/git/dotfiles/terminator}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dotfiles" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_MIGRATION_FIELDS" />
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$/../../playground/ember/relationship">
+        <shellCommand>
+          <arg value="/usr/bin/zsh" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5129000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info id="Pull Requests" show_stripe_button="false" />
+      <window_info id="Merge Requests" show_stripe_button="false" />
+      <window_info id="Learn" show_stripe_button="false" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18066406" />
+      <window_info id="Commit" order="1" weight="0.18066406" />
+      <window_info active="true" id="Bookmarks" order="2" side_tool="true" visible="true" weight="0.18066406" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" show_stripe_button="false" />
+      <window_info anchor="bottom" id="File Transfer" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.4447983" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="right" id="documentation.v2" show_stripe_button="false" side_tool="true" />
+      <window_info anchor="right" id="Coverage" show_stripe_button="false" side_tool="true" />
+      <window_info anchor="right" id="Endpoints" show_stripe_button="false" />
+      <window_info anchor="right" id="Notifications" order="0" weight="0.33027345" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.33035713" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <unified_weights bottom="0.4447983" left="0.18066406" right="0.33027345" />
+    </layoutV2>
+    <recentWindows>
+      <value>Bookmarks</value>
+      <value>Project</value>
+      <value>Terminal</value>
+      <value>Notifications</value>
+      <value>Commit</value>
+      <value>AIAssistant</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="3042" y="438" width="653" height="521" key="FileChooserDialogImpl.ideScale=110" timestamp="1714494964127">
+      <screen x="1920" y="27" width="2560" height="1413" />
+    </state>
+    <state x="3042" y="438" key="FileChooserDialogImpl.ideScale=110/1920.27.2560.1413/0.0.1920.1080/4480.0.1920.1080@1920.27.2560.1413" timestamp="1714494964127" />
+    <state x="3042" y="438" width="653" height="521" key="FileChooserDialogImpl.ideScale=110/1920.27.2560.1413/4480.0.1920.1080/0.0.1920.1080@1920.27.2560.1413" timestamp="1714141386733" />
+    <state x="2784" y="322" width="992" height="737" key="SettingsEditor" timestamp="1714131595567">
+      <screen x="1920" y="27" width="2560" height="1413" />
+    </state>
+    <state x="2471" y="231" width="1448" height="1113" key="SettingsEditor.ideScale=110" timestamp="1714140951749">
+      <screen x="1920" y="27" width="2560" height="1413" />
+    </state>
+    <state x="2471" y="231" width="1448" height="1113" key="SettingsEditor.ideScale=110/1920.27.2560.1413/4480.0.1920.1080/0.0.1920.1080@1920.27.2560.1413" timestamp="1714140951749" />
+    <state x="2784" y="322" width="992" height="737" key="SettingsEditor/1920.27.2560.1413/4480.0.1920.1080/0.0.1920.1080@1920.27.2560.1413" timestamp="1714131595567" />
+    <state width="518" height="526" key="SwitcherDM.ideScale=110" timestamp="1714494850012">
+      <screen x="1920" y="27" width="2560" height="1413" />
+    </state>
+    <state width="518" height="526" key="SwitcherDM.ideScale=110/1920.27.2560.1413/0.0.1920.1080/4480.0.1920.1080@1920.27.2560.1413" timestamp="1714494850012" />
+    <state width="518" height="526" key="SwitcherDM.ideScale=110/1920.27.2560.1413/4480.0.1920.1080/0.0.1920.1080@1920.27.2560.1413" timestamp="1714139279502" />
+    <state x="2933" y="442" width="524" height="589" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser.ideScale=110" timestamp="1714139864735">
+      <screen x="1920" y="27" width="2560" height="1413" />
+    </state>
+    <state x="2933" y="442" width="524" height="589" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser.ideScale=110/1920.27.2560.1413/4480.0.1920.1080/0.0.1920.1080@1920.27.2560.1413" timestamp="1714139864735" />
+    <state x="3020" y="563" width="819" height="592" key="org.intellij.images.editor.actions.BackgroundImageDialog.ideScale=110" timestamp="1714140392137">
+      <screen x="1920" y="27" width="2560" height="1413" />
+    </state>
+    <state x="3020" y="563" width="819" height="592" key="org.intellij.images.editor.actions.BackgroundImageDialog.ideScale=110/1920.27.2560.1413/4480.0.1920.1080/0.0.1920.1080@1920.27.2560.1413" timestamp="1714140392137" />
+    <state x="2863" y="333" width="699" height="716" key="search.everywhere.popup.ideScale=110" timestamp="1714494932183">
+      <screen x="1920" y="27" width="2560" height="1413" />
+    </state>
+    <state x="2863" y="333" width="699" height="716" key="search.everywhere.popup.ideScale=110/1920.27.2560.1413/0.0.1920.1080/4480.0.1920.1080@1920.27.2560.1413" timestamp="1714494932183" />
+    <state x="2863" y="333" width="688" height="716" key="search.everywhere.popup.ideScale=110/1920.27.2560.1413/4480.0.1920.1080/0.0.1920.1080@1920.27.2560.1413" timestamp="1714139893695" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/.ideavimrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ruby/.rspec">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hyper/.hyper.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="62" column="74" selection-start-line="62" selection-start-column="74" selection-end-line="62" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gcalendar/taks.ics">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="3" column="39" lean-forward="true" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_EDITOR_AND_PREVIEW" is_vertical_split="false">
+          <first_editor>
+            <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/terminator/config">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="27" column="12" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iterm2_themes/ayu_mirage.itermcolors.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="71" column="9" selection-start-line="71" selection-start-column="9" selection-end-line="71" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ruby/.rubocop.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fish/config.fish">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.rbenv/versions/3.3.0/lib/ruby/site_ruby/3.3.0/bundler/vendor/thor/lib/thor/actions/file_manipulation.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="363" column="14" selection-start-line="363" selection-start-column="14" selection-end-line="363" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.rbenv/versions/3.3.0/lib/ruby/3.3.0/bundler/vendor/thor/lib/thor/actions/file_manipulation.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,1008 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="bookmarks">
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/frontend/main_app/app/routes/application.js" />
+              <entry key="line" value="33" />
+            </attributes>
+            <option name="description" value="if (App.current_user.first_signin){" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+        </option>
+        <option name="name" value="solvace-source-master" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf ideFingerprint="ne991mwqwm1o" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+          <file>
+            <entry file="file://$USER_HOME$/.ideavimrc">
+              <provider editor-type-id="text-editor" selected="true">
+                <state relative-caret-position="-1591">
+                  <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/docker/Dockerfile">
+              <provider editor-type-id="text-editor" selected="true">
+                <state relative-caret-position="104">
+                  <caret line="4" selection-start-line="4" selection-end-line="4" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/app/controllers/analyses/bd_board_item_relationships_controller.rb">
+              <provider editor-type-id="text-editor" selected="true">
+                <state relative-caret-position="208">
+                  <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf ideFingerprint="ne991mwqwm1o" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+          <file current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Gemfile">
+              <provider editor-type-id="text-editor" selected="true">
+                <state relative-caret-position="624">
+                  <caret line="88" selection-start-line="88" selection-end-line="88" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file>
+            <entry file="file://$PROJECT_DIR$/app/views/layouts/_settings.html.erb">
+              <provider editor-type-id="text-editor" selected="true">
+                <state relative-caret-position="312">
+                  <caret line="12" column="38" lean-forward="true" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/private_pub.ru">
+              <provider editor-type-id="text-editor" selected="true">
+                <state relative-caret-position="390">
+                  <caret line="15" selection-start-line="15" selection-end-line="15" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file current-in-tab="false">
+            <entry file="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs33/kernel.rb">
+              <provider editor-type-id="text-editor" selected="true">
+                <state relative-caret-position="433">
+                  <caret line="2824" column="6" selection-start-line="2824" selection-start-column="6" selection-end-line="2824" selection-end-column="6" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "Ruby": {
+      "usageCount": 453,
+      "lastUsed": 1721910820051
+    },
+    "Markdown": {
+      "usageCount": 22,
+      "lastUsed": 1721841076386
+    },
+    "Dockerfile": {
+      "usageCount": 21,
+      "lastUsed": 1721909294648
+    },
+    "textmate": {
+      "usageCount": 42,
+      "lastUsed": 1721909294410
+    },
+    "RHTML": {
+      "usageCount": 33,
+      "lastUsed": 1721909295834
+    },
+    "Shell Script": {
+      "usageCount": 3,
+      "lastUsed": 1717163533967
+    },
+    "PLAIN_TEXT": {
+      "usageCount": 25,
+      "lastUsed": 1721816244585
+    },
+    "JSON": {
+      "usageCount": 5,
+      "lastUsed": 1721647536658
+    },
+    "Image": {
+      "usageCount": 33,
+      "lastUsed": 1718207931706
+    },
+    "WebPreview": {
+      "usageCount": 1,
+      "lastUsed": 1719409728002
+    },
+    "Handlebars/Mustache": {
+      "usageCount": 32,
+      "lastUsed": 1721740571015
+    },
+    "JavaScript": {
+      "usageCount": 269,
+      "lastUsed": 1721841076116
+    },
+    "YAML": {
+      "usageCount": 16,
+      "lastUsed": 1721841073113
+    },
+    "DIFF": {
+      "usageCount": 4,
+      "lastUsed": 1721910753140
+    },
+    "UML": {
+      "usageCount": 1,
+      "lastUsed": 1721233280704
+    },
+    "XML": {
+      "usageCount": 2,
+      "lastUsed": 1721816256188
+    },
+    "DockerIgnore file": {
+      "usageCount": 2,
+      "lastUsed": 1721235696620
+    },
+    "HTML": {
+      "usageCount": 3,
+      "lastUsed": 1721741062163
+    },
+    "TypeScript": {
+      "usageCount": 1,
+      "lastUsed": 1721648379066
+    },
+    "CSS": {
+      "usageCount": 6,
+      "lastUsed": 1721741047496
+    },
+    "RBS": {
+      "usageCount": 1,
+      "lastUsed": 1721731792395
+    },
+    "AUTO_DETECTED": {
+      "usageCount": 2,
+      "lastUsed": 1721834551340
+    }
+  }
+}]]></component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>thi</find>
+      <find>this</find>
+      <find>recent</find>
+      <find>splitjjj</find>
+      <find>project</find>
+      <find>belongs</find>
+      <find>pry</find>
+      <find>TOOD</find>
+      <find>Organization</find>
+      <find>find</find>
+      <find>jk</find>
+      <find>find_by</find>
+      <find>issue_user_relationships</find>
+      <find>parent_user</find>
+      <find>j</find>
+      <find>unbound</find>
+      <find>analysis.error</find>
+      <find>stage2</find>
+      <find>Engine</find>
+      <find>itemProp</find>
+      <find>gitlab</find>
+      <find>route</find>
+      <find>showAssignedTo</find>
+      <find>showAssignedT</find>
+      <find>selectedFile</find>
+      <find>ember</find>
+      <find>_sub</find>
+      <find>__subdomain</find>
+      <find>__organization</find>
+      <find>solr</find>
+      <find>solrjjkjkj</find>
+      <find>__settings</find>
+      <find>puma</find>
+      <find>pum</find>
+      <find>maximum_node</find>
+      <find>sf</find>
+      <find>harpo</find>
+      <find>split</find>
+      <find>S</find>
+      <find>backwords</find>
+      <find>h</find>
+      <find>viw</find>
+      <find />
+      <find>sd</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>botto</replace>
+      <replace>Monten</replace>
+      <replace>Montenu</replace>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/docker</dir>
+      <dir>$PROJECT_DIR$</dir>
+      <dir>$PROJECT_DIR$/config/environments</dir>
+      <dir>$PROJECT_DIR$/app/models</dir>
+      <dir>$PROJECT_DIR$/frontend/common-addon/app/templates/components</dir>
+      <dir>$PROJECT_DIR$/frontend/main_app/app/routes</dir>
+      <dir>$PROJECT_DIR$/app/controllers</dir>
+      <dir>$USER_HOME$</dir>
+    </dirStrings>
+  </component>
+  <component name="FindInProjectScope">
+    <option name="isProjectScope" value="true" />
+  </component>
+  <component name="GitBranchesPopupTreeState">
+    <expand>
+      <path>
+        <item name="TreeRoot" type="41d8a9c2:GitBranchesTreeModel$TreeRoot" />
+        <item name="LOCAL" type="ae103dac:GitBranchType" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="GitSEFilterConfiguration">{}</component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/spec/models/action_bd_meeting_group_relationship_spec.rb" />
+      <option value="$PROJECT_DIR$/frontend/toolkit/app/routes/application.js" />
+      <option value="$PROJECT_DIR$/app/models/bas_equivalent.rb" />
+      <option value="$PROJECT_DIR$/spec/services/bd_board/clone_service_spec.rb" />
+      <option value="$PROJECT_DIR$/app/controllers/as_roadmap_phases_controller.rb" />
+      <option value="$PROJECT_DIR$/app/controllers/admins_controller.rb" />
+      <option value="$PROJECT_DIR$/app/controllers/as_assessments/analyses_controller.rb" />
+      <option value="$PROJECT_DIR$/app/controllers/projects/analyses_controller.rb" />
+      <option value="$PROJECT_DIR$/frontend/main_app/app/models/analysis.js" />
+      <option value="$PROJECT_DIR$/frontend/main_app/app/models/bd-external-connection.js" />
+      <option value="$PROJECT_DIR$/public/assets/application_pdf-fa4481605eb9fa8428728ee840bbc7924a1e6fa96cd63eabe1fc8088fbae57ce.js" />
+      <option value="$PROJECT_DIR$/lib/nested_error_serializer.rb" />
+      <option value="$PROJECT_DIR$/spec/models/user_spec.rb" />
+      <option value="$PROJECT_DIR$/config/application.rb" />
+      <option value="$PROJECT_DIR$/app/controllers/analyses/bd_board_item_relationships_controller.rb" />
+      <option value="$PROJECT_DIR$/lib/tasks/generate_org.rake" />
+      <option value="$PROJECT_DIR$/docker/Dockerfile" />
+      <option value="$PROJECT_DIR$/app/controllers/actions/analyses_controller.rb" />
+      <option value="$PROJECT_DIR$/app/controllers/actions/activities_controller.rb" />
+      <option value="$PROJECT_DIR$/app/controllers/actions/owning_board_items_controller.rb" />
+      <option value="$PROJECT_DIR$/config/routes.rb" />
+      <option value="$PROJECT_DIR$/app/models/user.rb" />
+      <option value="$PROJECT_DIR$/lib/business_time.rb" />
+      <option value="$PROJECT_DIR$/frontend/common-addon/addon/components/breadcrumbs/bd-meeting-group.js" />
+      <option value="$PROJECT_DIR$/frontend/common-addon/app/templates/components/-analysis-thumbnail.hbs" />
+      <option value="$PROJECT_DIR$/frontend/main_app/app/models/user.js" />
+      <option value="$PROJECT_DIR$/frontend/main_app/app/controllers/issues/index.js" />
+      <option value="$PROJECT_DIR$/frontend/main_app/app/controllers/circle/issues.js" />
+      <option value="$PROJECT_DIR$/forked_gems.md" />
+      <option value="$PROJECT_DIR$/frontend/main_app/app/utils/get-property.js" />
+      <option value="$PROJECT_DIR$/frontend/main_app/app/app.js" />
+      <option value="$PROJECT_DIR$/frontend/main_app/app/services/analysis-status.js" />
+      <option value="$PROJECT_DIR$/frontend/main_app/app/templates/actions/actions.hbs" />
+      <option value="$PROJECT_DIR$/frontend/main_app/app/router.js" />
+      <option value="$PROJECT_DIR$/frontend/main_app/app/controllers/actions.js" />
+      <option value="$PROJECT_DIR$/frontend/main_app/app/components/meeting-participants-modal.js" />
+      <option value="$PROJECT_DIR$/frontend/main_app/app/controllers/meeting/show.js" />
+      <option value="$PROJECT_DIR$/db/migrate/20201106102901_add_parent_id_to_issues.rb" />
+      <option value="$PROJECT_DIR$/app/controllers/concerns/connection_concern.rb" />
+      <option value="$PROJECT_DIR$/frontend/main_app/config/environment.js" />
+      <option value="$PROJECT_DIR$/bin/serve" />
+      <option value="$PROJECT_DIR$/procfile.dev" />
+      <option value="$PROJECT_DIR$/Procfile.dev" />
+      <option value="$PROJECT_DIR$/app/controllers/application_controller.rb" />
+      <option value="$PROJECT_DIR$/config/private_pub.yml" />
+      <option value="$PROJECT_DIR$/README.md" />
+      <option value="$PROJECT_DIR$/app/controllers/organizations_controller.rb" />
+      <option value="$PROJECT_DIR$/app/views/layouts/_settings.html.erb" />
+      <option value="$PROJECT_DIR$/private_pub.ru" />
+      <option value="$PROJECT_DIR$/Gemfile" />
+      <option value="$USER_HOME$/.ideavimrc" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="CSS">
+      <summary usageCount="6" lastUsage="1721741047496" />
+    </language>
+    <language id="DockerIgnore">
+      <summary usageCount="2" lastUsage="1721235696620" />
+    </language>
+    <language id="Dockerfile">
+      <summary usageCount="21" lastUsage="1721909294648" />
+    </language>
+    <language id="HTML">
+      <summary usageCount="3" lastUsage="1721741062163" />
+    </language>
+    <language id="Handlebars">
+      <summary usageCount="32" lastUsage="1721740571015" />
+    </language>
+    <language id="JSON">
+      <summary usageCount="5" lastUsage="1721647536658" />
+    </language>
+    <language id="JavaScript">
+      <summary usageCount="269" lastUsage="1721841076116" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="22" lastUsage="1721841076386" />
+    </language>
+    <language id="RHTML">
+      <summary usageCount="33" lastUsage="1721909295834" />
+    </language>
+    <language id="Shell Script">
+      <summary usageCount="3" lastUsage="1717163533967" />
+    </language>
+    <language id="TEXT">
+      <summary usageCount="25" lastUsage="1721816244585" />
+    </language>
+    <language id="TypeScript">
+      <summary usageCount="1" lastUsage="1721648379066" />
+    </language>
+    <language id="XML">
+      <summary usageCount="2" lastUsage="1721816256188" />
+    </language>
+    <language id="ruby">
+      <summary usageCount="453" lastUsage="1721910820051" />
+    </language>
+    <language id="ruby.rbs">
+      <summary usageCount="1" lastUsage="1721731792395" />
+    </language>
+    <language id="textmate">
+      <summary usageCount="42" lastUsage="1721909294414" />
+    </language>
+    <language id="yaml">
+      <summary usageCount="16" lastUsage="1721841073113" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="solvace-source-master-audit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/teodor-raychev/pro/solvace-source-master-audit}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="solvace-source-master-audit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/teodor-raychev/pro/solvace-source-master-audit}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/teodor-raychev/pro/solvace-source-master-audit/.ruby-lsp}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="solvace-source-master-audit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/teodor-raychev/pro/solvace-source-master-audit}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/teodor-raychev/pro/solvace-source-master-audit/app}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="solvace-source-master-audit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/teodor-raychev/pro/solvace-source-master-audit}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/teodor-raychev/pro/solvace-source-master-audit/app}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/teodor-raychev/pro/solvace-source-master-audit/app/controllers}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="solvace-source-master-audit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/teodor-raychev/pro/solvace-source-master-audit}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/teodor-raychev/pro/solvace-source-master-audit/app}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/teodor-raychev/pro/solvace-source-master-audit/app/controllers}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/teodor-raychev/pro/solvace-source-master-audit/app/controllers/analyses}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <option name="allConfigurationsExpanded" value="true" />
+    <history>
+      <element setting="RSpec.User#unparticipate_meeting! removes relation between user and meeting" />
+    </history>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$">
+        <shellCommand>
+          <arg value="/usr/bin/zsh" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+  </component>
+  <component name="TestHistory">
+    <history-entry file="User#unparticipate_meeting!_removes_relation_between_user_and_meeting - 2024.07.17 at 19h 58m 11s.xml">
+      <configuration name="User#unparticipate_meeting! removes relation between user and meeting" configurationId="RSpecRunConfigurationType" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="96951000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info id="Bookmarks" show_stripe_button="false" side_tool="true" />
+      <window_info id="Merge Requests" show_stripe_button="false" />
+      <window_info id="Pull Requests" show_stripe_button="false" />
+      <window_info id="Learn" show_stripe_button="false" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15488282" />
+      <window_info id="Commit" order="1" weight="0.2529297" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" show_stripe_button="false" />
+      <window_info anchor="bottom" id="File Transfer" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.43630576" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.43630576" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.43630576" />
+      <window_info anchor="bottom" id="Run" order="4" show_stripe_button="false" weight="0.34784147" />
+      <window_info anchor="bottom" id="Services" order="5" weight="0.43630576" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.43630576" />
+      <window_info anchor="bottom" id="Find" order="7" show_stripe_button="false" weight="0.60828024" />
+      <window_info anchor="right" id="Endpoints" show_stripe_button="false" />
+      <window_info anchor="right" id="documentation.v2" show_stripe_button="false" side_tool="true" />
+      <window_info anchor="right" id="Coverage" show_stripe_button="false" side_tool="true" />
+      <window_info anchor="right" id="Notifications" order="0" weight="0.24785157" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.24785157" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <unified_weights bottom="0.43630576" left="0.15488282" right="0.24785157" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+      <value>Notifications</value>
+      <value>Version Control</value>
+      <value>TODO</value>
+      <value>Services</value>
+      <value>Problems View</value>
+      <value>Terminal</value>
+      <value>Find</value>
+      <value>AIAssistant</value>
+      <value>Run</value>
+      <value>Commit</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="555" y="196" width="800" height="721" key="#Plugins.ideScale=110" timestamp="1721747014221">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="555" y="196" width="800" height="721" key="#Plugins.ideScale=110/0.27.1920.1053@0.27.1920.1053" timestamp="1721747014221" />
+    <state x="2590" y="198" width="1002" height="825" key="#com.intellij.execution.impl.EditConfigurationsDialog.ideScale=110" timestamp="1721648009807">
+      <screen x="1920" y="27" width="2560" height="1413" />
+    </state>
+    <state x="2590" y="198" width="1002" height="825" key="#com.intellij.execution.impl.EditConfigurationsDialog.ideScale=110/1920.27.2560.1413/0.0.1920.1080/4480.0.1920.1080@1920.27.2560.1413" timestamp="1721648009807" />
+    <state x="2777" y="438" width="623" height="462" key="#com.intellij.fileTypes.FileTypeChooser.ideScale=110" timestamp="1721816244338">
+      <screen x="1920" y="27" width="2560" height="1413" />
+    </state>
+    <state x="643" y="333" width="623" height="448" key="#com.intellij.fileTypes.FileTypeChooser.ideScale=110/0.27.1920.1053@0.27.1920.1053" timestamp="1715262545644" />
+    <state x="2777" y="438" key="#com.intellij.fileTypes.FileTypeChooser.ideScale=110/1920.27.2560.1413/0.0.1920.1080/4480.0.1920.1080@1920.27.2560.1413" timestamp="1721235627479" />
+    <state x="2777" y="438" width="623" height="462" key="#com.intellij.fileTypes.FileTypeChooser.ideScale=110/1920.27.2560.1413/4480.0.1920.1080/0.0.1920.1080@1920.27.2560.1413" timestamp="1721816244338" />
+    <state x="2795" y="418" width="800" height="637" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog.ideScale=110" timestamp="1721908017288">
+      <screen x="1920" y="27" width="2560" height="1413" />
+    </state>
+    <state x="656" y="318" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog.ideScale=110/0.27.1920.1053@0.27.1920.1053" timestamp="1721748202536" />
+    <state x="2795" y="418" width="800" height="637" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog.ideScale=110/1920.27.2560.1413/0.0.1920.1080/4480.0.1920.1080@1920.27.2560.1413" timestamp="1721908017288" />
+    <state x="2795" y="418" width="800" height="637" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog.ideScale=110/1920.27.2560.1413/4480.0.1920.1080/0.0.1920.1080@1920.27.2560.1413" timestamp="1721315665305" />
+    <state x="2961" y="509" width="669" height="507" key="FileChooserDialogImpl.ideScale=110" timestamp="1721839746406">
+      <screen x="1920" y="27" width="2560" height="1413" />
+    </state>
+    <state x="781" y="386" width="621" height="368" key="FileChooserDialogImpl.ideScale=110/0.27.1920.1053@0.27.1920.1053" timestamp="1720016120981" />
+    <state x="2961" y="509" key="FileChooserDialogImpl.ideScale=110/1920.27.2560.1413/0.0.1920.1080/4480.0.1920.1080@1920.27.2560.1413" timestamp="1721234309276" />
+    <state x="2961" y="509" width="669" height="507" key="FileChooserDialogImpl.ideScale=110/1920.27.2560.1413/4480.0.1920.1080/0.0.1920.1080@1920.27.2560.1413" timestamp="1721839746406" />
+    <state width="2494" height="447" key="GridCell.Tab.0.bottom.ideScale=110" timestamp="1721235798363">
+      <screen x="1920" y="27" width="2560" height="1413" />
+    </state>
+    <state width="2494" height="447" key="GridCell.Tab.0.bottom.ideScale=110/1920.27.2560.1413/0.0.1920.1080/4480.0.1920.1080@1920.27.2560.1413" timestamp="1721235798363" />
+    <state width="2494" height="447" key="GridCell.Tab.0.center.ideScale=110" timestamp="1721235798362">
+      <screen x="1920" y="27" width="2560" height="1413" />
+    </state>
+    <state width="2494" height="447" key="GridCell.Tab.0.center.ideScale=110/1920.27.2560.1413/0.0.1920.1080/4480.0.1920.1080@1920.27.2560.1413" timestamp="1721235798362" />
+    <state width="2494" height="447" key="GridCell.Tab.0.left.ideScale=110" timestamp="1721235798362">
+      <screen x="1920" y="27" width="2560" height="1413" />
+    </state>
+    <state width="2494" height="447" key="GridCell.Tab.0.left.ideScale=110/1920.27.2560.1413/0.0.1920.1080/4480.0.1920.1080@1920.27.2560.1413" timestamp="1721235798362" />
+    <state width="2494" height="447" key="GridCell.Tab.0.right.ideScale=110" timestamp="1721235798363">
+      <screen x="1920" y="27" width="2560" height="1413" />
+    </state>
+    <state width="2494" height="447" key="GridCell.Tab.0.right.ideScale=110/1920.27.2560.1413/0.0.1920.1080/4480.0.1920.1080@1920.27.2560.1413" timestamp="1721235798363" />
+    <state width="2494" height="447" key="GridCell.Tab.1.bottom.ideScale=110" timestamp="1721235798363">
+      <screen x="1920" y="27" width="2560" height="1413" />
+    </state>
+    <state width="2494" height="447" key="GridCell.Tab.1.bottom.ideScale=110/1920.27.2560.1413/0.0.1920.1080/4480.0.1920.1080@1920.27.2560.1413" timestamp="1721235798363" />
+    <state width="2494" height="447" key="GridCell.Tab.1.center.ideScale=110" timestamp="1721235798363">
+      <screen x="1920" y="27" width="2560" height="1413" />
+    </state>
+    <state width="2494" height="447" key="GridCell.Tab.1.center.ideScale=110/1920.27.2560.1413/0.0.1920.1080/4480.0.1920.1080@1920.27.2560.1413" timestamp="1721235798363" />
+    <state width="2494" height="447" key="GridCell.Tab.1.left.ideScale=110" timestamp="1721235798363">
+      <screen x="1920" y="27" width="2560" height="1413" />
+    </state>
+    <state width="2494" height="447" key="GridCell.Tab.1.left.ideScale=110/1920.27.2560.1413/0.0.1920.1080/4480.0.1920.1080@1920.27.2560.1413" timestamp="1721235798363" />
+    <state width="2494" height="447" key="GridCell.Tab.1.right.ideScale=110" timestamp="1721235798363">
+      <screen x="1920" y="27" width="2560" height="1413" />
+    </state>
+    <state width="2494" height="447" key="GridCell.Tab.1.right.ideScale=110/1920.27.2560.1413/0.0.1920.1080/4480.0.1920.1080@1920.27.2560.1413" timestamp="1721235798363" />
+    <state x="3006" y="459" width="378" height="555" key="RollbackChangesDialog.ideScale=110" timestamp="1721841367945">
+      <screen x="1920" y="27" width="2560" height="1413" />
+    </state>
+    <state x="3006" y="459" width="378" height="555" key="RollbackChangesDialog.ideScale=110/1920.27.2560.1413/4480.0.1920.1080/0.0.1920.1080@1920.27.2560.1413" timestamp="1721841367945" />
+    <state x="2684" y="368" width="1116" height="737" key="SettingsEditor.ideScale=110" timestamp="1721910482825">
+      <screen x="1920" y="27" width="2560" height="1413" />
+    </state>
+    <state x="573" y="281" width="1201" height="737" key="SettingsEditor.ideScale=110/0.27.1920.1053@0.27.1920.1053" timestamp="1721747639083" />
+    <state x="2684" y="368" width="1116" height="737" key="SettingsEditor.ideScale=110/1920.27.2560.1413/0.0.1920.1080/4480.0.1920.1080@1920.27.2560.1413" timestamp="1721910482825" />
+    <state x="2367" y="304" width="1389" height="848" key="SettingsEditor.ideScale=110/1920.27.2560.1413/4480.0.1920.1080/0.0.1920.1080@1920.27.2560.1413" timestamp="1721840359857" />
+    <state x="2929" y="482" width="690" height="548" key="StructurePopup.ideScale=110" timestamp="1721816679110">
+      <screen x="1920" y="27" width="2560" height="1413" />
+    </state>
+    <state x="2929" y="482" width="540" height="548" key="StructurePopup.ideScale=110/1920.27.2560.1413/0.0.1920.1080/4480.0.1920.1080@1920.27.2560.1413" timestamp="1721647776372" />
+    <state x="2929" y="482" width="690" height="548" key="StructurePopup.ideScale=110/1920.27.2560.1413/4480.0.1920.1080/0.0.1920.1080@1920.27.2560.1413" timestamp="1721816679110" />
+    <state width="688" height="518" key="SwitcherDM.ideScale=110" timestamp="1721910801283">
+      <screen x="1920" y="27" width="2560" height="1413" />
+    </state>
+    <state width="516" height="386" key="SwitcherDM.ideScale=110/0.27.1920.1053@0.27.1920.1053" timestamp="1720016449359" />
+    <state width="688" height="518" key="SwitcherDM.ideScale=110/1920.27.2560.1413/0.0.1920.1080/4480.0.1920.1080@1920.27.2560.1413" timestamp="1721910801283" />
+    <state width="687" height="517" key="SwitcherDM.ideScale=110/1920.27.2560.1413/4480.0.1920.1080/0.0.1920.1080@1920.27.2560.1413" timestamp="1721841053588" />
+    <state x="2020" y="127" width="2360" height="1213" key="VCS.FileHistoryDialog.ideScale=110" timestamp="1721910985194">
+      <screen x="1920" y="27" width="2560" height="1413" />
+    </state>
+    <state x="2020" y="127" width="2360" height="1213" key="VCS.FileHistoryDialog.ideScale=110/1920.27.2560.1413/0.0.1920.1080/4480.0.1920.1080@1920.27.2560.1413" timestamp="1721910985193" />
+    <state x="2795" y="455" width="800" height="537" key="Vcs.Push.Dialog.v2.ideScale=110" timestamp="1721647055199">
+      <screen x="1920" y="27" width="2560" height="1413" />
+    </state>
+    <state x="2795" y="455" width="800" height="537" key="Vcs.Push.Dialog.v2.ideScale=110/1920.27.2560.1413/0.0.1920.1080/4480.0.1920.1080@1920.27.2560.1413" timestamp="1721647055199" />
+    <state x="2795" y="455" width="800" height="537" key="Vcs.Push.Dialog.v2.ideScale=110/1920.27.2560.1413/4480.0.1920.1080/0.0.1920.1080@1920.27.2560.1413" timestamp="1721315431443" />
+    <state x="2933" y="427" width="414" height="449" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser.ideScale=110" timestamp="1721910984834">
+      <screen x="1920" y="27" width="2560" height="1413" />
+    </state>
+    <state x="760" y="325" width="414" height="449" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser.ideScale=110/0.27.1920.1053@0.27.1920.1053" timestamp="1721401143597" />
+    <state x="2933" y="427" width="524" height="593" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser.ideScale=110/1920.27.2560.1413/0.0.1920.1080/4480.0.1920.1080@1920.27.2560.1413" timestamp="1721910984834" />
+    <state x="2933" y="427" width="524" height="593" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser.ideScale=110/1920.27.2560.1413/4480.0.1920.1080/0.0.1920.1080@1920.27.2560.1413" timestamp="1721840416066" />
+    <state x="2053" y="161" width="2294" height="1145" key="dock-window-1.ideScale=110" timestamp="1721235798646">
+      <screen x="1920" y="27" width="2560" height="1413" />
+    </state>
+    <state x="100" y="127" width="1720" height="853" key="dock-window-1.ideScale=110/0.27.1920.1053@0.27.1920.1053" timestamp="1720016368842" />
+    <state x="2053" y="161" width="2294" height="1145" key="dock-window-1.ideScale=110/1920.27.2560.1413/0.0.1920.1080/4480.0.1920.1080@1920.27.2560.1413" timestamp="1721235798646" />
+    <state x="2020" y="127" width="2360" height="1213" key="dock-window-2.ideScale=110" timestamp="1721235798646">
+      <screen x="1920" y="27" width="2560" height="1413" />
+    </state>
+    <state x="2020" y="127" width="2360" height="1213" key="dock-window-2.ideScale=110/1920.27.2560.1413/0.0.1920.1080/4480.0.1920.1080@1920.27.2560.1413" timestamp="1721235798646" />
+    <state x="2827" y="163" width="1030" height="1018" key="find.popup.ideScale=110" timestamp="1721895634644">
+      <screen x="1920" y="27" width="2560" height="1413" />
+    </state>
+    <state x="680" y="128" width="772" height="758" key="find.popup.ideScale=110/0.27.1920.1053@0.27.1920.1053" timestamp="1720020362655" />
+    <state x="2827" y="163" width="1030" height="1018" key="find.popup.ideScale=110/1920.27.2560.1413/0.0.1920.1080/4480.0.1920.1080@1920.27.2560.1413" timestamp="1721895634644" />
+    <state x="2826" y="162" width="887" height="1017" key="find.popup.ideScale=110/1920.27.2560.1413/4480.0.1920.1080/0.0.1920.1080@1920.27.2560.1413" timestamp="1721321021190" />
+    <state width="600" height="400" key="javadoc.popup.ideScale=110" timestamp="1721895841846">
+      <screen x="1920" y="27" width="2560" height="1413" />
+    </state>
+    <state width="600" height="400" key="javadoc.popup.ideScale=110/1920.27.2560.1413/0.0.1920.1080/4480.0.1920.1080@1920.27.2560.1413" timestamp="1721895841846" />
+    <state width="620" height="402" key="javadoc.popup.ideScale=110/1920.27.2560.1413/4480.0.1920.1080/0.0.1920.1080@1920.27.2560.1413" timestamp="1721299445349" />
+    <state x="2988" y="604" width="597" height="298" key="org.intellij.images.editor.actions.BackgroundImageDialog.ideScale=110" timestamp="1716463443375">
+      <screen x="1920" y="27" width="2560" height="1413" />
+    </state>
+    <state x="2988" y="604" width="597" height="298" key="org.intellij.images.editor.actions.BackgroundImageDialog.ideScale=110/1920.27.2560.1413/0.0.1920.1080/4480.0.1920.1080@1920.27.2560.1413" timestamp="1716463443375" />
+    <state x="2988" y="604" width="597" height="298" key="org.intellij.images.editor.actions.BackgroundImageDialog.ideScale=110/1920.27.2560.1413/4480.0.1920.1080/0.0.1920.1080@1920.27.2560.1413" timestamp="1715693314781" />
+    <state x="2849" y="467" width="700" height="530" key="recent.locations.popup.ideScale=110" timestamp="1721895647647">
+      <screen x="1920" y="27" width="2560" height="1413" />
+    </state>
+    <state x="2849" y="467" width="700" height="530" key="recent.locations.popup.ideScale=110/1920.27.2560.1413/0.0.1920.1080/4480.0.1920.1080@1920.27.2560.1413" timestamp="1721895647647" />
+    <state x="2849" y="467" width="700" height="530" key="recent.locations.popup.ideScale=110/1920.27.2560.1413/4480.0.1920.1080/0.0.1920.1080@1920.27.2560.1413" timestamp="1721301154079" />
+    <state x="708" y="266" width="672" height="697" key="run.anything.popup.ideScale=110" timestamp="1720020367860">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="708" y="266" width="672" height="697" key="run.anything.popup.ideScale=110/0.27.1920.1053@0.27.1920.1053" timestamp="1720020367860" />
+    <state x="2864" y="348" key="run.anything.popup.ideScale=110/1920.27.2560.1413/4480.0.1920.1080/0.0.1920.1080@1920.27.2560.1413" timestamp="1715687523285" />
+    <state x="2751" y="321" width="932" height="957" key="search.everywhere.popup.ideScale=110" timestamp="1721910939272">
+      <screen x="1920" y="27" width="2560" height="1413" />
+    </state>
+    <state x="623" y="246" width="699" height="713" key="search.everywhere.popup.ideScale=110/0.27.1920.1053@0.27.1920.1053" timestamp="1721747693269" />
+    <state x="2751" y="321" width="932" height="957" key="search.everywhere.popup.ideScale=110/1920.27.2560.1413/0.0.1920.1080/4480.0.1920.1080@1920.27.2560.1413" timestamp="1721910939272" />
+    <state x="2751" y="321" width="932" height="957" key="search.everywhere.popup.ideScale=110/1920.27.2560.1413/4480.0.1920.1080/0.0.1920.1080@1920.27.2560.1413" timestamp="1721839735034" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/frontend/main_app/app/controllers/messages/inbox.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/main_app/app/routes/settings.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/main_app/app/controllers/meeting/show.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="999">
+          <caret line="107" column="12" selection-start-line="107" selection-start-column="12" selection-end-line="107" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/schema.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="12" column="61" selection-start-line="12" selection-start-column="61" selection-end-line="12" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/migrate/20210604080315_add_auto_create_next_meeting_to_bd_meeting_group.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/migrate/20210105133633_drop_circle_comments_count.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/migrate/20210106154827_drop_legacy_columns_as_assessments.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/migrate/20210820103320_add_show_agenda_to_bd_meeting_groups.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/main_app/app/routes/message.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/migrate/20210401105406_add_formula_to_data_sources.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret column="59" selection-start-column="59" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/migrate/20201106102901_add_parent_id_to_issues.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/rails">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.rbenv/versions/3.3.0/lib/ruby/gems/3.3.0/gems/activerecord-7.1.3/lib/active_record/connection_adapters/abstract/schema_statements.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="559" column="6" selection-start-line="559" selection-start-column="6" selection-end-line="559" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/sessions_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="557">
+          <caret line="113" column="75" lean-forward="true" selection-start-line="113" selection-start-column="75" selection-end-line="113" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/helpers/private_pub_helper.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/migrate/20201013115749_add_show_value_to_bd_kpi_labels.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dump.rdb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solr_schema.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="154" column="4" selection-start-line="154" selection-start-column="4" selection-end-line="154" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/routes.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="124" selection-start-line="124" selection-end-line="124" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/static_pages_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/status.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.rbenv/versions/3.3.0/lib/ruby/gems/3.3.0/gems/actionpack-7.1.3/lib/action_controller/metal/instrumentation.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="881">
+          <caret line="100" column="6" selection-start-line="100" selection-start-column="6" selection-end-line="100" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/concerns/selected_locale_concern.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/concerns/webhooks_concern.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/concerns/connection_concern.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="676">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/helpers/sessions_helper.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="676">
+          <caret line="76" column="6" selection-start-line="76" selection-start-column="6" selection-end-line="76" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/tasks/generate_org.rake">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/serve">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker-compose.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="18" column="42" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Procfile.dev">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="1" column="60" selection-start-line="1" selection-start-column="60" selection-end-line="1" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/main_app/app/resolver.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/main_app/config/environment.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="20" column="49" lean-forward="true" selection-start-line="20" selection-start-column="49" selection-end-line="20" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/private_pub.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/locales/nl.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="598">
+          <caret line="178" column="4" selection-start-line="178" selection-start-column="4" selection-end-line="178" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/i18n-tasks.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3503">
+          <caret line="23" column="47" lean-forward="true" selection-start-line="23" selection-start-column="47" selection-end-line="23" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/tasks/generate_settings.rake">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1976">
+          <caret line="76" column="52" selection-start-line="76" selection-start-column="52" selection-end-line="76" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/tasks/generate_parents.rake">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="21" column="38" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/spring.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/organizations_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="781">
+          <caret line="31" column="8" lean-forward="true" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
+          <folding>
+            <element signature="e#1184#1213#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/database.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/circle_dimensions.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="18" column="41" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/main_app/dist/assets/vendor.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2010138">
+          <caret line="75683" selection-start-line="75683" selection-end-line="75683" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md" />
+    <entry file="file://$PROJECT_DIR$/app/controllers/application_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="77" column="53" selection-start-line="77" selection-start-column="53" selection-end-line="77" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs33/kernel.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="433">
+          <caret line="2824" column="6" selection-start-line="2824" selection-start-column="6" selection-end-line="2824" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="88" selection-start-line="88" selection-end-line="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/private_pub.ru">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/layouts/_settings.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="12" column="38" lean-forward="true" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/analyses/bd_board_item_relationships_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.ideavimrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1591">
+          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

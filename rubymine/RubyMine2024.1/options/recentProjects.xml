@@ -1,0 +1,105 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/pro/git/dotfiles">
+          <value>
+            <RecentProjectMetaInfo frameTitle="dotfiles – ~/.rbenv/versions/3.3.0/lib/ruby/3.3.0/bundler/vendor/thor/lib/thor/actions/file_manipulation.rb" projectWorkspaceId="2fdTreBdI29M1f4TRhbKrVBLC8i">
+              <option name="activationTimestamp" value="1714494967173" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RM-241.15989.113" />
+              <option name="buildTimestamp" value="1713982140000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="4" />
+              </option>
+              <frame x="1920" y="27" width="2560" height="1413" extendedState="6" />
+              <option name="productionCode" value="RM" />
+              <option name="projectOpenTimestamp" value="1714130155845" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/pro/solvace-source-master">
+          <value>
+            <RecentProjectMetaInfo frameTitle="solvace-source-master" projectWorkspaceId="2cJvNfRa0GTvk85guG5qNrLffol">
+              <option name="activationTimestamp" value="1718207952522" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RM-241.15989.113" />
+              <option name="buildTimestamp" value="1713982140000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="7" />
+              </option>
+              <frame x="1920" y="27" width="2560" height="1413" extendedState="6" />
+              <option name="productionCode" value="RM" />
+              <option name="projectOpenTimestamp" value="1717163534347" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/pro/playground/ember/full-stack-ember-rails/ideas">
+          <value>
+            <RecentProjectMetaInfo frameTitle="ideas – application.js" projectWorkspaceId="2hEc5MHwvnISQCGitSNa7Kd4wGX">
+              <option name="activationTimestamp" value="1719409579664" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RM-241.15989.113" />
+              <option name="buildTimestamp" value="1713982140000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="6" />
+              </option>
+              <frame x="1920" y="27" width="2560" height="1413" extendedState="6" />
+              <option name="productionCode" value="RM" />
+              <option name="projectOpenTimestamp" value="1719409551291" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/pro/playground/ruby_exercise/projects/turbo-stream-example">
+          <value>
+            <RecentProjectMetaInfo frameTitle="turbo-stream-example – Gemfile" projectWorkspaceId="2ixxNoGw02Y7qv5oJtbZuI05RMf">
+              <option name="activationTimestamp" value="1720446418736" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RM-241.15989.113" />
+              <option name="buildTimestamp" value="1713982140000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="7" />
+              </option>
+              <frame x="1920" y="27" width="2560" height="1413" extendedState="6" />
+              <option name="productionCode" value="RM" />
+              <option name="projectOpenTimestamp" value="1720445992401" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/pro/playground/ruby_exercise/projects/wire-stimulus-chat">
+          <value>
+            <RecentProjectMetaInfo frameTitle="wire-stimulus-chat – message.rb" projectWorkspaceId="2j0v2IWunge76DW29SnqJgBHbQX">
+              <option name="activationTimestamp" value="1720538050102" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RM-241.15989.113" />
+              <option name="buildTimestamp" value="1713982140000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="8" />
+              </option>
+              <frame x="2500" y="233" width="1400" height="1000" />
+              <option name="productionCode" value="RM" />
+              <option name="projectOpenTimestamp" value="1720536600466" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/pro/solvace-source-master-audit">
+          <value>
+            <RecentProjectMetaInfo frameTitle="solvace-source-master-audit – private_pub.ru" opened="true" projectWorkspaceId="2cJvNfRa0GTvk85guG5qNrLffol">
+              <option name="activationTimestamp" value="1721911319720" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RM-241.15989.113" />
+              <option name="buildTimestamp" value="1713982140000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="7" />
+              </option>
+              <frame x="1920" y="27" width="2560" height="1413" extendedState="6" />
+              <option name="productionCode" value="RM" />
+              <option name="projectOpenTimestamp" value="1721232824028" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/pro/solvace-source-master-audit" />
+  </component>
+</application>

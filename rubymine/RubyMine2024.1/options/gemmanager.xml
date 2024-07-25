@@ -1,0 +1,30 @@
+<application>
+  <component name="RubySdkGemsetsSettings">
+    <moduleSdks>
+      <map>
+        <entry key="solvace-source-master">
+          <value>
+            <list>
+              <option value="$USER_HOME$/.rbenv/versions/3.3.0/bin/ruby" />
+              <option value="$USER_HOME$/.rbenv/versions/3.3.1/bin/ruby" />
+            </list>
+          </value>
+        </entry>
+      </map>
+    </moduleSdks>
+    <sdkGemsets>
+      <map>
+        <entry key="$USER_HOME$/.rbenv/versions/3.3.0/bin/ruby">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/.rbenv/versions/3.3.1/bin/ruby">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </sdkGemsets>
+  </component>
+</application>

@@ -1,0 +1,258 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="wire-stimulus-chat" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="2mpnxsxiflxf">
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider editor-type-id="split-provider[text-editor;markdown-preview-editor]" selected="true">
+            <state split_layout="SHOW_EDITOR_AND_PREVIEW" is_vertical_split="false">
+              <first_editor relative-caret-position="416">
+                <caret line="16" column="51" selection-start-line="16" selection-start-column="51" selection-end-line="16" selection-end-column="51" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/controllers/messages_controller.rb">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="494">
+              <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/app/models/message.rb">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="572">
+              <caret line="19" column="2" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/messages/_controls.html.erb">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="120">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/pages/home.html.erb">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="416">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/messages/_from.html.erb">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="494">
+              <caret line="19" column="12" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/messages/_message.html.erb">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="572">
+              <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/messages/_chatbox.html.erb">
+          <provider editor-type-id="text-editor" selected="true" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "RHTML": {
+      "usageCount": 5,
+      "lastUsed": 1720536907100
+    },
+    "Ruby": {
+      "usageCount": 2,
+      "lastUsed": 1720536947938
+    },
+    "Markdown": {
+      "usageCount": 1,
+      "lastUsed": 1720536605675
+    }
+  }
+}]]></component>
+  <component name="GitSEFilterConfiguration"><![CDATA[{}]]></component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/app/controllers/messages_controller.rb" />
+      <option value="$PROJECT_DIR$/app/views/messages/_from.html.erb" />
+      <option value="$PROJECT_DIR$/app/views/messages/_message.html.erb" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="Markdown">
+      <summary usageCount="1" lastUsage="1720536605676" />
+    </language>
+    <language id="RHTML">
+      <summary usageCount="5" lastUsage="1720536907100" />
+    </language>
+    <language id="ruby">
+      <summary usageCount="2" lastUsage="1720536947939" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="wire-stimulus-chat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/teodor-raychev/pro/playground/ruby_exercise/projects/wire-stimulus-chat}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wire-stimulus-chat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/teodor-raychev/pro/playground/ruby_exercise/projects/wire-stimulus-chat}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/teodor-raychev/pro/playground/ruby_exercise/projects/wire-stimulus-chat/app}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wire-stimulus-chat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/teodor-raychev/pro/playground/ruby_exercise/projects/wire-stimulus-chat}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/teodor-raychev/pro/playground/ruby_exercise/projects/wire-stimulus-chat/app}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/teodor-raychev/pro/playground/ruby_exercise/projects/wire-stimulus-chat/app/views}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wire-stimulus-chat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/teodor-raychev/pro/playground/ruby_exercise/projects/wire-stimulus-chat}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/teodor-raychev/pro/playground/ruby_exercise/projects/wire-stimulus-chat/app}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/teodor-raychev/pro/playground/ruby_exercise/projects/wire-stimulus-chat/app/views}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/teodor-raychev/pro/playground/ruby_exercise/projects/wire-stimulus-chat/app/views/messages}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wire-stimulus-chat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/teodor-raychev/pro/playground/ruby_exercise/projects/wire-stimulus-chat}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/teodor-raychev/pro/playground/ruby_exercise/projects/wire-stimulus-chat/app}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/teodor-raychev/pro/playground/ruby_exercise/projects/wire-stimulus-chat/app/views}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/teodor-raychev/pro/playground/ruby_exercise/projects/wire-stimulus-chat/app/views/pages}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_MIGRATION_FIELDS" />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1157000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33035713" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <unified_weights left="0.33035713" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2863" y="338" width="672" height="692" key="search.everywhere.popup.ideScale=110" timestamp="1720536947790">
+      <screen x="1920" y="27" width="2560" height="1413" />
+    </state>
+    <state x="2863" y="338" width="672" height="692" key="search.everywhere.popup.ideScale=110/1920.27.2560.1413/0.0.1920.1080/4480.0.1920.1080@1920.27.2560.1413" timestamp="1720536947790" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/views/messages/_controls.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/pages/home.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/messages/_from.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="19" column="12" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/messages/_message.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/messages/_chatbox.html.erb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_EDITOR_AND_PREVIEW" is_vertical_split="false">
+          <first_editor relative-caret-position="416">
+            <caret line="16" column="51" lean-forward="true" selection-start-line="16" selection-start-column="51" selection-end-line="16" selection-end-column="51" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/messages_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/message.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="19" column="2" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

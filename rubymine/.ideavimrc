@@ -1,5 +1,8 @@
 "" ~/.ideavimrc
 
+" Set relative numbers:
+set relativenumber number
+
 "" General:
 " ===========================================================
 set scrolloff=10
@@ -18,12 +21,13 @@ let mapleader = " "
 
 "" Plugin Settings
 "" ========================================================
-
 set surround
 set highlightedyank
 set commentary
 set NERDTree
 set which-key
+" Which-Key timeout
+set notimeout
 " set easymotion
 " Easymotion settings
 " set notimeout
@@ -36,10 +40,15 @@ let g:WhichKey_SortOrder = "by_key_prefix_first"
 
 let g:WhichKeyDesc_leader = "<leader> Leader key"
 
+
 "" Key mappings
 "" ========================================================
 
 inoremap jk <Esc>
+
+" Show description for Diagnostics
+nmap <leader>sd <Action>(ShowErrorDescription)
+" nmap <leader><S-d> <Action>
 
 " delete word backwords"
 nmap dw vb"_d
@@ -57,7 +66,7 @@ nmap <leader>y "+yy
 nmap <C-d> <C-d>zz
 nmap <C-u> <C-u>zz
 
-" Tab navigation 
+" Tab navigation
 nnoremap <CS-l> :tabnext<CR>
 nnoremap <CS-h> :tabprev<CR>
 
@@ -68,13 +77,18 @@ nnoremap <CS-h> :tabprev<CR>
 " nnoremap <A-j> <C-w>j
 
 " Jump between methods
-nnoremap [[ <Action>(MethodUp)
-nnoremap ]] <Action>(MethodDown)
+nmap [[ <Action>(MethodUp)
+nmap ]] <Action>(MethodDown)
+
+" jumnp to end/start of functions
+" nnoremap % :<CS-M>
 
 " Easy visual indentation
 " Shfit + > or < when in visual mode.
 vnoremap < <gv
 vnoremap > >gv
+
+vnoremap <leader>r <Action>(Replace...)
 
 " Execute macro saved in 'q' register
 nnoremap qj @q
@@ -86,26 +100,38 @@ inoremap <C-k> <Action>(PopupMenu-selectPrev)
 
 "" Leader commands
 "" ========================================================
+map <leader>e <Action>(ProjectDirectory)
+
+" Harpoon
+" ====================
+map <leader>w <Action>(ShowHarpoon)
+map <leader>1 <Action>(GotoHarpoon1)
+map <leader>2 <Action>(GotoHarpoon2)
+map <leader>3 <Action>(GotoHarpoon3)
+map <leader>4 <Action>(GotoHarpoon4)
+map <leader>5 <Action>(GotoHarpoon5)
+map <Tab>1 <Action>(SetHarpoon1)
+map <Tab>2 <Action>(SetHarpoon2)
+map <Tab>3 <Action>(SetHarpoon3)
+map <Tab>4 <Action>(SetHarpoon4)
+map <Tab>5 <Action>(SetHarpoon5)
 
 " Comment lines
-map <leader>c <action>(CommentByLineComment)
+map <leader>c <Action>(CommentByLineComment)
 
 " Jump around with easymotion
-map <leader>j <Plug>(easymotion-s)
+" map <leader>j <Plug>(easymotion-s)
 
-" Open NERDTree (use q to exit)
-" map <leader>e :NERDTreeToggle<CR>
-
-" Highlight copy:
-nmap <leader>h "viw<leader>y
+" Highlight
+map <leader>h "viw
 
 " Folding
 map <leader>zc :action CollapseAllRegions<CR>
 map <leader>zo :action ExpandAllRegions<CR>
 
 " Window splits
-map <leader>wv <Action>(SplitVertically)
-map <leader>ws <Action>(SplitHorizontally)
+map <leader><S-\> <Action>(SplitVertically)
+map <leader>- <Action>(SplitHorizontally)
 map <leader>wu <Action>(Unsplit)
 map <leader>wm <Action>(MoveEditorToOppositeTabGroup)
 
@@ -117,13 +143,13 @@ map <leader>df <action>(ToggleFullScreen)
 " Actions
 " Intention action like convert to string and such.
 map <leader>am <action>(ShowIntentionActions)
-map <leader>as <action>(SearchEverywhere)
+map <leader>sg <action>(SearchEverywhere)
 
 " File navigation
-map <leader>ff <action>(GotoFile)
+map <leader>sf <action>(GotoFile)
 map <leader>fr <action>(RecentFiles)
 map <leader>fc <action>(FindInPath)
-map <leader><leader> <Action>(RecentFiles)
+map <leader><leader> <Action>(Switcher)
 map <leader>fl <action>(RecentLocations)
 map <leader>fs <action>(NewScratchFile)
 
@@ -147,7 +173,11 @@ nmap <leader>gt <Action>(GotoTest)
 nmap <leader>gf <Action>(Back)
 nmap <leader>gb <Action>(Forward)
 
+" Go to next change Git
+nmap <leader>]h <Action>(NextChange)
+
 " Git windows
 map <leader>gc <Action>(CheckinProject)
 map <leader>gs <Action>(ActivateVersionControlToolWindow)
 map <leader>gb <Action>(Git.Branches)
+

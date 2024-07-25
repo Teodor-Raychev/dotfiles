@@ -1,0 +1,126 @@
+<application>
+  <component name="ActionHistoryManager">
+    <ids>
+      <option value="Replace" />
+      <option value="ActivateProjectToolWindow" />
+      <option value="EditorGutterToggleGlobalLineNumbers" />
+      <option value="MethodDown" />
+      <option value="SplitVertically" />
+      <option value="VimFindActionIdAction" />
+    </ids>
+  </component>
+  <component name="FileEditorProviderManager">{
+  &quot;selectedProviders&quot;: {
+    &quot;text-editor,scripted-data-editor&quot;: &quot;text-editor&quot;
+  }
+}</component>
+  <component name="LangManager">
+    <option name="languageName" value="ruby" />
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontFace" value="Arimo Nerd Font Propo" />
+    <option name="fontSize" value="13.0" />
+    <option name="ideScale" value="1.1" />
+    <option name="presentationModeIdeScale" value="1.75" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "AFTER.DISTRACTION.MODE.ARE_GUTTER_ICONS_SHOWN": "false",
+    "AFTER.DISTRACTION.MODE.ARE_LINE_NUMBERS_SHOWN": "true",
+    "AFTER.DISTRACTION.MODE.EDITOR_TAB_PLACEMENT": "0",
+    "AFTER.DISTRACTION.MODE.HIDE_TOOL_STRIPES": "true",
+    "AFTER.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN": "false",
+    "AFTER.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN_ONLY_ON_HOVER": "false",
+    "AFTER.DISTRACTION.MODE.IS_INDENT_GUIDES_SHOWN": "false",
+    "AFTER.DISTRACTION.MODE.IS_RIGHT_MARGIN_SHOWN": "false",
+    "AFTER.DISTRACTION.MODE.IS_WHITESPACES_SHOWN": "false",
+    "AFTER.DISTRACTION.MODE.SHOW_BREADCRUMBS": "false",
+    "AFTER.DISTRACTION.MODE.SHOW_MAIN_TOOLBAR": "false",
+    "AFTER.DISTRACTION.MODE.SHOW_METHOD_SEPARATORS": "false",
+    "AFTER.DISTRACTION.MODE.SHOW_NAVIGATION_BAR": "true",
+    "AFTER.DISTRACTION.MODE.SHOW_NEW_MAIN_TOOLBAR": "false",
+    "AFTER.DISTRACTION.MODE.SHOW_STATUS_BAR": "true",
+    "BEFORE.DISTRACTION.MODE.ARE_GUTTER_ICONS_SHOWN": "true",
+    "BEFORE.DISTRACTION.MODE.ARE_LINE_NUMBERS_SHOWN": "true",
+    "BEFORE.DISTRACTION.MODE.EDITOR_TAB_PLACEMENT": "1",
+    "BEFORE.DISTRACTION.MODE.HIDE_TOOL_STRIPES": "false",
+    "BEFORE.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN": "true",
+    "BEFORE.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN_ONLY_ON_HOVER": "true",
+    "BEFORE.DISTRACTION.MODE.IS_INDENT_GUIDES_SHOWN": "true",
+    "BEFORE.DISTRACTION.MODE.IS_RIGHT_MARGIN_SHOWN": "true",
+    "BEFORE.DISTRACTION.MODE.IS_WHITESPACES_SHOWN": "false",
+    "BEFORE.DISTRACTION.MODE.SHOW_BREADCRUMBS": "true",
+    "BEFORE.DISTRACTION.MODE.SHOW_MAIN_TOOLBAR": "false",
+    "BEFORE.DISTRACTION.MODE.SHOW_METHOD_SEPARATORS": "false",
+    "BEFORE.DISTRACTION.MODE.SHOW_NAVIGATION_BAR": "true",
+    "BEFORE.DISTRACTION.MODE.SHOW_NEW_MAIN_TOOLBAR": "false",
+    "BEFORE.DISTRACTION.MODE.SHOW_STATUS_BAR": "true",
+    "DISTRACTION.MODE.ENTER.VALUE": "false",
+    "FindSplitterProportion": "0.33135313",
+    "GeneralSettings.initiallyConfigured": "true",
+    "InstalledPluginsSearchHistory": "Whic\nWh\nWhich\nWhi\nW",
+    "KEYMAP": "hightligh\nShow Harpo\nproject\nHarpoon\nCtrl",
+    "LAST_CALCULATED_COLOR_INDEX_KEY": "0",
+    "LAST_EXTRACTOR_SCRIPTS_CLEANUP_VERSION/data/aggregators": "RM-241.15989.113",
+    "Markdown Split EditorLayout": "Editor and Preview",
+    "MarketplacePluginsSearchHistory": "Which\nHarpoon\nthem\nth\nember",
+    "PluginConfigurable.selectionTab": "1",
+    "RSpecSupport.openFailureLine": "false",
+    "RunOnceActivity.llm.installer.activate.toolwindow": "true",
+    "SHELLCHECK.PATH": "/home/teodor-raychev/.local/share/JetBrains/RubyMine2024.1/Shell Script/shellcheck",
+    "SettingsSearchHistory": "keymap\nnext usage\nctrl+ F4\nkeym\nplugi",
+    "TextEditorWithPreview.SplitterProportionKey": "0.49908593",
+    "ask.about.ctrl.y.shortcut.v2": "true",
+    "enter_selection_count": "4",
+    "evlsprt3.241": "5",
+    "experimental.ui.on.first.startup": "true",
+    "experimental.ui.used.version": "241.15989.113",
+    "fileTypeChangedCounter": "3",
+    "fontSizeToResetConsole": "12.0",
+    "fontSizeToResetEditor": "12.0",
+    "got.it.tooltip.new.terminal.promotion": "1",
+    "got.it.tooltip.reader.mode.got.it": "1",
+    "got.it.tooltip.speed.search.shown": "1",
+    "ide.memory.adjusted": "true",
+    "idea.background.editor": "/home/teodor-raychev/Documents/bg/twilight_blue_moon_mountains-HD_Space_Wallpapers_blur.jpg,0,scale,center",
+    "ideavim.statistics.timestamp": "1721908000704",
+    "input.method.disabler.muted": "true",
+    "last_opened_file_path": "/home/teodor-raychev/pro/playground/ruby_exercise/projects/wire-stimulus-chat",
+    "llm.installer.last.toolwindow.state": "LLM_INSTALLER",
+    "migrated.non.roamable.values.from.general.settings": "true",
+    "mt.autoReset": "true",
+    "mt.showStatisticsAgreement": "true",
+    "org.intellij.images.editor.actions.BackgroundImageDialog#recent": "/home/teodor-raychev/Documents/bg/daniel-leone-v7daTKlZzaw-unsplash.jpg\n/home/teodor-raychev/Documents/bg/antonio-grosz-Wc-1sAv4cn4-unsplash.jpg\n/home/teodor-raychev/Documents/bg/twilight_blue_moon_mountains-HD_Space_Wallpapers_blur.jpg\n/home/teodor-raychev/Documents/bg/twilight_blue_moon_mountains-HD_Space_Wallpapers Wallpaper_2560x1600[10wallpaper.com].jpg",
+    "previousColorScheme": "Material Palenight copy1",
+    "registry.to.advanced.settings.migration.build": "RM-241.15989.113",
+    "tab_selection_count": "1",
+    "ts.lib.d.ts.version": "5.4.3"
+  },
+  "keyToStringList": {
+    "file.chooser.recent.files": [
+      "/home/teodor-raychev/pro/solvace-source-master-audit-natural/solvace-source-master",
+      "/home/teodor-raychev/pro/playground/ruby_exercise/projects/wire-stimulus-chat",
+      "/home/teodor-raychev/pro/playground/ruby_exercise/projects/turbo-stream-example",
+      "/home/teodor-raychev/pro/solvace-source-master-audit",
+      "/home/teodor-raychev/pro/playground/ember/full-stack-ember-rails/ideas",
+      "/home/teodor-raychev/Documents/bg/twilight_blue_moon_mountains-HD_Space_Wallpapers_blur.jpg",
+      "/home/teodor-raychev/Documents/bg/twilight_blue_moon_mountains-HD_Space_Wallpapers Wallpaper_2560x1600[10wallpaper.com].jpg",
+      "/home/teodor-raychev/Documents/themes/Material_Palenight.icls",
+      "/home/teodor-raychev/pro/solvace-source-master",
+      "/home/teodor-raychev/Documents/bg/antonio-grosz-Wc-1sAv4cn4-unsplash.jpg",
+      "/home/teodor-raychev/Documents/bg/daniel-leone-v7daTKlZzaw-unsplash.jpg",
+      "/home/teodor-raychev/pro/git/dotfiles/rubymine/Material_Palenight_ruby_mine.icls",
+      "/home/teodor-raychev/pro/git/dotfiles"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.intellij.docker.dockerFile.DockerFileTypeDetector",
+      "com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector",
+      "com.intellij.database.vfs.DbStorageFileType$Detector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+</application>
