@@ -8,10 +8,11 @@ TODO: add more configs.
 
 ```shell
 .
+├── fish
+│   └── config.fish
 ├── gcalendar
 │   └── taks.ics
 ├── hyper
-│   └── .hyper.js
 ├── iterm2_themes
 │   ├── ayu_mirage.itermcolors.xml
 │   ├── neo_bones.itermcolors.xml
@@ -20,24 +21,47 @@ TODO: add more configs.
 │   ├── tokyonight-storm.itermcolors.xml
 │   ├── whimsy.itermcolors.xml
 │   └── wild_cherry.itermcolors.xml
+├── lynx
+│   ├── lynx
+│   └── lynx.lss
 ├── pycharm
 │   ├── Material_Palenight.icls
 │   └── Material_Palenight_original.icls
+├── README.md
 ├── Ruby
-│   ├── .rspec
-│   ├── .rubocop.yml
-│   ├── .solargraph.yml
 │   └── unicorn_config.rb
 ├── rubymine
-│   ├── .ideavimrc
-│   └── Material_Palenight_ruby_mine.icls
+│   ├── Material_Palenight_ruby_mine.icls
+│   └── RubyMine2024.1
+│       ├── app-internal-state.db
+│       ├── bundled_plugins.txt
+│       ├── codestyles
+│       ├── colors
+│       ├── disabled_update.txt
+│       ├── early-access-registry.txt
+│       ├── event-log-metadata
+│       ├── extensions
+│       ├── jdbc-drivers
+│       ├── keymaps
+│       ├── options
+│       ├── plugin_PCWMP.license
+│       ├── rubymine64.vmoptions
+│       ├── rubymine.key
+│       ├── ssl
+│       ├── tasks
+│       ├── updatedBrokenPlugins.db
+│       ├── user.web.token
+│       └── workspace
 ├── tabby
 │   └── config.yaml
 ├── terminator
 │   └── config
+├── tmux
+│   ├── plugins
+│   │   ├── catppuccin
+│   │   └── tpm
+│   └── tmux.conf
 ├── vs_code_config
 │   └── settings.json
 └── zsh
-    └── .zshrc
-
 ```
