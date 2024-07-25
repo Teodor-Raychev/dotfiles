@@ -32,8 +32,8 @@
           <file>
             <entry file="file://$USER_HOME$/.ideavimrc">
               <provider editor-type-id="text-editor" selected="true">
-                <state relative-caret-position="-1591">
-                  <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+                <state relative-caret-position="572">
+                  <caret line="58" selection-start-line="58" selection-end-line="58" />
                 </state>
               </provider>
             </entry>
@@ -41,8 +41,8 @@
           <file current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/docker/Dockerfile">
               <provider editor-type-id="text-editor" selected="true">
-                <state relative-caret-position="104">
-                  <caret line="4" selection-start-line="4" selection-end-line="4" />
+                <state relative-caret-position="676">
+                  <caret line="62" selection-start-line="62" selection-end-line="62" />
                 </state>
               </provider>
             </entry>
@@ -50,7 +50,7 @@
           <file current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/app/controllers/analyses/bd_board_item_relationships_controller.rb">
               <provider editor-type-id="text-editor" selected="true">
-                <state relative-caret-position="208">
+                <state relative-caret-position="182">
                   <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
                 </state>
               </provider>
@@ -62,18 +62,14 @@
         <leaf ideFingerprint="ne991mwqwm1o" SIDE_TABS_SIZE_LIMIT_KEY="-1">
           <file current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/Gemfile">
-              <provider editor-type-id="text-editor" selected="true">
-                <state relative-caret-position="624">
-                  <caret line="88" selection-start-line="88" selection-end-line="88" />
-                </state>
-              </provider>
+              <provider editor-type-id="text-editor" selected="true" />
             </entry>
           </file>
-          <file>
+          <file current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/app/views/layouts/_settings.html.erb">
               <provider editor-type-id="text-editor" selected="true">
-                <state relative-caret-position="312">
-                  <caret line="12" column="38" lean-forward="true" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+                <state relative-caret-position="624">
+                  <caret line="106" column="4" selection-start-line="106" selection-start-column="4" selection-end-line="106" selection-end-column="4" />
                 </state>
               </provider>
             </entry>
@@ -81,17 +77,26 @@
           <file current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/private_pub.ru">
               <provider editor-type-id="text-editor" selected="true">
-                <state relative-caret-position="390">
-                  <caret line="15" selection-start-line="15" selection-end-line="15" />
+                <state relative-caret-position="260">
+                  <caret line="10" selection-start-line="10" selection-end-line="10" />
                 </state>
               </provider>
             </entry>
           </file>
           <file current-in-tab="false">
-            <entry file="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs33/kernel.rb">
+            <entry file="file://$PROJECT_DIR$/app/controllers/application_controller.rb">
               <provider editor-type-id="text-editor" selected="true">
-                <state relative-caret-position="433">
-                  <caret line="2824" column="6" selection-start-line="2824" selection-start-column="6" selection-end-line="2824" selection-end-column="6" />
+                <state relative-caret-position="390">
+                  <caret line="81" column="48" selection-start-line="81" selection-start-column="48" selection-end-line="81" selection-end-column="48" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file>
+            <entry file="file://$PROJECT_DIR$/app/controllers/users_controller.rb">
+              <provider editor-type-id="text-editor" selected="true">
+                <state relative-caret-position="182">
+                  <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
                 </state>
               </provider>
             </entry>
@@ -103,24 +108,24 @@
   <component name="FileTypeUsageLocalSummary"><![CDATA[{
   "data": {
     "Ruby": {
-      "usageCount": 453,
-      "lastUsed": 1721910820051
+      "usageCount": 459,
+      "lastUsed": 1721913492107
     },
     "Markdown": {
       "usageCount": 22,
       "lastUsed": 1721841076386
     },
     "Dockerfile": {
-      "usageCount": 21,
-      "lastUsed": 1721909294648
+      "usageCount": 22,
+      "lastUsed": 1721913194728
     },
     "textmate": {
-      "usageCount": 42,
-      "lastUsed": 1721909294410
+      "usageCount": 43,
+      "lastUsed": 1721913194506
     },
     "RHTML": {
-      "usageCount": 33,
-      "lastUsed": 1721909295834
+      "usageCount": 34,
+      "lastUsed": 1721913195778
     },
     "Shell Script": {
       "usageCount": 3,
@@ -236,8 +241,9 @@
       <find>backwords</find>
       <find>h</find>
       <find>viw</find>
-      <find />
       <find>sd</find>
+      <find />
+      <find>A-j</find>
     </findStrings>
     <replaceStrings>
       <replace>botto</replace>
@@ -318,10 +324,10 @@
       <option value="$PROJECT_DIR$/config/private_pub.yml" />
       <option value="$PROJECT_DIR$/README.md" />
       <option value="$PROJECT_DIR$/app/controllers/organizations_controller.rb" />
-      <option value="$PROJECT_DIR$/app/views/layouts/_settings.html.erb" />
-      <option value="$PROJECT_DIR$/private_pub.ru" />
       <option value="$PROJECT_DIR$/Gemfile" />
+      <option value="$PROJECT_DIR$/app/views/layouts/_settings.html.erb" />
       <option value="$USER_HOME$/.ideavimrc" />
+      <option value="$PROJECT_DIR$/private_pub.ru" />
     </changedPaths>
   </component>
   <component name="IgnoredFileRootStore">
@@ -339,7 +345,7 @@
       <summary usageCount="2" lastUsage="1721235696620" />
     </language>
     <language id="Dockerfile">
-      <summary usageCount="21" lastUsage="1721909294648" />
+      <summary usageCount="22" lastUsage="1721913194728" />
     </language>
     <language id="HTML">
       <summary usageCount="3" lastUsage="1721741062163" />
@@ -357,7 +363,7 @@
       <summary usageCount="22" lastUsage="1721841076386" />
     </language>
     <language id="RHTML">
-      <summary usageCount="33" lastUsage="1721909295834" />
+      <summary usageCount="34" lastUsage="1721913195778" />
     </language>
     <language id="Shell Script">
       <summary usageCount="3" lastUsage="1717163533967" />
@@ -372,13 +378,13 @@
       <summary usageCount="2" lastUsage="1721816256188" />
     </language>
     <language id="ruby">
-      <summary usageCount="453" lastUsage="1721910820051" />
+      <summary usageCount="459" lastUsage="1721913492107" />
     </language>
     <language id="ruby.rbs">
       <summary usageCount="1" lastUsage="1721731792395" />
     </language>
     <language id="textmate">
-      <summary usageCount="42" lastUsage="1721909294414" />
+      <summary usageCount="43" lastUsage="1721913194510" />
     </language>
     <language id="yaml">
       <summary usageCount="16" lastUsage="1721841073113" />
@@ -458,7 +464,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="96951000" />
+    <option name="totallyTimeSpent" value="98949000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -475,7 +481,7 @@
       <window_info id="Merge Requests" show_stripe_button="false" />
       <window_info id="Pull Requests" show_stripe_button="false" />
       <window_info id="Learn" show_stripe_button="false" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15488282" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.15488282" />
       <window_info id="Commit" order="1" weight="0.2529297" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
@@ -485,23 +491,25 @@
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" weight="0.43630576" />
       <window_info anchor="bottom" id="Terminal" order="3" weight="0.43630576" />
-      <window_info anchor="bottom" id="Run" order="4" show_stripe_button="false" weight="0.34784147" />
+      <window_info anchor="bottom" id="Run" order="4" visible="true" weight="0.43645835" />
       <window_info anchor="bottom" id="Services" order="5" weight="0.43630576" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.43630576" />
       <window_info anchor="bottom" id="Find" order="7" show_stripe_button="false" weight="0.60828024" />
       <window_info anchor="right" id="Endpoints" show_stripe_button="false" />
       <window_info anchor="right" id="documentation.v2" show_stripe_button="false" side_tool="true" />
       <window_info anchor="right" id="Coverage" show_stripe_button="false" side_tool="true" />
-      <window_info anchor="right" id="Notifications" order="0" weight="0.24785157" />
+      <window_info active="true" anchor="right" id="Notifications" order="0" visible="true" weight="0.24785157" />
       <window_info anchor="right" id="AIAssistant" order="1" weight="0.24785157" />
-      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.24785157" />
       <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
       <window_info anchor="right" id="Maven" order="4" weight="0.25" />
-      <unified_weights bottom="0.43630576" left="0.15488282" right="0.24785157" />
+      <unified_weights bottom="0.43645835" left="0.15488282" right="0.24785157" />
     </layoutV2>
     <recentWindows>
-      <value>Project</value>
+      <value>Run</value>
       <value>Notifications</value>
+      <value>Database</value>
+      <value>Project</value>
       <value>Version Control</value>
       <value>TODO</value>
       <value>Services</value>
@@ -509,7 +517,6 @@
       <value>Terminal</value>
       <value>Find</value>
       <value>AIAssistant</value>
-      <value>Run</value>
       <value>Commit</value>
     </recentWindows>
   </component>
@@ -534,11 +541,11 @@
     <state x="656" y="318" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog.ideScale=110/0.27.1920.1053@0.27.1920.1053" timestamp="1721748202536" />
     <state x="2795" y="418" width="800" height="637" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog.ideScale=110/1920.27.2560.1413/0.0.1920.1080/4480.0.1920.1080@1920.27.2560.1413" timestamp="1721908017288" />
     <state x="2795" y="418" width="800" height="637" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog.ideScale=110/1920.27.2560.1413/4480.0.1920.1080/0.0.1920.1080@1920.27.2560.1413" timestamp="1721315665305" />
-    <state x="2961" y="509" width="669" height="507" key="FileChooserDialogImpl.ideScale=110" timestamp="1721839746406">
+    <state x="2961" y="509" width="669" height="507" key="FileChooserDialogImpl.ideScale=110" timestamp="1721913299635">
       <screen x="1920" y="27" width="2560" height="1413" />
     </state>
     <state x="781" y="386" width="621" height="368" key="FileChooserDialogImpl.ideScale=110/0.27.1920.1053@0.27.1920.1053" timestamp="1720016120981" />
-    <state x="2961" y="509" key="FileChooserDialogImpl.ideScale=110/1920.27.2560.1413/0.0.1920.1080/4480.0.1920.1080@1920.27.2560.1413" timestamp="1721234309276" />
+    <state x="2961" y="509" key="FileChooserDialogImpl.ideScale=110/1920.27.2560.1413/0.0.1920.1080/4480.0.1920.1080@1920.27.2560.1413" timestamp="1721913299635" />
     <state x="2961" y="509" width="669" height="507" key="FileChooserDialogImpl.ideScale=110/1920.27.2560.1413/4480.0.1920.1080/0.0.1920.1080@1920.27.2560.1413" timestamp="1721839746406" />
     <state width="2494" height="447" key="GridCell.Tab.0.bottom.ideScale=110" timestamp="1721235798363">
       <screen x="1920" y="27" width="2560" height="1413" />
@@ -572,26 +579,30 @@
       <screen x="1920" y="27" width="2560" height="1413" />
     </state>
     <state width="2494" height="447" key="GridCell.Tab.1.right.ideScale=110/1920.27.2560.1413/0.0.1920.1080/4480.0.1920.1080@1920.27.2560.1413" timestamp="1721235798363" />
+    <state width="298" height="560" key="HiddenNamespacesPopup.ideScale=110" timestamp="1721914137205">
+      <screen x="1920" y="27" width="2560" height="1413" />
+    </state>
+    <state width="298" height="560" key="HiddenNamespacesPopup.ideScale=110/1920.27.2560.1413/0.0.1920.1080/4480.0.1920.1080@1920.27.2560.1413" timestamp="1721914137205" />
     <state x="3006" y="459" width="378" height="555" key="RollbackChangesDialog.ideScale=110" timestamp="1721841367945">
       <screen x="1920" y="27" width="2560" height="1413" />
     </state>
     <state x="3006" y="459" width="378" height="555" key="RollbackChangesDialog.ideScale=110/1920.27.2560.1413/4480.0.1920.1080/0.0.1920.1080@1920.27.2560.1413" timestamp="1721841367945" />
-    <state x="2684" y="368" width="1116" height="737" key="SettingsEditor.ideScale=110" timestamp="1721910482825">
+    <state x="2684" y="368" width="1116" height="737" key="SettingsEditor.ideScale=110" timestamp="1721913103802">
       <screen x="1920" y="27" width="2560" height="1413" />
     </state>
     <state x="573" y="281" width="1201" height="737" key="SettingsEditor.ideScale=110/0.27.1920.1053@0.27.1920.1053" timestamp="1721747639083" />
-    <state x="2684" y="368" width="1116" height="737" key="SettingsEditor.ideScale=110/1920.27.2560.1413/0.0.1920.1080/4480.0.1920.1080@1920.27.2560.1413" timestamp="1721910482825" />
+    <state x="2684" y="368" width="1116" height="737" key="SettingsEditor.ideScale=110/1920.27.2560.1413/0.0.1920.1080/4480.0.1920.1080@1920.27.2560.1413" timestamp="1721913103802" />
     <state x="2367" y="304" width="1389" height="848" key="SettingsEditor.ideScale=110/1920.27.2560.1413/4480.0.1920.1080/0.0.1920.1080@1920.27.2560.1413" timestamp="1721840359857" />
     <state x="2929" y="482" width="690" height="548" key="StructurePopup.ideScale=110" timestamp="1721816679110">
       <screen x="1920" y="27" width="2560" height="1413" />
     </state>
     <state x="2929" y="482" width="540" height="548" key="StructurePopup.ideScale=110/1920.27.2560.1413/0.0.1920.1080/4480.0.1920.1080@1920.27.2560.1413" timestamp="1721647776372" />
     <state x="2929" y="482" width="690" height="548" key="StructurePopup.ideScale=110/1920.27.2560.1413/4480.0.1920.1080/0.0.1920.1080@1920.27.2560.1413" timestamp="1721816679110" />
-    <state width="688" height="518" key="SwitcherDM.ideScale=110" timestamp="1721910801283">
+    <state width="688" height="518" key="SwitcherDM.ideScale=110" timestamp="1721914128706">
       <screen x="1920" y="27" width="2560" height="1413" />
     </state>
     <state width="516" height="386" key="SwitcherDM.ideScale=110/0.27.1920.1053@0.27.1920.1053" timestamp="1720016449359" />
-    <state width="688" height="518" key="SwitcherDM.ideScale=110/1920.27.2560.1413/0.0.1920.1080/4480.0.1920.1080@1920.27.2560.1413" timestamp="1721910801283" />
+    <state width="688" height="518" key="SwitcherDM.ideScale=110/1920.27.2560.1413/0.0.1920.1080/4480.0.1920.1080@1920.27.2560.1413" timestamp="1721914128706" />
     <state width="687" height="517" key="SwitcherDM.ideScale=110/1920.27.2560.1413/4480.0.1920.1080/0.0.1920.1080@1920.27.2560.1413" timestamp="1721841053588" />
     <state x="2020" y="127" width="2360" height="1213" key="VCS.FileHistoryDialog.ideScale=110" timestamp="1721910985194">
       <screen x="1920" y="27" width="2560" height="1413" />
@@ -602,11 +613,11 @@
     </state>
     <state x="2795" y="455" width="800" height="537" key="Vcs.Push.Dialog.v2.ideScale=110/1920.27.2560.1413/0.0.1920.1080/4480.0.1920.1080@1920.27.2560.1413" timestamp="1721647055199" />
     <state x="2795" y="455" width="800" height="537" key="Vcs.Push.Dialog.v2.ideScale=110/1920.27.2560.1413/4480.0.1920.1080/0.0.1920.1080@1920.27.2560.1413" timestamp="1721315431443" />
-    <state x="2933" y="427" width="414" height="449" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser.ideScale=110" timestamp="1721910984834">
+    <state x="2933" y="427" width="414" height="449" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser.ideScale=110" timestamp="1721912996594">
       <screen x="1920" y="27" width="2560" height="1413" />
     </state>
     <state x="760" y="325" width="414" height="449" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser.ideScale=110/0.27.1920.1053@0.27.1920.1053" timestamp="1721401143597" />
-    <state x="2933" y="427" width="524" height="593" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser.ideScale=110/1920.27.2560.1413/0.0.1920.1080/4480.0.1920.1080@1920.27.2560.1413" timestamp="1721910984834" />
+    <state x="2933" y="427" width="524" height="593" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser.ideScale=110/1920.27.2560.1413/0.0.1920.1080/4480.0.1920.1080@1920.27.2560.1413" timestamp="1721912996594" />
     <state x="2933" y="427" width="524" height="593" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser.ideScale=110/1920.27.2560.1413/4480.0.1920.1080/0.0.1920.1080@1920.27.2560.1413" timestamp="1721840416066" />
     <state x="2053" y="161" width="2294" height="1145" key="dock-window-1.ideScale=110" timestamp="1721235798646">
       <screen x="1920" y="27" width="2560" height="1413" />
@@ -623,10 +634,10 @@
     <state x="680" y="128" width="772" height="758" key="find.popup.ideScale=110/0.27.1920.1053@0.27.1920.1053" timestamp="1720020362655" />
     <state x="2827" y="163" width="1030" height="1018" key="find.popup.ideScale=110/1920.27.2560.1413/0.0.1920.1080/4480.0.1920.1080@1920.27.2560.1413" timestamp="1721895634644" />
     <state x="2826" y="162" width="887" height="1017" key="find.popup.ideScale=110/1920.27.2560.1413/4480.0.1920.1080/0.0.1920.1080@1920.27.2560.1413" timestamp="1721321021190" />
-    <state width="600" height="400" key="javadoc.popup.ideScale=110" timestamp="1721895841846">
+    <state width="600" height="400" key="javadoc.popup.ideScale=110" timestamp="1721913424210">
       <screen x="1920" y="27" width="2560" height="1413" />
     </state>
-    <state width="600" height="400" key="javadoc.popup.ideScale=110/1920.27.2560.1413/0.0.1920.1080/4480.0.1920.1080@1920.27.2560.1413" timestamp="1721895841846" />
+    <state width="600" height="400" key="javadoc.popup.ideScale=110/1920.27.2560.1413/0.0.1920.1080/4480.0.1920.1080@1920.27.2560.1413" timestamp="1721913424210" />
     <state width="620" height="402" key="javadoc.popup.ideScale=110/1920.27.2560.1413/4480.0.1920.1080/0.0.1920.1080@1920.27.2560.1413" timestamp="1721299445349" />
     <state x="2988" y="604" width="597" height="298" key="org.intellij.images.editor.actions.BackgroundImageDialog.ideScale=110" timestamp="1716463443375">
       <screen x="1920" y="27" width="2560" height="1413" />
@@ -643,21 +654,14 @@
     </state>
     <state x="708" y="266" width="672" height="697" key="run.anything.popup.ideScale=110/0.27.1920.1053@0.27.1920.1053" timestamp="1720020367860" />
     <state x="2864" y="348" key="run.anything.popup.ideScale=110/1920.27.2560.1413/4480.0.1920.1080/0.0.1920.1080@1920.27.2560.1413" timestamp="1715687523285" />
-    <state x="2751" y="321" width="932" height="957" key="search.everywhere.popup.ideScale=110" timestamp="1721910939272">
+    <state x="2751" y="321" width="932" height="957" key="search.everywhere.popup.ideScale=110" timestamp="1721913491981">
       <screen x="1920" y="27" width="2560" height="1413" />
     </state>
     <state x="623" y="246" width="699" height="713" key="search.everywhere.popup.ideScale=110/0.27.1920.1053@0.27.1920.1053" timestamp="1721747693269" />
-    <state x="2751" y="321" width="932" height="957" key="search.everywhere.popup.ideScale=110/1920.27.2560.1413/0.0.1920.1080/4480.0.1920.1080@1920.27.2560.1413" timestamp="1721910939272" />
+    <state x="2751" y="321" width="932" height="957" key="search.everywhere.popup.ideScale=110/1920.27.2560.1413/0.0.1920.1080/4480.0.1920.1080@1920.27.2560.1413" timestamp="1721913491981" />
     <state x="2751" y="321" width="932" height="957" key="search.everywhere.popup.ideScale=110/1920.27.2560.1413/4480.0.1920.1080/0.0.1920.1080@1920.27.2560.1413" timestamp="1721839735034" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/frontend/main_app/app/controllers/messages/inbox.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/frontend/main_app/app/routes/settings.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
@@ -933,13 +937,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md" />
-    <entry file="file://$PROJECT_DIR$/app/controllers/application_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="77" column="53" selection-start-line="77" selection-start-column="53" selection-end-line="77" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs33/kernel.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="433">
@@ -947,45 +944,55 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile">
+    <entry file="file://$PROJECT_DIR$/docker/Dockerfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="624">
-          <caret line="88" selection-start-line="88" selection-end-line="88" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/private_pub.ru">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/layouts/_settings.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="12" column="38" lean-forward="true" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+        <state relative-caret-position="676">
+          <caret line="62" selection-start-line="62" selection-end-line="62" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/analyses/bd_board_item_relationships_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
+        <state relative-caret-position="182">
           <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docker/Dockerfile">
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/layouts/_settings.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="624">
+          <caret line="106" column="4" selection-start-line="106" selection-start-column="4" selection-end-line="106" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/private_pub.ru">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/application_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="81" column="48" selection-start-line="81" selection-start-column="48" selection-end-line="81" selection-end-column="48" />
         </state>
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/.ideavimrc">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1591">
-          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+        <state relative-caret-position="572">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/users_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
         </state>
       </provider>
     </entry>

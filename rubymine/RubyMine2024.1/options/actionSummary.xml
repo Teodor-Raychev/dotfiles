@@ -22,7 +22,7 @@
       <i c="2" l="1721908629026" />
     </e>
     <e n="ActivateProjectToolWindow">
-      <i c="203" d="2" l="1721910812763" k="1715691868995" />
+      <i c="207" d="2" l="1721913434557" k="1715691868995" />
     </e>
     <e n="ActivateTODOToolWindow">
       <i c="1" l="1721909097676" />
@@ -43,7 +43,7 @@
       <i c="3" l="1721648046256" />
     </e>
     <e n="AutoIndentLines">
-      <i c="18" l="1721906189107" />
+      <i c="19" l="1721913164380" />
     </e>
     <e n="Back">
       <i c="17" l="1721910319852" />
@@ -94,7 +94,7 @@
       <i c="1" l="1721910725047" />
     </e>
     <e n="CompareTwoFiles">
-      <i c="11" l="1721839745671" />
+      <i c="12" l="1721913298695" />
     </e>
     <e n="ContextHelp">
       <i c="4" l="1721816411459" />
@@ -109,7 +109,7 @@
       <i c="3" l="1721235696540" />
     </e>
     <e n="EditorBackSpace">
-      <i c="2394" l="1721910809638" />
+      <i c="2437" l="1721913489815" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="14" l="1721905967453" />
@@ -136,13 +136,13 @@
       <i c="2" l="1721301474422" />
     </e>
     <e n="EditorDown">
-      <i c="52" l="1721906555050" />
+      <i c="53" l="1721912984004" />
     </e>
     <e n="EditorEnter">
-      <i c="163" l="1721908675743" />
+      <i c="171" l="1721913387811" />
     </e>
     <e n="EditorEscape">
-      <i c="1389" l="1721910959641" />
+      <i c="1420" l="1721914130930" />
     </e>
     <e n="EditorGutterToggleGlobalLineNumbers">
       <i c="1" d="1" l="1715692472794" k="1715692472794" />
@@ -166,7 +166,7 @@
       <i c="4" l="1721816608577" />
     </e>
     <e n="EditorRight">
-      <i c="10" l="1721841214301" />
+      <i c="14" l="1721913013905" />
     </e>
     <e n="EditorRightWithSelection">
       <i c="1" l="1721234037327" />
@@ -196,7 +196,7 @@
       <i c="5" l="1721302053443" />
     </e>
     <e n="EditorUp">
-      <i c="54" l="1721908088074" />
+      <i c="56" l="1721913005804" />
     </e>
     <e n="ExpandAll">
       <i c="1" l="1721839761474" />
@@ -220,7 +220,7 @@
       <i c="3" l="1721816678426" />
     </e>
     <e n="Find">
-      <i c="34" l="1721908504672" />
+      <i c="36" l="1721913063960" />
     </e>
     <e n="FindInPath">
       <i c="5" l="1721895629151" />
@@ -244,7 +244,7 @@
       <i c="3" l="1721910326058" />
     </e>
     <e n="GotoAction">
-      <i c="34" l="1721910936487" />
+      <i c="35" l="1721912848270" />
     </e>
     <e n="GotoClass">
       <i c="15" l="1721815197342" />
@@ -253,19 +253,19 @@
       <i c="189" l="1721910917692" />
     </e>
     <e n="GotoFile">
-      <i c="175" l="1721910802822" />
+      <i c="177" l="1721913481956" />
     </e>
     <e n="GotoHarpoon1">
-      <i c="8" l="1721906580865" />
+      <i c="19" l="1721913409713" />
     </e>
     <e n="GotoHarpoon2">
-      <i c="7" l="1721906586472" />
+      <i c="19" l="1721913408780" />
     </e>
     <e n="GotoHarpoon3">
-      <i c="8" l="1721906590394" />
+      <i c="15" l="1721913409143" />
     </e>
     <e n="GotoHarpoon4">
-      <i c="3" l="1721909210958" />
+      <i c="5" l="1721913259436" />
     </e>
     <e n="GotoImplementation">
       <i c="8" l="1721910294233" />
@@ -325,10 +325,10 @@
       <i c="3" l="1721746892842" />
     </e>
     <e n="MoveStatementDown">
-      <i c="158" l="1721906792845" />
+      <i c="168" l="1721913214414" />
     </e>
     <e n="MoveStatementUp">
-      <i c="70" l="1721906795247" />
+      <i c="80" l="1721913215054" />
     </e>
     <e n="NavBarLocationBottom">
       <i c="1" l="1715689265568" />
@@ -349,7 +349,7 @@
       <i c="1" l="1716469602559" />
     </e>
     <e n="PasteMultiple">
-      <i c="42" l="1721910965470" />
+      <i c="43" l="1721912995827" />
     </e>
     <e n="PreviousTab">
       <i c="4" l="1721647693136" />
@@ -361,10 +361,10 @@
       <i c="6" l="1721733213004" />
     </e>
     <e n="QuickJavaDoc">
-      <i c="487" l="1721910340999" />
+      <i c="491" l="1721913355603" />
     </e>
     <e n="QuickPreview">
-      <i c="7" l="1721895840858" />
+      <i c="8" l="1721913423207" />
     </e>
     <e n="RecentChanges">
       <i c="3" l="1721302297894" />
@@ -400,10 +400,10 @@
       <i c="1" l="1715687522275" />
     </e>
     <e n="SaveAll">
-      <i c="90" l="1721910675033" />
+      <i c="91" l="1721913180291" />
     </e>
     <e n="SearchEverywhere">
-      <i c="77" l="1721909008860" />
+      <i c="78" l="1721913486366" />
     </e>
     <e n="SelectAllOccurrences">
       <i c="6" l="1721315135909" />
@@ -412,16 +412,16 @@
       <i c="1" l="1721906106495" />
     </e>
     <e n="SelectNextOccurrence">
-      <i c="17" l="1721895536241" />
+      <i c="48" l="1721913059482" />
     </e>
     <e n="SetHarpoon1">
       <i c="2" l="1721906207932" />
     </e>
     <e n="SetHarpoon2">
-      <i c="1" l="1721906353615" />
+      <i c="2" l="1721913249270" />
     </e>
     <e n="SetHarpoon3">
-      <i c="1" l="1721906402566" />
+      <i c="2" l="1721913256007" />
     </e>
     <e n="SetHarpoon4">
       <i c="1" l="1721906546828" />
@@ -430,10 +430,10 @@
       <i c="22" l="1721908013161" />
     </e>
     <e n="ShowErrorDescription">
-      <i c="44" l="1721910826911" />
+      <i c="47" l="1721913358177" />
     </e>
     <e n="ShowHarpoon">
-      <i c="16" l="1721910174793" />
+      <i c="17" l="1721913222096" />
     </e>
     <e n="ShowIntentionActions">
       <i c="12" l="1721908621903" />
@@ -442,7 +442,7 @@
       <i c="12" l="1721834540728" />
     </e>
     <e n="ShowSettings">
-      <i c="96" l="1721910459788" />
+      <i c="97" l="1721913073449" />
     </e>
     <e n="ShowUmlDiagram">
       <i c="1" l="1721233277367" />
@@ -472,7 +472,7 @@
       <i c="4" l="1721316212653" />
     </e>
     <e n="Switcher">
-      <i c="133" l="1721910798820" />
+      <i c="138" l="1721914126286" />
     </e>
     <e n="SynchronizeCurrentFile">
       <i c="1" l="1721813989810" />
@@ -487,28 +487,28 @@
       <i c="11" l="1721302503666" />
     </e>
     <e n="ToggleDistractionFreeMode">
-      <i c="3" l="1721299056568" />
+      <i c="7" l="1721913455649" />
     </e>
     <e n="ToggleFullScreen">
-      <i c="2" l="1715689679329" />
+      <i c="5" l="1721913470214" />
     </e>
     <e n="ToggleLineBreakpoint">
       <i c="20" l="1721905979457" />
     </e>
     <e n="ToggleZenMode">
-      <i c="34" l="1721835602891" />
+      <i c="36" l="1721913444961" />
     </e>
     <e n="Tree-scrollDownChangeSelection">
-      <i c="31" l="1721839751605" />
+      <i c="40" l="1721913310755" />
     </e>
     <e n="Tree-scrollUpChangeSelection">
-      <i c="33" l="1721839751010" />
+      <i c="39" l="1721913311311" />
     </e>
     <e n="Tree-selectChild">
       <i c="5" l="1721815209314" />
     </e>
     <e n="Tree-selectNext">
-      <i c="1636" l="1721910819692" />
+      <i c="1645" l="1721913307790" />
     </e>
     <e n="Tree-selectNextSibling">
       <i c="1" l="1721813964336" />
@@ -541,7 +541,7 @@
       <i c="1" l="1715692709513" />
     </e>
     <e n="VimFindActionIdAction">
-      <i c="8" d="8" l="1721910938574" k="1721910938574" />
+      <i c="9" d="9" l="1721912853815" k="1721912853815" />
     </e>
     <e n="VimPluginToggle">
       <i c="2" l="1721908416115" />
@@ -589,7 +589,7 @@
       <i c="1" l="1721316226255" />
     </e>
     <e n="com.intellij.find.SearchReplaceComponent$CloseAction">
-      <i c="45" l="1721908508853" />
+      <i c="47" l="1721913068877" />
     </e>
     <e n="com.intellij.find.editorHeaderActions.NextOccurrenceAction">
       <i c="205" l="1721908235006" />
@@ -625,7 +625,7 @@
       <i c="1" l="1721648042795" />
     </e>
     <e n="com.intellij.openapi.actionSystem.AnActionWrapper">
-      <i c="13150" l="1721910957532" />
+      <i c="13349" l="1721913477901" />
     </e>
     <e n="com.intellij.openapi.actionSystem.EmptyAction">
       <i c="40" l="1721732619254" />
@@ -637,7 +637,7 @@
       <i c="7" l="1721818614599" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="165" l="1721910758758" />
+      <i c="166" l="1721913201647" />
     </e>
     <e n="com.intellij.openapi.keymap.impl.ui.KeymapPanel$AddAbbreviationAction">
       <i c="1" l="1715689436341" />
@@ -646,13 +646,13 @@
       <i c="22" l="1721840329545" />
     </e>
     <e n="com.intellij.openapi.keymap.impl.ui.KeymapPanel$RemoveShortcutAction">
-      <i c="5" l="1721813898733" />
+      <i c="6" l="1721913101659" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
-      <i c="388" l="1721910939268" />
+      <i c="391" l="1721913491973" />
     </e>
     <e n="com.intellij.openapi.project.LightEditActionFactory$SimpleLightEditCompatibleAction">
-      <i c="67" l="1721910801264" />
+      <i c="72" l="1721914128705" />
     </e>
     <e n="com.intellij.openapi.ui.DialogWrapper$5">
       <i c="2" l="1721834553538" />
@@ -679,7 +679,7 @@
       <i c="3" l="1721302603874" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="115" l="1721911329306" />
+      <i c="121" l="1721914149173" />
     </e>
     <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
       <i c="119" l="1721909053454" />
@@ -703,10 +703,10 @@
       <i c="2" l="1721742134238" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$ListMoveDownAction">
-      <i c="1108" l="1721910966904" />
+      <i c="1136" l="1721914124072" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$ListMoveUpAction">
-      <i c="610" l="1721910967220" />
+      <i c="624" l="1721914122855" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$TableMoveDownAction">
       <i c="574" l="1721910934624" />
@@ -721,16 +721,16 @@
       <i c="1" l="1714130125092" />
     </e>
     <e n="com.intellij.ui.tabs.impl.JBTabsImpl$SelectNextAction">
-      <i c="1524" l="1721910812146" />
+      <i c="1566" l="1721913476565" />
     </e>
     <e n="com.intellij.ui.tabs.impl.JBTabsImpl$SelectPreviousAction">
-      <i c="1642" l="1721910942604" />
+      <i c="1685" l="1721913475877" />
     </e>
     <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
       <i c="3" l="1721905980720" />
     </e>
     <e n="com.maddyhome.idea.vim.extension.nerdtree.NerdTree$NerdDispatcher">
-      <i c="2598" l="1721910819661" />
+      <i c="2607" l="1721913307789" />
     </e>
     <e n="com.maddyhome.idea.vim.group.NotificationService$OpenIdeaVimRcAction">
       <i c="10" l="1721841122942" />
@@ -745,7 +745,7 @@
       <i c="8" l="1721650925800" />
     </e>
     <e n="com.maddyhome.idea.vim.ui.ex.ExShortcutKeyAction">
-      <i c="218" l="1721910674870" />
+      <i c="219" l="1721913180168" />
     </e>
     <e n="com.mallowigi.idea.actions.statusbar.MTThemeAction">
       <i c="1" l="1714139256244" />
@@ -758,6 +758,12 @@
     </e>
     <e n="context.load">
       <i c="12" l="1721906520299" />
+    </e>
+    <e n="org.jetbrains.plugins.ruby.gem.bundler.actions.RunBundlerInstallAction">
+      <i c="1" l="1721914163455" />
+    </e>
+    <e n="org.jetbrains.plugins.ruby.gem.module.GemRequirementsChangeWatcher$MissingGemsNotification$1">
+      <i c="1" l="1721914163438" />
     </e>
     <e n="org.jetbrains.plugins.ruby.ruby.module.RubyModuleManager$MyNotification$1">
       <i c="1" l="1721648018106" />
