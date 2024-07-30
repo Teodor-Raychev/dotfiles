@@ -1,4 +1,4 @@
-"" ~/.ideavimrc
+ "" ~/.ideavimrc
 
 " Set relative numbers:
 set relativenumber number
@@ -26,19 +26,19 @@ set highlightedyank
 set commentary
 set NERDTree
 set which-key
-" Which-Key timeout
-set notimeout
+
 " set easymotion
 " Easymotion settings
 " set notimeout
 
 " Which-key settings
-let g:WhichKey_FontSize = 16
-let g:WhichKey_CommandColor = "#41ead4"
-let g:WhichKey_PrefixColor = "#f335b2"
+let g:WhichKey_FontSize = 12
+let g:WhichKey_CommandColor = "#5ef1ff"
+let g:WhichKey_PrefixColor = "#ff5ea0"
 let g:WhichKey_SortOrder = "by_key_prefix_first"
-
 let g:WhichKeyDesc_leader = "<leader> Leader key"
+" Which-Key timeout
+set notimeout
 
 
 "" Key mappings
@@ -127,16 +127,14 @@ map <leader>c <Action>(CommentByLineComment)
 " Jump around with easymotion
 " map <leader>j <Plug>(easymotion-s)
 
-" Highlight
-map <leader>h "viw
 
 " Folding
 map <leader>zc :action CollapseAllRegions<CR>
 map <leader>zo :action ExpandAllRegions<CR>
 
 " Window splits
-map <leader><S-\> <Action>(SplitVertically)
-map <leader>- <Action>(SplitHorizontally)
+nmap <leader>= <Action>(SplitVertically)
+nmap <leader>- <Action>(SplitHorizontally)
 map <leader>wu <Action>(Unsplit)
 map <leader>wm <Action>(MoveEditorToOppositeTabGroup)
 
@@ -149,6 +147,8 @@ map <leader>df <action>(ToggleFullScreen)
 " Intention action like convert to string and such.
 map <leader>am <action>(ShowIntentionActions)
 map <leader>sg <action>(SearchEverywhere)
+" Search for word under cursor:
+map <leader>sw viw<leader>sg
 
 " File navigation
 map <leader>sf <action>(GotoFile)
