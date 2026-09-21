@@ -1,0 +1,15 @@
+font-family = "Hack Nerd Font"
+font-size = 12
+shell-integration-features = no-cursor
+cursor-style = block
+cursor-click-to-move = true
+mouse-hide-while-typing = true
+adjust-cell-height = 15%
+
+# Themes cmd: ghostty +list-themes
+# theme = "Rose Pine"
+theme = "Dracula+"
+
+# Optional: Reset zoom to default
+keybind = ctrl+0=reset_font_size
+
